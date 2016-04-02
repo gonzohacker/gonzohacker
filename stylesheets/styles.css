@@ -822,10 +822,8 @@ section #title .credits.right {
   float: right;
 }
 
-.best-of {
-      list-style-image: none;
-      list-style:none;
-      display:flex;
+ul.best-of {
+  list-style:none;
 }
 
 .best-of-tweet {
