@@ -827,7 +827,9 @@ ul.best-of {
 }
 
 .best-of-tweet {
-  flex: 1;
+  display:inline-block;
+  margin: 0 auto;
+  padding: 5px;
   
 }
 
