@@ -312,6 +312,8 @@ dl,
 menu,
 ol,
 ul {
+  list-style: none;
+  list-style-image: none;
   margin: 1em 0;
 }
 
