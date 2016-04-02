@@ -822,6 +822,17 @@ section #title .credits.right {
   float: right;
 }
 
+.best-of {
+      list-style-image: none;
+      list-style:none;
+      display:flex;
+}
+
+.best-of-tweet {
+  flex: 1;
+  
+}
+
 @media print, screen and (max-width: 720px) {
   #title .credits {
     display: block;
