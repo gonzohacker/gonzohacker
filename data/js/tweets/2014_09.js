@@ -677,7 +677,7 @@ Grailbird.data.tweets_2014_09 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/515141411667075072\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/515141411667075072\/photo\/1",
       "indices" : [ 37, 59 ],
       "url" : "http:\/\/t.co\/7ovwxaTOWg",
       "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/ByYmYUxCUAAsbo5.png",
@@ -1045,7 +1045,7 @@ Grailbird.data.tweets_2014_09 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/513798591488331776\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/513798591488331776\/photo\/1",
       "indices" : [ 6, 28 ],
       "url" : "http:\/\/t.co\/OIyRtrjvcx",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/ByFhGG6CAAApt2D.jpg",
@@ -1446,7 +1446,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alvaro Skywalter",
+      "name" : "\u041E\u043B\u044C\u0432\u0430\u0440\u043E \u0412i\u0434\u0435\u043B\u044C\u043A\u043E",
       "screen_name" : "old_sound",
       "indices" : [ 0, 10 ],
       "id_str" : "16484216",
@@ -1655,7 +1655,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "tedder.me",
+      "name" : "\uD83D\uDC31 tedder \uD83D\uDC08",
       "screen_name" : "tedder42",
       "indices" : [ 0, 9 ],
       "id_str" : "14667502",
@@ -2074,7 +2074,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "woodworking ebooks",
+      "name" : "\u1D49\u02B3\u1DA6\u1D9C \u02B7\u1D52\u1D52\u1D48",
       "screen_name" : "eric_b_wood",
       "indices" : [ 0, 12 ],
       "id_str" : "110202631",
@@ -2129,7 +2129,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob",
+      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
       "screen_name" : "languagehacker",
       "indices" : [ 0, 15 ],
       "id_str" : "121556767",
@@ -2162,7 +2162,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob",
+      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
       "screen_name" : "languagehacker",
       "indices" : [ 0, 15 ],
       "id_str" : "121556767",
@@ -2350,7 +2350,7 @@ Grailbird.data.tweets_2014_09 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/510102790283071488\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/510102790283071488\/photo\/1",
       "indices" : [ 67, 89 ],
       "url" : "http:\/\/t.co\/ysIvEDwgMw",
       "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/BxQ_yHeCcAAuelg.png",
@@ -2449,7 +2449,7 @@ Grailbird.data.tweets_2014_09 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/509795665728114688\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/509795665728114688\/photo\/1",
       "indices" : [ 95, 117 ],
       "url" : "http:\/\/t.co\/M5gnP9qnhG",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BxModMrCMAAmT9k.png",
@@ -2547,7 +2547,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "andrea hickey",
+      "name" : "andrea",
       "screen_name" : "andrea_h1ckey",
       "indices" : [ 0, 14 ],
       "id_str" : "17772441",

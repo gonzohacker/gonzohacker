@@ -344,7 +344,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ashley Ross",
+      "name" : "sudorossy",
       "screen_name" : "sudorossy",
       "indices" : [ 0, 10 ],
       "id_str" : "775726754010914820",
@@ -497,7 +497,7 @@ Grailbird.data.tweets_2013_06 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/347900434335281153\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/347900434335281153\/photo\/1",
       "indices" : [ 19, 41 ],
       "url" : "http:\/\/t.co\/FUCdZX93Qa",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BNP9mg4CMAEnQSh.png",
@@ -907,7 +907,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "honkfestival",
       "protected" : false,
       "id_str" : "20342510",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000167159164\/955057f0ccf0a5de29283f16b72ba406_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/793414884910325760\/83-v1ULb_normal.jpg",
       "id" : 20342510,
       "verified" : false
     }
@@ -949,7 +949,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob",
+      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
       "screen_name" : "languagehacker",
       "indices" : [ 3, 18 ],
       "id_str" : "121556767",
@@ -998,11 +998,11 @@ Grailbird.data.tweets_2013_06 =
     "id" : 345332485632184320,
     "created_at" : "2013-06-14 00:10:55 +0000",
     "user" : {
-      "name" : "Bob",
+      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
       "screen_name" : "languagehacker",
       "protected" : false,
       "id_str" : "121556767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726934802197172224\/p2Gy_aaf_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800195290590347264\/jNa7PjJN_normal.jpg",
       "id" : 121556767,
       "verified" : false
     }
@@ -1268,7 +1268,13 @@ Grailbird.data.tweets_2013_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Mr COOL",
+      "screen_name" : "performancefart",
+      "indices" : [ 0, 16 ],
+      "id_str" : "793728234466619392",
+      "id" : 793728234466619392
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2256,7 +2262,7 @@ Grailbird.data.tweets_2013_06 =
       "id" : 36941760
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/344280718307885056\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/344280718307885056\/photo\/1",
       "indices" : [ 105, 127 ],
       "url" : "http:\/\/t.co\/CmCKKysvwT",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BMchfT4CAAAc6l4.png",
@@ -3127,7 +3133,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob",
+      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
       "screen_name" : "languagehacker",
       "indices" : [ 0, 15 ],
       "id_str" : "121556767",
@@ -3222,7 +3228,7 @@ Grailbird.data.tweets_2013_06 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/342119914900963329\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/342119914900963329\/photo\/1",
       "indices" : [ 27, 49 ],
       "url" : "http:\/\/t.co\/72Si5wkpTa",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BL90P_6CQAIT5z9.png",
@@ -3481,11 +3487,11 @@ Grailbird.data.tweets_2013_06 =
     "in_reply_to_screen_name" : "GonzoHacker",
     "in_reply_to_user_id_str" : "773009000",
     "user" : {
-      "name" : "mx jaso \u2728",
+      "name" : "be kind",
       "screen_name" : "jsdnxx",
       "protected" : false,
       "id_str" : "91704031",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/772268789727502336\/bI8h66e-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/797149151326662656\/Fu1BW3f2_normal.jpg",
       "id" : 91704031,
       "verified" : false
     }
@@ -3606,7 +3612,7 @@ Grailbird.data.tweets_2013_06 =
       "id_str" : "14052358",
       "id" : 14052358
     }, {
-      "name" : "Alvaro Skywalter",
+      "name" : "\u041E\u043B\u044C\u0432\u0430\u0440\u043E \u0412i\u0434\u0435\u043B\u044C\u043A\u043E",
       "screen_name" : "old_sound",
       "indices" : [ 22, 32 ],
       "id_str" : "16484216",
@@ -3639,7 +3645,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(((Brad Heintz)))",
+      "name" : "Nasty Hombre",
       "screen_name" : "bradheintz",
       "indices" : [ 0, 11 ],
       "id_str" : "2042451",
@@ -3789,7 +3795,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob",
+      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
       "screen_name" : "languagehacker",
       "indices" : [ 0, 15 ],
       "id_str" : "121556767",
@@ -3866,7 +3872,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alvaro Skywalter",
+      "name" : "\u041E\u043B\u044C\u0432\u0430\u0440\u043E \u0412i\u0434\u0435\u043B\u044C\u043A\u043E",
       "screen_name" : "old_sound",
       "indices" : [ 10, 20 ],
       "id_str" : "16484216",
@@ -4025,7 +4031,13 @@ Grailbird.data.tweets_2013_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Mr COOL",
+      "screen_name" : "performancefart",
+      "indices" : [ 0, 16 ],
+      "id_str" : "793728234466619392",
+      "id" : 793728234466619392
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4593,7 +4605,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob",
+      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
       "screen_name" : "languagehacker",
       "indices" : [ 0, 15 ],
       "id_str" : "121556767",

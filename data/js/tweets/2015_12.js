@@ -3,7 +3,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob",
+      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
       "screen_name" : "languagehacker",
       "indices" : [ 0, 15 ],
       "id_str" : "121556767",
@@ -58,7 +58,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "SwiftOnShitposting",
+      "name" : "SwiftOnSecurity",
       "screen_name" : "SwiftOnSecurity",
       "indices" : [ 0, 16 ],
       "id_str" : "2436389418",
@@ -343,7 +343,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "SwiftOnShitposting",
+      "name" : "SwiftOnSecurity",
       "screen_name" : "SwiftOnSecurity",
       "indices" : [ 0, 16 ],
       "id_str" : "2436389418",
@@ -1341,7 +1341,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/680467365243404288\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/680467365243404288\/photo\/1",
       "indices" : [ 24, 47 ],
       "url" : "https:\/\/t.co\/67mf7Nosma",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CXGBdnrUwAIztD-.png",
@@ -1656,7 +1656,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "SwiftOnShitposting",
+      "name" : "InfoSec Taylor Swift",
       "screen_name" : "SwiftOnSecurity",
       "indices" : [ 0, 16 ],
       "id_str" : "2436389418",
@@ -1734,7 +1734,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/679891881149374464\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/679891881149374464\/photo\/1",
       "indices" : [ 35, 58 ],
       "url" : "https:\/\/t.co\/DgyWtUMiAs",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CW92ECnUQAEq9Y6.png",
@@ -1814,7 +1814,7 @@ Grailbird.data.tweets_2015_12 =
       "id" : 21630029
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/Slade\/status\/679308834754732032\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/Slade\/status\/679308834754732032\/photo\/1",
       "indices" : [ 69, 92 ],
       "url" : "https:\/\/t.co\/gqxeBivAB6",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CW1jyR8UYAAcKs7.png",
@@ -1855,7 +1855,7 @@ Grailbird.data.tweets_2015_12 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/Slade\/status\/679308834754732032\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/Slade\/status\/679308834754732032\/photo\/1",
         "indices" : [ 58, 81 ],
         "url" : "https:\/\/t.co\/gqxeBivAB6",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CW1jyR8UYAAcKs7.png",
@@ -1898,7 +1898,7 @@ Grailbird.data.tweets_2015_12 =
       "screen_name" : "Slade",
       "protected" : false,
       "id_str" : "21630029",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/772831226755477504\/Es_6-scA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788482011392577536\/j8pOqnyN_normal.jpg",
       "id" : 21630029,
       "verified" : true
     }
@@ -1962,7 +1962,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "SwiftOnShitposting",
+      "name" : "SwiftOnSecurity",
       "screen_name" : "SwiftOnSecurity",
       "indices" : [ 0, 16 ],
       "id_str" : "2436389418",
@@ -2150,7 +2150,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chilljenn's menu",
+      "name" : "jennmoneydollars",
       "screen_name" : "jennschiffer",
       "indices" : [ 3, 16 ],
       "id_str" : "12524622",
@@ -2177,11 +2177,11 @@ Grailbird.data.tweets_2015_12 =
     "id" : 679446402100006913,
     "created_at" : "2015-12-22 23:40:20 +0000",
     "user" : {
-      "name" : "chilljenn's menu",
+      "name" : "jennmoneydollars",
       "screen_name" : "jennschiffer",
       "protected" : false,
       "id_str" : "12524622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/779032707141697536\/Nd4AuM-R_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/804394017077264384\/KHC9GVyZ_normal.jpg",
       "id" : 12524622,
       "verified" : false
     }
@@ -2365,7 +2365,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "duncan \u2691",
+      "name" : "meet ur comrades \u2691",
       "screen_name" : "publictransprt",
       "indices" : [ 0, 15 ],
       "id_str" : "110321887",
@@ -2398,7 +2398,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "duncan \u2691",
+      "name" : "meet ur comrades \u2691",
       "screen_name" : "publictransprt",
       "indices" : [ 0, 15 ],
       "id_str" : "110321887",
@@ -2431,7 +2431,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "duncan \u2691",
+      "name" : "meet ur comrades \u2691",
       "screen_name" : "publictransprt",
       "indices" : [ 0, 15 ],
       "id_str" : "110321887",
@@ -2557,7 +2557,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Potato Farmer",
+      "name" : "[Overwatch]\uD83C\uDF31",
       "screen_name" : "da_667",
       "indices" : [ 0, 7 ],
       "id_str" : "717353881",
@@ -2663,7 +2663,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "SwiftOnShitposting",
+      "name" : "SwiftOnSecurity",
       "screen_name" : "SwiftOnSecurity",
       "indices" : [ 0, 16 ],
       "id_str" : "2436389418",
@@ -2708,7 +2708,7 @@ Grailbird.data.tweets_2015_12 =
   "id" : 679109589686702080,
   "in_reply_to_status_id" : 679108954572660736,
   "created_at" : "2015-12-22 01:21:58 +0000",
-  "in_reply_to_screen_name" : "SaverOfGame",
+  "in_reply_to_screen_name" : "LoserOfGame",
   "in_reply_to_user_id_str" : "4324845134",
   "user" : {
     "name" : "GonzoHacker",
@@ -2955,7 +2955,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/678732069376122880\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/678732069376122880\/photo\/1",
       "indices" : [ 15, 38 ],
       "url" : "https:\/\/t.co\/4PO0Wg44rO",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CWtXNrFUYAEmRBJ.jpg",
@@ -3051,7 +3051,7 @@ Grailbird.data.tweets_2015_12 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/TVCommentBot\/status\/678602392972214272\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/TVCommentBot\/status\/678602392972214272\/photo\/1",
         "indices" : [ 101, 124 ],
         "url" : "https:\/\/t.co\/R33XX7ssC8",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CWrhR-wWoAEI858.jpg",
@@ -3374,7 +3374,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/678323970442027008\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/678323970442027008\/photo\/1",
       "indices" : [ 38, 61 ],
       "url" : "https:\/\/t.co\/glpvjVq6sa",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CWnkDnZUsAAXTba.jpg",
@@ -3426,7 +3426,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/678322901909540864\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/678322901909540864\/photo\/1",
       "indices" : [ 15, 38 ],
       "url" : "https:\/\/t.co\/1woCZ5Tl8t",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CWnjFa9U4AA0Ode.jpg",
@@ -3614,7 +3614,7 @@ Grailbird.data.tweets_2015_12 =
       "screen_name" : "eaj",
       "protected" : false,
       "id_str" : "211721484",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/751594343438233602\/OhUzlDkc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/795062398629646336\/LwEcRt-N_normal.jpg",
       "id" : 211721484,
       "verified" : false
     }
@@ -3736,7 +3736,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/677925275175268352\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/677925275175268352\/photo\/1",
       "indices" : [ 37, 60 ],
       "url" : "https:\/\/t.co\/ejuN2u7kjk",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CWh5aRSUAAEug0a.jpg",
@@ -3790,7 +3790,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "SwiftOnShitposting",
+      "name" : "SwiftOnSecurity",
       "screen_name" : "SwiftOnSecurity",
       "indices" : [ 0, 16 ],
       "id_str" : "2436389418",
@@ -4042,16 +4042,11 @@ Grailbird.data.tweets_2015_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "677858867833892864",
   "geo" : { },
   "id_str" : "677862552877948928",
-  "in_reply_to_user_id" : 43328711,
   "text" : "@kerihw @jamiesont *Foot Locker",
   "id" : 677862552877948928,
-  "in_reply_to_status_id" : 677858867833892864,
   "created_at" : "2015-12-18 14:46:41 +0000",
-  "in_reply_to_screen_name" : "mutablejoe",
-  "in_reply_to_user_id_str" : "43328711",
   "user" : {
     "name" : "GonzoHacker",
     "screen_name" : "GonzoHacker",
@@ -4246,7 +4241,7 @@ Grailbird.data.tweets_2015_12 =
       "id_str" : "278241403",
       "id" : 278241403
     }, {
-      "name" : "Cave Day Job",
+      "name" : "Code By Java",
       "screen_name" : "JacobyDave",
       "indices" : [ 13, 24 ],
       "id_str" : "15087660",
@@ -4285,7 +4280,7 @@ Grailbird.data.tweets_2015_12 =
       "id_str" : "278241403",
       "id" : 278241403
     }, {
-      "name" : "Cave Day Job",
+      "name" : "Bad Joy Cave",
       "screen_name" : "JacobyDave",
       "indices" : [ 13, 24 ],
       "id_str" : "15087660",
@@ -4324,7 +4319,7 @@ Grailbird.data.tweets_2015_12 =
       "id_str" : "278241403",
       "id" : 278241403
     }, {
-      "name" : "Cave Day Job",
+      "name" : "Bad Joy Cave",
       "screen_name" : "JacobyDave",
       "indices" : [ 13, 24 ],
       "id_str" : "15087660",
@@ -4730,7 +4725,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/677323588228087808\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/677323588228087808\/photo\/1",
       "indices" : [ 4, 27 ],
       "url" : "https:\/\/t.co\/OwnmiRZUit",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CWZWNt3UAAAAgOT.png",
@@ -5083,7 +5078,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/677206374703456256\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/677206374703456256\/photo\/1",
       "indices" : [ 71, 94 ],
       "url" : "https:\/\/t.co\/Xj0qI0KU2m",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CWXrm-1UkAAMXMJ.png",
@@ -5210,7 +5205,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob",
+      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
       "screen_name" : "languagehacker",
       "indices" : [ 0, 15 ],
       "id_str" : "121556767",
@@ -5243,7 +5238,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob",
+      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
       "screen_name" : "languagehacker",
       "indices" : [ 0, 15 ],
       "id_str" : "121556767",
@@ -5276,7 +5271,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob",
+      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
       "screen_name" : "languagehacker",
       "indices" : [ 0, 15 ],
       "id_str" : "121556767",
@@ -5309,7 +5304,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob",
+      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
       "screen_name" : "languagehacker",
       "indices" : [ 3, 18 ],
       "id_str" : "121556767",
@@ -5336,11 +5331,11 @@ Grailbird.data.tweets_2015_12 =
     "id" : 677137227793633280,
     "created_at" : "2015-12-16 14:44:30 +0000",
     "user" : {
-      "name" : "Bob",
+      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
       "screen_name" : "languagehacker",
       "protected" : false,
       "id_str" : "121556767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726934802197172224\/p2Gy_aaf_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800195290590347264\/jNa7PjJN_normal.jpg",
       "id" : 121556767,
       "verified" : false
     }
@@ -5360,7 +5355,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "There is no Tia",
+      "name" : "Xerx",
       "screen_name" : "tia_marie",
       "indices" : [ 0, 10 ],
       "id_str" : "6025712",
@@ -5685,7 +5680,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/676928919384285184\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/676928919384285184\/photo\/1",
       "indices" : [ 15, 38 ],
       "url" : "https:\/\/t.co\/UZfX6BDyVO",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CWTvQ-OWcAAWklv.jpg",
@@ -5737,7 +5732,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/676896849006100481\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/676896849006100481\/photo\/1",
       "indices" : [ 111, 134 ],
       "url" : "https:\/\/t.co\/qYSjkuaI6l",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CWTSFsuWIAA3-Wf.jpg",
@@ -5839,7 +5834,7 @@ Grailbird.data.tweets_2015_12 =
       "id" : 61166489
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/adrianchm\/status\/676723482605002753\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/adrianchm\/status\/676723482605002753\/photo\/1",
       "indices" : [ 41, 64 ],
       "url" : "https:\/\/t.co\/TW2LYgXYbx",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CWQ0a76UYAQZfpa.jpg",
@@ -5886,7 +5881,7 @@ Grailbird.data.tweets_2015_12 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/adrianchm\/status\/676723482605002753\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/adrianchm\/status\/676723482605002753\/photo\/1",
         "indices" : [ 26, 49 ],
         "url" : "https:\/\/t.co\/TW2LYgXYbx",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CWQ0a76UYAQZfpa.jpg",
@@ -5937,7 +5932,7 @@ Grailbird.data.tweets_2015_12 =
       "id_str" : "61166489",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1882780494\/IMG_1980e_normal.jpg",
       "id" : 61166489,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 676839173735645184,
@@ -6031,11 +6026,16 @@ Grailbird.data.tweets_2015_12 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
+    "in_reply_to_status_id_str" : "676490302731997184",
     "geo" : { },
     "id_str" : "676490804765044736",
+    "in_reply_to_user_id" : 432134884,
     "text" : "Also I'm sorry for being such an inconsiderate dick when I was a kid. And a teenager. And like in my early 20s. And yesterday.",
     "id" : 676490804765044736,
+    "in_reply_to_status_id" : 676490302731997184,
     "created_at" : "2015-12-14 19:55:51 +0000",
+    "in_reply_to_screen_name" : "anne_theriault",
+    "in_reply_to_user_id_str" : "432134884",
     "user" : {
       "name" : "Anne Th\u00E9riault",
       "screen_name" : "anne_theriault",
@@ -6176,7 +6176,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Cave Day Job",
+      "name" : "Bad Joy Cave",
       "screen_name" : "JacobyDave",
       "indices" : [ 3, 14 ],
       "id_str" : "15087660",
@@ -6220,11 +6220,11 @@ Grailbird.data.tweets_2015_12 =
     "in_reply_to_screen_name" : "GonzoHacker",
     "in_reply_to_user_id_str" : "773009000",
     "user" : {
-      "name" : "Cave Day Job",
+      "name" : "Bad Joy Cave",
       "screen_name" : "JacobyDave",
       "protected" : false,
       "id_str" : "15087660",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/780844481226608640\/aYNGF1am_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/804716777880125442\/vTlBuwG7_normal.jpg",
       "id" : 15087660,
       "verified" : false
     }
@@ -6244,7 +6244,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Cave Day Job",
+      "name" : "Bad Joy Cave",
       "screen_name" : "JacobyDave",
       "indices" : [ 0, 11 ],
       "id_str" : "15087660",
@@ -6633,7 +6633,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/676605091663577088\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/676605091663577088\/photo\/1",
       "indices" : [ 33, 56 ],
       "url" : "https:\/\/t.co\/FP7dT7UEc5",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CWPIvs1UwAAShVG.jpg",
@@ -6729,7 +6729,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/676602285804294145\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/676602285804294145\/photo\/1",
       "indices" : [ 27, 50 ],
       "url" : "https:\/\/t.co\/QNgqMlE17r",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CWPGMXaVAAAOYuD.jpg",
@@ -6786,7 +6786,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/676601924066512896\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/676601924066512896\/photo\/1",
       "indices" : [ 16, 39 ],
       "url" : "https:\/\/t.co\/LPtEucAAf2",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CWPF3UoUYAA7iJy.jpg",
@@ -6843,7 +6843,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/676600126694031360\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/676600126694031360\/photo\/1",
       "indices" : [ 12, 35 ],
       "url" : "https:\/\/t.co\/g8OYm9ore2",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CWPEOq7UwAE6XJU.jpg",
@@ -6900,7 +6900,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/676597302002384896\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/676597302002384896\/photo\/1",
       "indices" : [ 38, 61 ],
       "url" : "https:\/\/t.co\/nB5vTaxGj8",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CWPBqSBU8AA10uh.jpg",
@@ -6957,7 +6957,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/676593463010328576\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/676593463010328576\/photo\/1",
       "indices" : [ 48, 71 ],
       "url" : "https:\/\/t.co\/1mJU2UUoif",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CWO-K07VAAEjJfZ.jpg",
@@ -7014,7 +7014,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/676592854899154944\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/676592854899154944\/photo\/1",
       "indices" : [ 19, 42 ],
       "url" : "https:\/\/t.co\/QBTIWlJEsg",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CWO9nbkU8AERZ0c.jpg",
@@ -7066,7 +7066,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/676590567074082816\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/676590567074082816\/photo\/1",
       "indices" : [ 32, 55 ],
       "url" : "https:\/\/t.co\/VKTamT9WQU",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CWO7iQPVAAAutPF.jpg",
@@ -7436,7 +7436,7 @@ Grailbird.data.tweets_2015_12 =
       "id" : 353789193
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/StartupLJackson\/status\/675831234732253184\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/StartupLJackson\/status\/675831234732253184\/photo\/1",
       "indices" : [ 70, 93 ],
       "url" : "https:\/\/t.co\/d24gPa7gN5",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CWEI66BUsAAq0YX.jpg",
@@ -7482,7 +7482,7 @@ Grailbird.data.tweets_2015_12 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/StartupLJackson\/status\/675831234732253184\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/StartupLJackson\/status\/675831234732253184\/photo\/1",
         "indices" : [ 49, 72 ],
         "url" : "https:\/\/t.co\/d24gPa7gN5",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CWEI66BUsAAq0YX.jpg",
@@ -7573,7 +7573,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/675737716374429696\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/675737716374429696\/photo\/1",
       "indices" : [ 31, 54 ],
       "url" : "https:\/\/t.co\/3BSfkRLKNh",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CWCz3z3VAAA_Yq6.png",
@@ -7860,7 +7860,7 @@ Grailbird.data.tweets_2015_12 =
       "id_str" : "1206581",
       "id" : 1206581
     }, {
-      "name" : "janice griffith",
+      "name" : "anti-trump bitch",
       "screen_name" : "thejanicexxx",
       "indices" : [ 49, 62 ],
       "id_str" : "2147483665",
@@ -7915,7 +7915,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Este\u00F1 Italicus",
+      "name" : "Este\u00F1Mauretanianicus",
       "screen_name" : "esten",
       "indices" : [ 0, 6 ],
       "id_str" : "15374401",
@@ -7977,7 +7977,7 @@ Grailbird.data.tweets_2015_12 =
       "id" : 22881265
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/tealtan\/status\/674999626836103168\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tealtan\/status\/674999626836103168\/photo\/1",
       "indices" : [ 19, 42 ],
       "url" : "https:\/\/t.co\/ke5EOVXj2p",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CV4UlLJWEAANOdd.png",
@@ -8007,7 +8007,7 @@ Grailbird.data.tweets_2015_12 =
       } ],
       "display_url" : "pic.twitter.com\/ke5EOVXj2p"
     }, {
-      "expanded_url" : "http:\/\/twitter.com\/tealtan\/status\/674999626836103168\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tealtan\/status\/674999626836103168\/photo\/1",
       "indices" : [ 19, 42 ],
       "url" : "https:\/\/t.co\/ke5EOVXj2p",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CV4UlUBWIAA97u-.png",
@@ -8037,7 +8037,7 @@ Grailbird.data.tweets_2015_12 =
       } ],
       "display_url" : "pic.twitter.com\/ke5EOVXj2p"
     }, {
-      "expanded_url" : "http:\/\/twitter.com\/tealtan\/status\/674999626836103168\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tealtan\/status\/674999626836103168\/photo\/1",
       "indices" : [ 19, 42 ],
       "url" : "https:\/\/t.co\/ke5EOVXj2p",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CV4UlS6WsAAklHH.png",
@@ -8067,7 +8067,7 @@ Grailbird.data.tweets_2015_12 =
       } ],
       "display_url" : "pic.twitter.com\/ke5EOVXj2p"
     }, {
-      "expanded_url" : "http:\/\/twitter.com\/tealtan\/status\/674999626836103168\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/tealtan\/status\/674999626836103168\/photo\/1",
       "indices" : [ 19, 42 ],
       "url" : "https:\/\/t.co\/ke5EOVXj2p",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CV4UlUHXAAAoLzi.png",
@@ -8108,7 +8108,7 @@ Grailbird.data.tweets_2015_12 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/tealtan\/status\/674999626836103168\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/tealtan\/status\/674999626836103168\/photo\/1",
         "indices" : [ 6, 29 ],
         "url" : "https:\/\/t.co\/ke5EOVXj2p",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CV4UlLJWEAANOdd.png",
@@ -8138,7 +8138,7 @@ Grailbird.data.tweets_2015_12 =
         } ],
         "display_url" : "pic.twitter.com\/ke5EOVXj2p"
       }, {
-        "expanded_url" : "http:\/\/twitter.com\/tealtan\/status\/674999626836103168\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/tealtan\/status\/674999626836103168\/photo\/1",
         "indices" : [ 6, 29 ],
         "url" : "https:\/\/t.co\/ke5EOVXj2p",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CV4UlUBWIAA97u-.png",
@@ -8168,7 +8168,7 @@ Grailbird.data.tweets_2015_12 =
         } ],
         "display_url" : "pic.twitter.com\/ke5EOVXj2p"
       }, {
-        "expanded_url" : "http:\/\/twitter.com\/tealtan\/status\/674999626836103168\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/tealtan\/status\/674999626836103168\/photo\/1",
         "indices" : [ 6, 29 ],
         "url" : "https:\/\/t.co\/ke5EOVXj2p",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CV4UlS6WsAAklHH.png",
@@ -8198,7 +8198,7 @@ Grailbird.data.tweets_2015_12 =
         } ],
         "display_url" : "pic.twitter.com\/ke5EOVXj2p"
       }, {
-        "expanded_url" : "http:\/\/twitter.com\/tealtan\/status\/674999626836103168\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/tealtan\/status\/674999626836103168\/photo\/1",
         "indices" : [ 6, 29 ],
         "url" : "https:\/\/t.co\/ke5EOVXj2p",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CV4UlUHXAAAoLzi.png",
@@ -8301,7 +8301,7 @@ Grailbird.data.tweets_2015_12 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/eastwes\/status\/674628837481820160\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/eastwes\/status\/674628837481820160\/photo\/1",
         "indices" : [ 111, 134 ],
         "url" : "https:\/\/t.co\/5nSshXhjnJ",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CVzDWkKUYAATxy-.jpg",
@@ -8409,7 +8409,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/674754736243867648\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/674754736243867648\/photo\/1",
       "indices" : [ 22, 45 ],
       "url" : "https:\/\/t.co\/xfLbiUyEFl",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CV0122pUEAQYs1d.png",
@@ -8745,7 +8745,7 @@ Grailbird.data.tweets_2015_12 =
       "screen_name" : "mccv",
       "protected" : false,
       "id_str" : "9160152",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/551456821412909056\/1BZIkwRf_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/801578747585409024\/T-pPQ87f_normal.jpg",
       "id" : 9160152,
       "verified" : false
     }
@@ -9739,7 +9739,7 @@ Grailbird.data.tweets_2015_12 =
       "id" : 481655487
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/juliacarriew\/status\/673629044999454720\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/juliacarriew\/status\/673629044999454720\/photo\/1",
       "indices" : [ 115, 138 ],
       "url" : "https:\/\/t.co\/cGOhzTQ9un",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CVk2C7fU8AIDekP.jpg",
@@ -9780,7 +9780,7 @@ Grailbird.data.tweets_2015_12 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/juliacarriew\/status\/673629044999454720\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/juliacarriew\/status\/673629044999454720\/photo\/1",
         "indices" : [ 97, 120 ],
         "url" : "https:\/\/t.co\/cGOhzTQ9un",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CVk2C7fU8AIDekP.jpg",
@@ -10131,7 +10131,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/673243801138237441\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/673243801138237441\/photo\/1",
       "indices" : [ 34, 57 ],
       "url" : "https:\/\/t.co\/5tAGmKF1sV",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CVfXq2kUYAALSAG.png",
@@ -10195,7 +10195,7 @@ Grailbird.data.tweets_2015_12 =
       "id" : 14148308
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/673242842077134848\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/673242842077134848\/photo\/1",
       "indices" : [ 42, 65 ],
       "url" : "https:\/\/t.co\/BzHiXElbvV",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CVfWzBXVAAAlCM3.png",
@@ -10278,11 +10278,11 @@ Grailbird.data.tweets_2015_12 =
     "id" : 673239084706336770,
     "created_at" : "2015-12-05 20:34:40 +0000",
     "user" : {
-      "name" : "skull with no name",
+      "name" : "\uD83C\uDF84christmas skull\uD83C\uDF84",
       "screen_name" : "HappyHorseSkull",
       "protected" : false,
       "id_str" : "143789061",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/735523149559648256\/mEXD0fXQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/804570005186682880\/OUu7Zfam_normal.jpg",
       "id" : 143789061,
       "verified" : false
     }
@@ -10302,7 +10302,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Vivek",
+      "name" : "\uD83C\uDFAF",
       "screen_name" : "VivekxK",
       "indices" : [ 0, 8 ],
       "id_str" : "71115710",
@@ -10335,7 +10335,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Vivek",
+      "name" : "\uD83C\uDFAF",
       "screen_name" : "VivekxK",
       "indices" : [ 0, 8 ],
       "id_str" : "71115710",
@@ -10929,7 +10929,7 @@ Grailbird.data.tweets_2015_12 =
       "screen_name" : "iamlei",
       "protected" : false,
       "id_str" : "10203502",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/776163016404369408\/Y8ppwmiQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/791949782977687556\/ztMetiir_normal.jpg",
       "id" : 10203502,
       "verified" : false
     }
@@ -11104,7 +11104,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/672488668804726785\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/672488668804726785\/photo\/1",
       "indices" : [ 27, 50 ],
       "url" : "https:\/\/t.co\/k60FWCuLb5",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CVUo4WkVEAEKi6y.png",
@@ -11584,7 +11584,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/672147677778329601\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/672147677778329601\/photo\/1",
       "indices" : [ 86, 109 ],
       "url" : "https:\/\/t.co\/aCGg0KNQZL",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CVPywAxXIAEqGI4.png",
@@ -11767,7 +11767,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/672140140211363840\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/672140140211363840\/photo\/1",
       "indices" : [ 33, 56 ],
       "url" : "https:\/\/t.co\/1xBhK7YWje",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CVPr5SvXIAEJuK0.png",
@@ -11819,7 +11819,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/672139426038996992\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/672139426038996992\/photo\/1",
       "indices" : [ 49, 72 ],
       "url" : "https:\/\/t.co\/2NbG5AGLD4",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CVPrPvJXIAAiSxK.png",
@@ -11877,7 +11877,7 @@ Grailbird.data.tweets_2015_12 =
       "id" : 16322212
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/672138597189869568\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/672138597189869568\/photo\/1",
       "indices" : [ 65, 88 ],
       "url" : "https:\/\/t.co\/kLvLT6fHXH",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CVPqff0XAAIuDhR.png",
@@ -12497,7 +12497,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/671794837486616576\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/671794837486616576\/photo\/1",
       "indices" : [ 10, 33 ],
       "url" : "https:\/\/t.co\/5Hf4sGdkmu",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CVKx2D9UEAAkTEb.jpg",
@@ -12783,7 +12783,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lesley Carhart",
+      "name" : "Lesley",
       "screen_name" : "hacks4pancakes",
       "indices" : [ 0, 15 ],
       "id_str" : "207617689",
@@ -12816,7 +12816,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lesley Carhart",
+      "name" : "Lesley",
       "screen_name" : "hacks4pancakes",
       "indices" : [ 0, 15 ],
       "id_str" : "207617689",
@@ -12850,7 +12850,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/671724751417507840\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/671724751417507840\/photo\/1",
       "indices" : [ 17, 40 ],
       "url" : "https:\/\/t.co\/Iz0gYvIxmq",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CVJyGhdUwAAxgux.png",
@@ -12996,7 +12996,7 @@ Grailbird.data.tweets_2015_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/671705760271732737\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/671705760271732737\/photo\/1",
       "indices" : [ 16, 39 ],
       "url" : "https:\/\/t.co\/s24iIiyrUQ",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CVJg1E3UwAEecM3.jpg",

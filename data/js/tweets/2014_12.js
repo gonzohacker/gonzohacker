@@ -100,7 +100,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mihir A. Desai",
+      "name" : "voidfraction",
       "screen_name" : "voidfraction",
       "indices" : [ 0, 13 ],
       "id_str" : "287184001",
@@ -440,7 +440,7 @@ Grailbird.data.tweets_2014_12 =
       "screen_name" : "GlennF",
       "protected" : false,
       "id_str" : "8315692",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/704793296644648960\/RJDynN2o_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/793494468334727169\/vqQjKOGi_normal.jpg",
       "id" : 8315692,
       "verified" : true
     }
@@ -1465,7 +1465,7 @@ Grailbird.data.tweets_2014_12 =
       "id_str" : "16263423",
       "id" : 16263423
     }, {
-      "name" : "Solomon White",
+      "name" : "\u4E0D\u660E",
       "screen_name" : "rubysolo",
       "indices" : [ 15, 24 ],
       "id_str" : "6164712",
@@ -1493,7 +1493,7 @@ Grailbird.data.tweets_2014_12 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Solomon White",
+        "name" : "\u4E0D\u660E",
         "screen_name" : "rubysolo",
         "indices" : [ 0, 9 ],
         "id_str" : "6164712",
@@ -1571,7 +1571,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Solomon White",
+      "name" : "\u4E0D\u660E",
       "screen_name" : "rubysolo",
       "indices" : [ 3, 12 ],
       "id_str" : "6164712",
@@ -1598,7 +1598,7 @@ Grailbird.data.tweets_2014_12 =
     "id" : 546047279136641024,
     "created_at" : "2014-12-19 20:59:51 +0000",
     "user" : {
-      "name" : "Solomon White",
+      "name" : "\u4E0D\u660E",
       "screen_name" : "rubysolo",
       "protected" : false,
       "id_str" : "6164712",
@@ -1688,7 +1688,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "utf8\u20E30\u20E38\u20E3",
+      "name" : "Jonas",
       "screen_name" : "status402",
       "indices" : [ 0, 10 ],
       "id_str" : "1534838402",
@@ -1772,7 +1772,7 @@ Grailbird.data.tweets_2014_12 =
       "id" : 16544499
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/muddylemon\/status\/545644700162465792\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/muddylemon\/status\/545644700162465792\/photo\/1",
       "indices" : [ 33, 55 ],
       "url" : "http:\/\/t.co\/qlKi5aVIE5",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/B5KE9omCUAALe98.png",
@@ -1813,7 +1813,7 @@ Grailbird.data.tweets_2014_12 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/muddylemon\/status\/545644700162465792\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/muddylemon\/status\/545644700162465792\/photo\/1",
         "indices" : [ 17, 39 ],
         "url" : "http:\/\/t.co\/qlKi5aVIE5",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/B5KE9omCUAALe98.png",
@@ -2740,7 +2740,7 @@ Grailbird.data.tweets_2014_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/542508578452406272\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/542508578452406272\/photo\/1",
       "indices" : [ 15, 37 ],
       "url" : "http:\/\/t.co\/9LuzHY8BVI",
       "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/B4dgrUfCcAIc26g.png",
@@ -2990,7 +2990,7 @@ Grailbird.data.tweets_2014_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/542163164985434114\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/542163164985434114\/photo\/1",
       "indices" : [ 30, 52 ],
       "url" : "http:\/\/t.co\/MKSWTkduIH",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/B4YmhohCcAEHMjh.png",
@@ -3162,7 +3162,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "andrea hickey",
+      "name" : "andrea",
       "screen_name" : "andrea_h1ckey",
       "indices" : [ 0, 14 ],
       "id_str" : "17772441",

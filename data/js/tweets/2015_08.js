@@ -77,7 +77,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob",
+      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
       "screen_name" : "languagehacker",
       "indices" : [ 0, 15 ],
       "id_str" : "121556767",
@@ -327,7 +327,7 @@ Grailbird.data.tweets_2015_08 =
       "id_str" : "3004231",
       "id" : 3004231
     }, {
-      "name" : "Markus Persson",
+      "name" : "Notch",
       "screen_name" : "notch",
       "indices" : [ 17, 23 ],
       "id_str" : "63485337",
@@ -344,7 +344,7 @@ Grailbird.data.tweets_2015_08 =
     "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Markus Persson",
+        "name" : "Notch",
         "screen_name" : "notch",
         "indices" : [ 2, 8 ],
         "id_str" : "63485337",
@@ -369,7 +369,7 @@ Grailbird.data.tweets_2015_08 =
       "screen_name" : "SnoopDogg",
       "protected" : false,
       "id_str" : "3004231",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744742677376172033\/-5vixZuk_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796033778648911872\/lijK5oA6_normal.jpg",
       "id" : 3004231,
       "verified" : true
     }
@@ -1719,7 +1719,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDCC1 Leon \u0192",
+      "name" : "Leon Arnott",
       "screen_name" : "webbedspace",
       "indices" : [ 3, 15 ],
       "id_str" : "23720736",
@@ -1746,7 +1746,7 @@ Grailbird.data.tweets_2015_08 =
     "id" : 326998898650537984,
     "created_at" : "2013-04-24 09:59:47 +0000",
     "user" : {
-      "name" : "\uD83D\uDCC1 Leon \u0192",
+      "name" : "Leon Arnott",
       "screen_name" : "webbedspace",
       "protected" : false,
       "id_str" : "23720736",
@@ -1836,7 +1836,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ernest Luckman",
+      "name" : "emiliano luckman",
       "screen_name" : "ErnieLies",
       "indices" : [ 3, 13 ],
       "id_str" : "321787970",
@@ -1863,11 +1863,11 @@ Grailbird.data.tweets_2015_08 =
     "id" : 630850144733237248,
     "created_at" : "2015-08-10 21:16:09 +0000",
     "user" : {
-      "name" : "Ernest Luckman",
+      "name" : "emiliano luckman",
       "screen_name" : "ErnieLies",
       "protected" : false,
       "id_str" : "321787970",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/780037417361289216\/1aPxaB0i_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/797047774193782784\/oPbmhDNc_normal.jpg",
       "id" : 321787970,
       "verified" : false
     }

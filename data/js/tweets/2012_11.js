@@ -747,7 +747,7 @@ Grailbird.data.tweets_2012_11 =
     "id" : 273940099673235456,
     "created_at" : "2012-11-29 00:03:03 +0000",
     "user" : {
-      "name" : "tough on cyber",
+      "name" : "fresh tweets",
       "screen_name" : "tweets_so_fresh",
       "protected" : false,
       "id_str" : "190633664",
@@ -1169,7 +1169,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "gvwilson",
       "protected" : false,
       "id_str" : "21506708",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/761137149718716416\/dCug9eV7_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/802186867949076481\/ake9cQMn_normal.jpg",
       "id" : 21506708,
       "verified" : false
     }
@@ -2222,7 +2222,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jeshii in Japan\uD83C\uDF5C\uD83C\uDF63",
+      "name" : "Jeshizaemon",
       "screen_name" : "jeshizaemon",
       "indices" : [ 0, 12 ],
       "id_str" : "9919252",
@@ -3023,7 +3023,7 @@ Grailbird.data.tweets_2012_11 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/270357475306385408\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/270357475306385408\/photo\/1",
       "indices" : [ 15, 35 ],
       "url" : "http:\/\/t.co\/99LJVouv",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/A8CAsP5CMAAUBc_.jpg",
@@ -3307,7 +3307,7 @@ Grailbird.data.tweets_2012_11 =
     "in_reply_to_screen_name" : "GonzoHacker",
     "in_reply_to_user_id_str" : "773009000",
     "user" : {
-      "name" : "[object Object]",
+      "name" : "\uFF53\uFF49\uFF4E\u3000\uFF43\uFF55\uFF42\uFF45",
       "screen_name" : "andrewstwrt",
       "protected" : false,
       "id_str" : "14369199",
@@ -4161,7 +4161,7 @@ Grailbird.data.tweets_2012_11 =
     "user" : {
       "name" : "gary nuzzi",
       "screen_name" : "garynuzzi",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "5881612",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1658039764\/04FCD1E3-EB11-4251-B938-E7A0D3B64A27_normal",
       "id" : 5881612,
@@ -4232,7 +4232,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James Iry",
+      "name" : "Prisoner 849",
       "screen_name" : "jamesiry",
       "indices" : [ 0, 9 ],
       "id_str" : "19044984",
@@ -4463,7 +4463,7 @@ Grailbird.data.tweets_2012_11 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/268377760425181184\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/268377760425181184\/photo\/1",
       "indices" : [ 22, 42 ],
       "url" : "http:\/\/t.co\/piQZRbRR",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/A7l4JrQCAAA-QcU.png",
@@ -6852,11 +6852,11 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "8864512",
       "id" : 8864512
     }, {
-      "name" : "jon ursenbach",
+      "name" : "Jon Ursenbach",
       "screen_name" : "jonursenbach",
       "indices" : [ 92, 105 ],
-      "id_str" : "12244502",
-      "id" : 12244502
+      "id_str" : "794716053364469761",
+      "id" : 794716053364469761
     }, {
       "name" : "Mark Simpson",
       "screen_name" : "verdammelt",
@@ -6875,11 +6875,11 @@ Grailbird.data.tweets_2012_11 =
     "source" : "\u003Ca href=\"http:\/\/mrrsoftware.com\/MRRSoftware\/Syrinx.html\" rel=\"nofollow\"\u003ESyrinx\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "jon ursenbach",
+        "name" : "Jon Ursenbach",
         "screen_name" : "jonursenbach",
         "indices" : [ 80, 93 ],
-        "id_str" : "12244502",
-        "id" : 12244502
+        "id_str" : "794716053364469761",
+        "id" : 794716053364469761
       }, {
         "name" : "Mark Simpson",
         "screen_name" : "verdammelt",
@@ -7369,7 +7369,7 @@ Grailbird.data.tweets_2012_11 =
         "id_str" : "277089224",
         "id" : 277089224
       }, {
-        "name" : "thirsty 4 Luci[fern]",
+        "name" : "Stubby Butcher",
         "screen_name" : "Snegurothka",
         "indices" : [ 63, 75 ],
         "id_str" : "106550123",
@@ -7393,7 +7393,7 @@ Grailbird.data.tweets_2012_11 =
         "id_str" : "1155195259",
         "id" : 1155195259
       }, {
-        "name" : "Karl Marx Admirer",
+        "name" : "Comrade Colin \uD83D\uDEA9",
         "screen_name" : "cbarrett",
         "indices" : [ 114, 123 ],
         "id_str" : "3562421",

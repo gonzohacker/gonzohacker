@@ -138,7 +138,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "krsanford",
       "protected" : false,
       "id_str" : "29788903",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/681839540445777922\/dY7aGNtd_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796806965360029697\/1RfkyZZm_normal.jpg",
       "id" : 29788903,
       "verified" : false
     }

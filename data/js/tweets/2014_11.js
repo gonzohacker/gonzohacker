@@ -1442,7 +1442,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "woodworking ebooks",
+      "name" : "\u1D49\u02B3\u1DA6\u1D9C \u02B7\u1D52\u1D52\u1D48",
       "screen_name" : "eric_b_wood",
       "indices" : [ 0, 12 ],
       "id_str" : "110202631",
@@ -1704,7 +1704,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "nrose",
       "protected" : false,
       "id_str" : "926251",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/779784032577998848\/CT7STDsk_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/803087886610530304\/Zt1-pF7H_normal.jpg",
       "id" : 926251,
       "verified" : false
     }
@@ -2072,7 +2072,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kyle 'SOB'",
+      "name" : "Kyle 'esSOBi' Stone",
       "screen_name" : "essobi",
       "indices" : [ 0, 7 ],
       "id_str" : "14115713",
@@ -2595,7 +2595,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(((Brad Heintz)))",
+      "name" : "Nasty Hombre",
       "screen_name" : "bradheintz",
       "indices" : [ 0, 11 ],
       "id_str" : "2042451",

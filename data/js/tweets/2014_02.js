@@ -93,7 +93,7 @@ Grailbird.data.tweets_2014_02 =
       "id" : 3080761
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/danbarker\/status\/439125570115223552\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/danbarker\/status\/439125570115223552\/photo\/1",
       "indices" : [ 104, 126 ],
       "url" : "http:\/\/t.co\/uHux3rK57f",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BhgWYSMCQAATdlv.png",
@@ -140,7 +140,7 @@ Grailbird.data.tweets_2014_02 =
         "id" : 3080761
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/danbarker\/status\/439125570115223552\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/danbarker\/status\/439125570115223552\/photo\/1",
         "indices" : [ 89, 111 ],
         "url" : "http:\/\/t.co\/uHux3rK57f",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BhgWYSMCQAATdlv.png",
@@ -485,7 +485,7 @@ Grailbird.data.tweets_2014_02 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/436330493877825536\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/436330493877825536\/photo\/1",
       "indices" : [ 19, 41 ],
       "url" : "http:\/\/t.co\/143rmQHJxO",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/Bg4oRbyCMAA9IHx.jpg",
@@ -692,7 +692,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Nuclear",
+      "name" : "A$AP Blergh",
       "screen_name" : "JoshMock",
       "indices" : [ 3, 12 ],
       "id_str" : "8962452",
@@ -736,7 +736,7 @@ Grailbird.data.tweets_2014_02 =
     "in_reply_to_screen_name" : "GonzoHacker",
     "in_reply_to_user_id_str" : "773009000",
     "user" : {
-      "name" : "The Nuclear",
+      "name" : "A$AP Blergh",
       "screen_name" : "JoshMock",
       "protected" : false,
       "id_str" : "8962452",
@@ -972,7 +972,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thwarted",
+      "name" : "cyberilluminati",
       "screen_name" : "thwarted",
       "indices" : [ 0, 9 ],
       "id_str" : "14874283",
@@ -1049,7 +1049,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob",
+      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
       "screen_name" : "languagehacker",
       "indices" : [ 3, 18 ],
       "id_str" : "121556767",
@@ -1079,11 +1079,11 @@ Grailbird.data.tweets_2014_02 =
     "id" : 433822066119172096,
     "created_at" : "2014-02-13 04:36:55 +0000",
     "user" : {
-      "name" : "Bob",
+      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
       "screen_name" : "languagehacker",
       "protected" : false,
       "id_str" : "121556767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726934802197172224\/p2Gy_aaf_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800195290590347264\/jNa7PjJN_normal.jpg",
       "id" : 121556767,
       "verified" : false
     }
@@ -1136,7 +1136,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benjamin W. Smith",
+      "name" : "tiny warfield",
       "screen_name" : "benjaminws",
       "indices" : [ 3, 14 ],
       "id_str" : "14188391",
@@ -1180,11 +1180,11 @@ Grailbird.data.tweets_2014_02 =
     "in_reply_to_screen_name" : "GonzoHacker",
     "in_reply_to_user_id_str" : "773009000",
     "user" : {
-      "name" : "Benjamin W. Smith",
+      "name" : "tiny warfield",
       "screen_name" : "benjaminws",
       "protected" : false,
       "id_str" : "14188391",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/750409005714006016\/iqTTGcA__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800726349031710720\/1TbDyihn_normal.jpg",
       "id" : 14188391,
       "verified" : false
     }

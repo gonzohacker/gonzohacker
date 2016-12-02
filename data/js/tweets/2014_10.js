@@ -25,14 +25,14 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(((Brad Heintz)))",
+      "name" : "Nasty Hombre",
       "screen_name" : "bradheintz",
       "indices" : [ 0, 11 ],
       "id_str" : "2042451",
       "id" : 2042451
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/GonzoHacker\/status\/527924391061901312\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/527924391061901312\/photo\/1",
       "indices" : [ 61, 83 ],
       "url" : "http:\/\/t.co\/YPfLilCZ26",
       "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/B1OQbyhCMAA48v1.png",
@@ -1528,7 +1528,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Solomon White",
+      "name" : "\u4E0D\u660E",
       "screen_name" : "rubysolo",
       "indices" : [ 0, 9 ],
       "id_str" : "6164712",
@@ -1567,7 +1567,7 @@ Grailbird.data.tweets_2014_10 =
       "id_str" : "6083342",
       "id" : 6083342
     }, {
-      "name" : "Bob",
+      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
       "screen_name" : "languagehacker",
       "indices" : [ 9, 24 ],
       "id_str" : "121556767",
@@ -1600,7 +1600,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob",
+      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
       "screen_name" : "languagehacker",
       "indices" : [ 0, 15 ],
       "id_str" : "121556767",
