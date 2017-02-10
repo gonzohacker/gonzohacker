@@ -2097,74 +2097,6 @@ Grailbird.data.tweets_2014_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Justin Van Winkle",
-      "screen_name" : "jvantastic",
-      "indices" : [ 3, 14 ],
-      "id_str" : "236652769",
-      "id" : 236652769
-    }, {
-      "name" : "Matt Barto",
-      "screen_name" : "mattbarto",
-      "indices" : [ 16, 26 ],
-      "id_str" : "20823961",
-      "id" : 20823961
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "422480057664155648",
-  "text" : "RT @jvantastic: @mattbarto pro wrestlers, etc.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Matt Barto",
-        "screen_name" : "mattbarto",
-        "indices" : [ 0, 10 ],
-        "id_str" : "20823961",
-        "id" : 20823961
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "in_reply_to_status_id_str" : "422476478920417280",
-    "geo" : { },
-    "id_str" : "422479843695943681",
-    "in_reply_to_user_id" : 20823961,
-    "text" : "@mattbarto pro wrestlers, etc.",
-    "id" : 422479843695943681,
-    "in_reply_to_status_id" : 422476478920417280,
-    "created_at" : "2014-01-12 21:26:58 +0000",
-    "in_reply_to_screen_name" : "mattbarto",
-    "in_reply_to_user_id_str" : "20823961",
-    "user" : {
-      "name" : "Justin Van Winkle",
-      "screen_name" : "jvantastic",
-      "protected" : false,
-      "id_str" : "236652769",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/552896081445400576\/sq6YGZKK_normal.png",
-      "id" : 236652769,
-      "verified" : false
-    }
-  },
-  "id" : 422480057664155648,
-  "created_at" : "2014-01-12 21:27:49 +0000",
-  "user" : {
-    "name" : "GonzoHacker",
-    "screen_name" : "GonzoHacker",
-    "protected" : false,
-    "id_str" : "773009000",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
-    "id" : 773009000,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2437,7 +2369,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
+      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 0, 15 ],
       "id_str" : "121556767",
@@ -2875,7 +2807,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
+      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 0, 15 ],
       "id_str" : "121556767",
@@ -2908,7 +2840,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ForkZox",
+      "name" : "GCU Gravitas Failure",
       "screen_name" : "ZorkFox",
       "indices" : [ 0, 8 ],
       "id_str" : "10050372",
@@ -3135,7 +3067,7 @@ Grailbird.data.tweets_2014_01 =
       "screen_name" : "littleidea",
       "protected" : false,
       "id_str" : "14079705",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/425400689301266432\/zDSgA31m_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/829812319882354688\/KCCvg8TW_normal.jpg",
       "id" : 14079705,
       "verified" : false
     }
@@ -3608,7 +3540,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Oliver Gould",
+      "name" : "Oliver Gould, ugh",
       "screen_name" : "olix0r",
       "indices" : [ 0, 7 ],
       "id_str" : "53452791",

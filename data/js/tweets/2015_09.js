@@ -252,7 +252,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Xerx",
+      "name" : "Gingerbeard the Dork",
       "screen_name" : "tia_marie",
       "indices" : [ 0, 10 ],
       "id_str" : "6025712",
@@ -362,7 +362,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "xntrik",
+      "name" : "Christian Frichot",
       "screen_name" : "xntrik",
       "indices" : [ 3, 10 ],
       "id_str" : "14598790",
@@ -389,11 +389,11 @@ Grailbird.data.tweets_2015_09 =
     "id" : 649225927562362881,
     "created_at" : "2015-09-30 14:14:57 +0000",
     "user" : {
-      "name" : "xntrik",
+      "name" : "Christian Frichot",
       "screen_name" : "xntrik",
       "protected" : false,
       "id_str" : "14598790",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/793642804714930176\/g3ydr_Q6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/819939361072386048\/8ZIXcNth_normal.jpg",
       "id" : 14598790,
       "verified" : false
     }
@@ -727,7 +727,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u041E\u043B\u044C\u0432\u0430\u0440\u043E \u0412i\u0434\u0435\u043B\u044C\u043A\u043E",
+      "name" : "Alvaro Videla",
       "screen_name" : "old_sound",
       "indices" : [ 0, 10 ],
       "id_str" : "16484216",
@@ -782,7 +782,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u041E\u043B\u044C\u0432\u0430\u0440\u043E \u0412i\u0434\u0435\u043B\u044C\u043A\u043E",
+      "name" : "Alvaro Videla",
       "screen_name" : "old_sound",
       "indices" : [ 0, 10 ],
       "id_str" : "16484216",
@@ -959,7 +959,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "littleidea",
       "protected" : false,
       "id_str" : "14079705",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/425400689301266432\/zDSgA31m_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/829812319882354688\/KCCvg8TW_normal.jpg",
       "id" : 14079705,
       "verified" : false
     }
@@ -1001,7 +1001,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
+      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 21, 36 ],
       "id_str" : "121556767",
@@ -2741,7 +2741,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Este\u00F1Mauretanianicus",
+      "name" : "Este\u00F1",
       "screen_name" : "esten",
       "indices" : [ 0, 6 ],
       "id_str" : "15374401",
@@ -3257,117 +3257,6 @@ Grailbird.data.tweets_2015_09 =
   },
   "id" : 645025486410674177,
   "created_at" : "2015-09-19 00:03:54 +0000",
-  "user" : {
-    "name" : "GonzoHacker",
-    "screen_name" : "GonzoHacker",
-    "protected" : false,
-    "id_str" : "773009000",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
-    "id" : 773009000,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Mr. Eric Sir",
-      "screen_name" : "mrericsir",
-      "indices" : [ 3, 13 ],
-      "id_str" : "79276242",
-      "id" : 79276242
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/mrericsir\/status\/644682632379236352\/photo\/1",
-      "indices" : [ 87, 109 ],
-      "url" : "http:\/\/t.co\/IFUESv71j0",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CPJfRF8UcAAo2aH.jpg",
-      "id_str" : "644682443924992000",
-      "id" : 644682443924992000,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CPJfRF8UcAAo2aH.jpg",
-      "sizes" : [ {
-        "h" : 450,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 768,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 768,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 255,
-        "resize" : "fit",
-        "w" : 340
-      } ],
-      "display_url" : "pic.twitter.com\/IFUESv71j0"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "644683064136695808",
-  "text" : "RT @mrericsir: You know you're in SF when the graffiti is just a list of Linux distos. http:\/\/t.co\/IFUESv71j0",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/mrericsir\/status\/644682632379236352\/photo\/1",
-        "indices" : [ 72, 94 ],
-        "url" : "http:\/\/t.co\/IFUESv71j0",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CPJfRF8UcAAo2aH.jpg",
-        "id_str" : "644682443924992000",
-        "id" : 644682443924992000,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CPJfRF8UcAAo2aH.jpg",
-        "sizes" : [ {
-          "h" : 450,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 768,
-          "resize" : "fit",
-          "w" : 1024
-        }, {
-          "h" : 768,
-          "resize" : "fit",
-          "w" : 1024
-        }, {
-          "h" : 255,
-          "resize" : "fit",
-          "w" : 340
-        } ],
-        "display_url" : "pic.twitter.com\/IFUESv71j0"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "644682632379236352",
-    "text" : "You know you're in SF when the graffiti is just a list of Linux distos. http:\/\/t.co\/IFUESv71j0",
-    "id" : 644682632379236352,
-    "created_at" : "2015-09-18 01:21:31 +0000",
-    "user" : {
-      "name" : "Mr. Eric Sir",
-      "screen_name" : "mrericsir",
-      "protected" : false,
-      "id_str" : "79276242",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/449189252\/cheezburger_cat_normal.bmp",
-      "id" : 79276242,
-      "verified" : false
-    }
-  },
-  "id" : 644683064136695808,
-  "created_at" : "2015-09-18 01:23:14 +0000",
   "user" : {
     "name" : "GonzoHacker",
     "screen_name" : "GonzoHacker",
@@ -4489,7 +4378,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
+      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 0, 15 ],
       "id_str" : "121556767",
@@ -4996,7 +4885,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Timeless Prototype \u2600",
+      "name" : "Timeless Prototype \u2B50",
       "screen_name" : "TimelessP",
       "indices" : [ 0, 10 ],
       "id_str" : "8784462",
@@ -5856,7 +5745,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lukas Eder",
+      "name" : "Lukas Eder \uD83E\uDD14",
       "screen_name" : "lukaseder",
       "indices" : [ 3, 13 ],
       "id_str" : "49755613",
@@ -5943,7 +5832,7 @@ Grailbird.data.tweets_2015_09 =
     "id" : 639802749878697984,
     "created_at" : "2015-09-04 14:10:37 +0000",
     "user" : {
-      "name" : "Lukas Eder",
+      "name" : "Lukas Eder \uD83E\uDD14",
       "screen_name" : "lukaseder",
       "protected" : false,
       "id_str" : "49755613",

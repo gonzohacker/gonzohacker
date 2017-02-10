@@ -315,7 +315,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "for informed choice",
+      "name" : "ReHumanise",
       "screen_name" : "mhsutton",
       "indices" : [ 93, 102 ],
       "id_str" : "14980953",
@@ -572,7 +572,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "KOZZWON",
       "protected" : false,
       "id_str" : "65150717",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/642028226013958144\/DwWryylh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/818491441689350144\/6xVOUOml_normal.jpg",
       "id" : 65150717,
       "verified" : false
     }
@@ -748,7 +748,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "233876351",
       "id" : 233876351
     }, {
-      "name" : "\uD83D\uDEB6\uD83C\uDFFDjack",
+      "name" : "jack",
       "screen_name" : "jack",
       "indices" : [ 103, 108 ],
       "id_str" : "12",
@@ -1933,7 +1933,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alexis Ohanian",
+      "name" : "Alexis Ohanian \uD83D\uDDFD",
       "screen_name" : "alexisohanian",
       "indices" : [ 68, 82 ],
       "id_str" : "811350",
@@ -1961,7 +1961,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alexis Ohanian",
+      "name" : "Alexis Ohanian \uD83D\uDDFD",
       "screen_name" : "alexisohanian",
       "indices" : [ 3, 17 ],
       "id_str" : "811350",
@@ -2005,11 +2005,11 @@ Grailbird.data.tweets_2012_09 =
     "in_reply_to_screen_name" : "GonzoHacker",
     "in_reply_to_user_id_str" : "773009000",
     "user" : {
-      "name" : "Alexis Ohanian",
+      "name" : "Alexis Ohanian \uD83D\uDDFD",
       "screen_name" : "alexisohanian",
       "protected" : false,
       "id_str" : "811350",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/754119486278598656\/ZQbHsMFh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/819412587137769472\/26I1zqqk_normal.jpg",
       "id" : 811350,
       "verified" : true
     }
@@ -2029,7 +2029,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alexis Ohanian",
+      "name" : "Alexis Ohanian \uD83D\uDDFD",
       "screen_name" : "alexisohanian",
       "indices" : [ 122, 136 ],
       "id_str" : "811350",
@@ -3039,7 +3039,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u041E\u043B\u044C\u0432\u0430\u0440\u043E \u0412i\u0434\u0435\u043B\u044C\u043A\u043E",
+      "name" : "Alvaro Videla",
       "screen_name" : "old_sound",
       "indices" : [ 0, 10 ],
       "id_str" : "16484216",
@@ -4424,7 +4424,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alexis Ohanian",
+      "name" : "Alexis Ohanian \uD83D\uDDFD",
       "screen_name" : "alexisohanian",
       "indices" : [ 11, 25 ],
       "id_str" : "811350",
@@ -5903,7 +5903,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "dehora",
       "protected" : false,
       "id_str" : "546313",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/793243527421591552\/QAxRRCsb_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/828309110403846145\/tUPp5zFX_normal.jpg",
       "id" : 546313,
       "verified" : false
     }
@@ -6713,11 +6713,11 @@ Grailbird.data.tweets_2012_09 =
     "in_reply_to_screen_name" : "DougTI",
     "in_reply_to_user_id_str" : "14087106",
     "user" : {
-      "name" : "ChafBP",
+      "name" : "Faith Breeze",
       "screen_name" : "iBPotts",
       "protected" : false,
       "id_str" : "736591430",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/424592212043644929\/JLG6DCZT_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/826773596202692610\/KZie8EaX_normal.jpg",
       "id" : 736591430,
       "verified" : false
     }

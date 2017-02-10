@@ -1687,7 +1687,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Este\u00F1Mauretanianicus",
+      "name" : "Este\u00F1",
       "screen_name" : "esten",
       "indices" : [ 21, 27 ],
       "id_str" : "15374401",
@@ -1726,7 +1726,7 @@ Grailbird.data.tweets_2015_11 =
       "id_str" : "81458523",
       "id" : 81458523
     }, {
-      "name" : "Este\u00F1 Hispaniensis",
+      "name" : "Este\u00F1",
       "screen_name" : "esten",
       "indices" : [ 119, 125 ],
       "id_str" : "15374401",
@@ -1749,7 +1749,7 @@ Grailbird.data.tweets_2015_11 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Este\u00F1 Hispaniensis",
+        "name" : "Este\u00F1",
         "screen_name" : "esten",
         "indices" : [ 98, 104 ],
         "id_str" : "15374401",
@@ -1991,7 +1991,7 @@ Grailbird.data.tweets_2015_11 =
       "screen_name" : "GeekNathn",
       "protected" : false,
       "id_str" : "410950287",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/480475556111077376\/9rKx0MQo_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/815719220147142656\/atyr-IDb_normal.jpg",
       "id" : 410950287,
       "verified" : false
     }
@@ -2242,11 +2242,11 @@ Grailbird.data.tweets_2015_11 =
       "id_str" : "80693776",
       "id" : 80693776
     }, {
-      "name" : "Wendy Nather",
+      "name" : "Not Wendy",
       "screen_name" : "RCISCwendy",
       "indices" : [ 14, 25 ],
-      "id_str" : "353963359",
-      "id" : 353963359
+      "id_str" : "817464065761144832",
+      "id" : 817464065761144832
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2275,11 +2275,11 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wendy Nather",
+      "name" : "Not Wendy",
       "screen_name" : "RCISCwendy",
       "indices" : [ 0, 11 ],
-      "id_str" : "353963359",
-      "id" : 353963359
+      "id_str" : "817464065761144832",
+      "id" : 817464065761144832
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2293,7 +2293,7 @@ Grailbird.data.tweets_2015_11 =
   "id" : 669245300381384704,
   "in_reply_to_status_id" : 669245051290062848,
   "created_at" : "2015-11-24 20:04:48 +0000",
-  "in_reply_to_screen_name" : "RCISCwendy",
+  "in_reply_to_screen_name" : "wendynather",
   "in_reply_to_user_id_str" : "353963359",
   "user" : {
     "name" : "GonzoHacker",
@@ -2352,7 +2352,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Este\u00F1Mauretanianicus",
+      "name" : "Este\u00F1",
       "screen_name" : "esten",
       "indices" : [ 0, 6 ],
       "id_str" : "15374401",
@@ -3221,7 +3221,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "piranhabrothers3",
+      "name" : "Russell's Teapot",
       "screen_name" : "nailbomb3",
       "indices" : [ 0, 10 ],
       "id_str" : "196685253",
@@ -4547,7 +4547,7 @@ Grailbird.data.tweets_2015_11 =
       "id_str" : "39291341",
       "id" : 39291341
     }, {
-      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
+      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 10, 25 ],
       "id_str" : "121556767",
@@ -5164,7 +5164,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Este\u00F1Mauretanianicus",
+      "name" : "Este\u00F1",
       "screen_name" : "esten",
       "indices" : [ 0, 6 ],
       "id_str" : "15374401",
@@ -5810,7 +5810,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Cyber",
+      "name" : "Self-Diving Bar",
       "screen_name" : "perezd",
       "indices" : [ 0, 7 ],
       "id_str" : "811649",
@@ -5993,7 +5993,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Este\u00F1Mauretanianicus",
+      "name" : "Este\u00F1",
       "screen_name" : "esten",
       "indices" : [ 0, 6 ],
       "id_str" : "15374401",
@@ -6032,7 +6032,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Este\u00F1Mauretanianicus",
+      "name" : "Este\u00F1",
       "screen_name" : "esten",
       "indices" : [ 0, 6 ],
       "id_str" : "15374401",
@@ -6892,7 +6892,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Este\u00F1Mauretanianicus",
+      "name" : "Este\u00F1",
       "screen_name" : "esten",
       "indices" : [ 3, 9 ],
       "id_str" : "15374401",
@@ -6919,7 +6919,7 @@ Grailbird.data.tweets_2015_11 =
     "id" : 662054048921575424,
     "created_at" : "2015-11-04 23:49:20 +0000",
     "user" : {
-      "name" : "Este\u00F1Mauretanianicus",
+      "name" : "Este\u00F1",
       "screen_name" : "esten",
       "protected" : false,
       "id_str" : "15374401",
@@ -7208,7 +7208,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDEB6\uD83C\uDFFDjack",
+      "name" : "jack",
       "screen_name" : "jack",
       "indices" : [ 11, 16 ],
       "id_str" : "12",
@@ -7258,7 +7258,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDEB6\uD83C\uDFFDjack",
+      "name" : "jack",
       "screen_name" : "jack",
       "indices" : [ 13, 18 ],
       "id_str" : "12",

@@ -848,7 +848,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u041E\u043B\u044C\u0432\u0430\u0440\u043E \u0412i\u0434\u0435\u043B\u044C\u043A\u043E",
+      "name" : "Alvaro Videla",
       "screen_name" : "old_sound",
       "indices" : [ 0, 10 ],
       "id_str" : "16484216",
@@ -1091,7 +1091,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "eksith",
       "protected" : false,
       "id_str" : "16364936",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/752190075287564289\/WPReNg7X_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/821315921960665088\/xCKSu8Ha_normal.jpg",
       "id" : 16364936,
       "verified" : false
     }
@@ -1661,7 +1661,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Haley F",
+      "name" : "Hlayaley",
       "screen_name" : "geology_rocks",
       "indices" : [ 0, 14 ],
       "id_str" : "14692715",
@@ -1936,7 +1936,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u041E\u043B\u044C\u0432\u0430\u0440\u043E \u0412i\u0434\u0435\u043B\u044C\u043A\u043E",
+      "name" : "Alvaro Videla",
       "screen_name" : "old_sound",
       "indices" : [ 0, 10 ],
       "id_str" : "16484216",
@@ -1969,7 +1969,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u041E\u043B\u044C\u0432\u0430\u0440\u043E \u0412i\u0434\u0435\u043B\u044C\u043A\u043E",
+      "name" : "Alvaro Videla",
       "screen_name" : "old_sound",
       "indices" : [ 0, 10 ],
       "id_str" : "16484216",
@@ -2666,7 +2666,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "jleedev",
       "protected" : false,
       "id_str" : "12303382",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/753361784862568448\/FF3UUYxF_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/815965287921152005\/efsMRObR_normal.jpg",
       "id" : 12303382,
       "verified" : false
     }
@@ -2780,7 +2780,7 @@ Grailbird.data.tweets_2013_08 =
       "id_str" : "4170910474",
       "id" : 4170910474
     }, {
-      "name" : "\u041E\u043B\u044C\u0432\u0430\u0440\u043E \u0412i\u0434\u0435\u043B\u044C\u043A\u043E",
+      "name" : "Alvaro Videla",
       "screen_name" : "old_sound",
       "indices" : [ 14, 24 ],
       "id_str" : "16484216",
@@ -2962,7 +2962,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Evil Genius",
+      "name" : "\u0421\u0430\u0448\u0430 \u041C\u043E\u0440c",
       "screen_name" : "AlexMorse",
       "indices" : [ 0, 10 ],
       "id_str" : "4047941",
@@ -3490,7 +3490,7 @@ Grailbird.data.tweets_2013_08 =
       "id_str" : "14085052",
       "id" : 14085052
     }, {
-      "name" : "Leonora Forelle",
+      "name" : "Lars Fischer",
       "screen_name" : "Fischblog",
       "indices" : [ 9, 19 ],
       "id_str" : "14700783",
@@ -3800,7 +3800,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "eri\u03BA",
+      "name" : "eri\u03BA \uD83C\uDF39",
       "screen_name" : "erikwithfriends",
       "indices" : [ 3, 19 ],
       "id_str" : "397562050",
@@ -3842,7 +3842,7 @@ Grailbird.data.tweets_2013_08 =
     "in_reply_to_screen_name" : "GonzoHacker",
     "in_reply_to_user_id_str" : "773009000",
     "user" : {
-      "name" : "eri\u03BA",
+      "name" : "eri\u03BA \uD83C\uDF39",
       "screen_name" : "erikwithfriends",
       "protected" : false,
       "id_str" : "397562050",

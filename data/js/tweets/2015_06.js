@@ -775,7 +775,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "relaxed",
+      "name" : "ninny muggins",
       "screen_name" : "joshrotenberg",
       "indices" : [ 0, 14 ],
       "id_str" : "1542661",
@@ -2244,117 +2244,6 @@ Grailbird.data.tweets_2015_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Nicholas Carlson",
-      "screen_name" : "nichcarlson",
-      "indices" : [ 3, 15 ],
-      "id_str" : "9549942",
-      "id" : 9549942
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/nichcarlson\/status\/609359993826082816\/photo\/1",
-      "indices" : [ 47, 69 ],
-      "url" : "http:\/\/t.co\/Quv8nVG9PZ",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CHThr43WgAAlj_W.jpg",
-      "id_str" : "609359993717030912",
-      "id" : 609359993717030912,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CHThr43WgAAlj_W.jpg",
-      "sizes" : [ {
-        "h" : 542,
-        "resize" : "fit",
-        "w" : 723
-      }, {
-        "h" : 542,
-        "resize" : "fit",
-        "w" : 723
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 450,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 255,
-        "resize" : "fit",
-        "w" : 340
-      } ],
-      "display_url" : "pic.twitter.com\/Quv8nVG9PZ"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "609517311301529603",
-  "text" : "RT @nichcarlson: BREAKING: JACK DORSEY\u2019S BEARD http:\/\/t.co\/Quv8nVG9PZ",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.apple.com\/\" rel=\"nofollow\"\u003EOS X\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/nichcarlson\/status\/609359993826082816\/photo\/1",
-        "indices" : [ 30, 52 ],
-        "url" : "http:\/\/t.co\/Quv8nVG9PZ",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CHThr43WgAAlj_W.jpg",
-        "id_str" : "609359993717030912",
-        "id" : 609359993717030912,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CHThr43WgAAlj_W.jpg",
-        "sizes" : [ {
-          "h" : 542,
-          "resize" : "fit",
-          "w" : 723
-        }, {
-          "h" : 542,
-          "resize" : "fit",
-          "w" : 723
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 450,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 255,
-          "resize" : "fit",
-          "w" : 340
-        } ],
-        "display_url" : "pic.twitter.com\/Quv8nVG9PZ"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "609359993826082816",
-    "text" : "BREAKING: JACK DORSEY\u2019S BEARD http:\/\/t.co\/Quv8nVG9PZ",
-    "id" : 609359993826082816,
-    "created_at" : "2015-06-12 14:01:58 +0000",
-    "user" : {
-      "name" : "Nicholas Carlson",
-      "screen_name" : "nichcarlson",
-      "protected" : false,
-      "id_str" : "9549942",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/769651426926690304\/DZPz2WzB_normal.jpg",
-      "id" : 9549942,
-      "verified" : true
-    }
-  },
-  "id" : 609517311301529603,
-  "created_at" : "2015-06-13 00:27:05 +0000",
-  "user" : {
-    "name" : "GonzoHacker",
-    "screen_name" : "GonzoHacker",
-    "protected" : false,
-    "id_str" : "773009000",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
-    "id" : 773009000,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -2498,7 +2387,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "snipe",
+      "name" : "snipe \uD83E\uDD19\uD83C\uDFFB",
       "screen_name" : "snipeyhead",
       "indices" : [ 0, 11 ],
       "id_str" : "14246782",
@@ -2997,7 +2886,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
+      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 0, 15 ],
       "id_str" : "121556767",
@@ -3499,7 +3388,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
+      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 3, 18 ],
       "id_str" : "121556767",
@@ -3532,11 +3421,11 @@ Grailbird.data.tweets_2015_06 =
     "id" : 608025277915131905,
     "created_at" : "2015-06-08 21:38:17 +0000",
     "user" : {
-      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
+      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "protected" : false,
       "id_str" : "121556767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800195290590347264\/jNa7PjJN_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/829131583105953793\/bSerl3Xk_normal.jpg",
       "id" : 121556767,
       "verified" : false
     }
@@ -4235,7 +4124,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Reince & Retweet",
+      "name" : "Tweety Amin",
       "screen_name" : "moonpolysoft",
       "indices" : [ 3, 16 ],
       "id_str" : "14204623",
@@ -4262,7 +4151,7 @@ Grailbird.data.tweets_2015_06 =
     "id" : 606206077076504576,
     "created_at" : "2015-06-03 21:09:26 +0000",
     "user" : {
-      "name" : "Reince & Retweet",
+      "name" : "Tweety Amin",
       "screen_name" : "moonpolysoft",
       "protected" : false,
       "id_str" : "14204623",
@@ -4339,62 +4228,6 @@ Grailbird.data.tweets_2015_06 =
   "text" : "How can something so full of pictures of kittens be so evil",
   "id" : 606152659339345921,
   "created_at" : "2015-06-03 17:37:10 +0000",
-  "user" : {
-    "name" : "GonzoHacker",
-    "screen_name" : "GonzoHacker",
-    "protected" : false,
-    "id_str" : "773009000",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
-    "id" : 773009000,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Alyson Shontell",
-      "screen_name" : "ajs",
-      "indices" : [ 3, 7 ],
-      "id_str" : "24941044",
-      "id" : 24941044
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "606125692682510336",
-  "text" : "RT @ajs: Don\u2019t ask someone in pain, \u201CHow are you doing?\u201D Ask, \u201CHow are you doing today?\u201D Sheryl\u2019s great advice, even on grief  http:\/\/t.co\/\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 118, 140 ],
-        "url" : "http:\/\/t.co\/XumjUdspAw",
-        "expanded_url" : "http:\/\/www.businessinsider.com\/sheryl-sandbergs-essay-on-dave-goldbergs-death-and-grief-2015-6",
-        "display_url" : "businessinsider.com\/sheryl-sandber\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "606122549710364672",
-    "text" : "Don\u2019t ask someone in pain, \u201CHow are you doing?\u201D Ask, \u201CHow are you doing today?\u201D Sheryl\u2019s great advice, even on grief  http:\/\/t.co\/XumjUdspAw",
-    "id" : 606122549710364672,
-    "created_at" : "2015-06-03 15:37:31 +0000",
-    "user" : {
-      "name" : "Alyson Shontell",
-      "screen_name" : "ajs",
-      "protected" : false,
-      "id_str" : "24941044",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/547124381999038465\/zIe1DS4w_normal.png",
-      "id" : 24941044,
-      "verified" : true
-    }
-  },
-  "id" : 606125692682510336,
-  "created_at" : "2015-06-03 15:50:01 +0000",
   "user" : {
     "name" : "GonzoHacker",
     "screen_name" : "GonzoHacker",

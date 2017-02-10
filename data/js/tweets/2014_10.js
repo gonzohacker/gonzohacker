@@ -25,7 +25,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nasty Hombre",
+      "name" : "Rebel Scum",
       "screen_name" : "bradheintz",
       "indices" : [ 0, 11 ],
       "id_str" : "2042451",
@@ -352,7 +352,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "KOZZWON",
       "protected" : false,
       "id_str" : "65150717",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/642028226013958144\/DwWryylh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/818491441689350144\/6xVOUOml_normal.jpg",
       "id" : 65150717,
       "verified" : false
     }
@@ -1567,7 +1567,7 @@ Grailbird.data.tweets_2014_10 =
       "id_str" : "6083342",
       "id" : 6083342
     }, {
-      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
+      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 9, 24 ],
       "id_str" : "121556767",
@@ -1600,7 +1600,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
+      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 0, 15 ],
       "id_str" : "121556767",

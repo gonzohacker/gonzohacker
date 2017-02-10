@@ -530,7 +530,7 @@ Grailbird.data.tweets_2016_05 =
       "screen_name" : "mollycrabapple",
       "protected" : false,
       "id_str" : "15644999",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/798306915075948544\/X0ZY_9-Z_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/820937165962092544\/EmSBerjE_normal.jpg",
       "id" : 15644999,
       "verified" : true
     }
@@ -862,7 +862,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "khaxan popsicle",
+      "name" : "khaxan",
       "screen_name" : "khaxan",
       "indices" : [ 0, 7 ],
       "id_str" : "138938942",
@@ -939,7 +939,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Raed667",
+      "name" : "Raed667 \u0631\u0627\u0626\u062F",
       "screen_name" : "Raed667",
       "indices" : [ 0, 8 ],
       "id_str" : "229803979",
@@ -972,7 +972,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Raed667",
+      "name" : "Raed667 \u0631\u0627\u0626\u062F",
       "screen_name" : "Raed667",
       "indices" : [ 3, 11 ],
       "id_str" : "229803979",
@@ -1016,11 +1016,11 @@ Grailbird.data.tweets_2016_05 =
     "in_reply_to_screen_name" : "GonzoHacker",
     "in_reply_to_user_id_str" : "773009000",
     "user" : {
-      "name" : "Raed667",
+      "name" : "Raed667 \u0631\u0627\u0626\u062F",
       "screen_name" : "Raed667",
       "protected" : false,
       "id_str" : "229803979",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/753156264604073984\/H1YKYNGo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/814947098143625217\/-j_B086x_normal.jpg",
       "id" : 229803979,
       "verified" : false
     }
@@ -1279,7 +1279,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDF84christmas skull\uD83C\uDF84",
+      "name" : "skull",
       "screen_name" : "HappyHorseSkull",
       "indices" : [ 0, 16 ],
       "id_str" : "143789061",
@@ -1841,13 +1841,13 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Luther Stuffingler",
+      "name" : "Luther M. Siler",
       "screen_name" : "nfinitefreetime",
       "indices" : [ 0, 16 ],
       "id_str" : "755513",
       "id" : 755513
     }, {
-      "name" : "Everything Sucks",
+      "name" : "Sad Trombone Sound",
       "screen_name" : "Johngcole",
       "indices" : [ 17, 27 ],
       "id_str" : "25889985",
@@ -1880,13 +1880,13 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Luther Stuffingler",
+      "name" : "Luther M. Siler",
       "screen_name" : "nfinitefreetime",
       "indices" : [ 0, 16 ],
       "id_str" : "755513",
       "id" : 755513
     }, {
-      "name" : "Everything Sucks",
+      "name" : "Sad Trombone Sound",
       "screen_name" : "Johngcole",
       "indices" : [ 17, 27 ],
       "id_str" : "25889985",
@@ -2846,7 +2846,7 @@ Grailbird.data.tweets_2016_05 =
       "id_str" : "773009000",
       "id" : 773009000
     }, {
-      "name" : "email nonresponder",
+      "name" : "sarah jeong",
       "screen_name" : "sarahjeong",
       "indices" : [ 35, 46 ],
       "id_str" : "47509268",
@@ -2899,7 +2899,7 @@ Grailbird.data.tweets_2016_05 =
         "id_str" : "773009000",
         "id" : 773009000
       }, {
-        "name" : "email nonresponder",
+        "name" : "sarah jeong",
         "screen_name" : "sarahjeong",
         "indices" : [ 21, 32 ],
         "id_str" : "47509268",
@@ -3800,7 +3800,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WaffWoof",
+      "name" : "Selenium Waff",
       "screen_name" : "GalenChris",
       "indices" : [ 0, 11 ],
       "id_str" : "66367579",
@@ -4025,7 +4025,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
+      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 1, 16 ],
       "id_str" : "121556767",
@@ -4762,7 +4762,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "murmurs",
+      "name" : "\uD83D\uDC80\uD83D\uDC06",
       "screen_name" : "mrmrs_",
       "indices" : [ 0, 7 ],
       "id_str" : "316589445",
@@ -4883,13 +4883,13 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CyberAnil CyberDash",
+      "name" : "Anil Dash",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
       "id" : 36823
     }, {
-      "name" : "Blupman",
+      "name" : "Blup, man.",
       "screen_name" : "blippoblappo",
       "indices" : [ 14, 27 ],
       "id_str" : "2319314594",
@@ -4906,7 +4906,7 @@ Grailbird.data.tweets_2016_05 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Blupman",
+        "name" : "Blup, man.",
         "screen_name" : "blippoblappo",
         "indices" : [ 0, 13 ],
         "id_str" : "2319314594",
@@ -4927,7 +4927,7 @@ Grailbird.data.tweets_2016_05 =
     "in_reply_to_screen_name" : "blippoblappo",
     "in_reply_to_user_id_str" : "2319314594",
     "user" : {
-      "name" : "CyberAnil CyberDash",
+      "name" : "Anil Dash",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
@@ -4973,7 +4973,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDF84christmas skull\uD83C\uDF84",
+      "name" : "skull",
       "screen_name" : "HappyHorseSkull",
       "indices" : [ 0, 16 ],
       "id_str" : "143789061",
@@ -5240,7 +5240,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Coraline Ada Ehmke",
+      "name" : "Witch Emoji",
       "screen_name" : "CoralineAda",
       "indices" : [ 0, 12 ],
       "id_str" : "9526722",
@@ -5457,7 +5457,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Evan Kaloudis",
+      "name" : "E",
       "screen_name" : "evankaloudis",
       "indices" : [ 0, 13 ],
       "id_str" : "11961052",
@@ -5740,7 +5740,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Este\u00F1Mauretanianicus",
+      "name" : "Este\u00F1",
       "screen_name" : "esten",
       "indices" : [ 0, 6 ],
       "id_str" : "15374401",
@@ -6094,13 +6094,13 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Xerx",
+      "name" : "Gingerbeard the Dork",
       "screen_name" : "tia_marie",
       "indices" : [ 1, 11 ],
       "id_str" : "6025712",
       "id" : 6025712
     }, {
-      "name" : "Este\u00F1Mauretanianicus",
+      "name" : "Este\u00F1",
       "screen_name" : "esten",
       "indices" : [ 27, 33 ],
       "id_str" : "15374401",
@@ -6163,7 +6163,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Xerx",
+      "name" : "Gingerbeard the Dork",
       "screen_name" : "tia_marie",
       "indices" : [ 1, 11 ],
       "id_str" : "6025712",
@@ -6270,7 +6270,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Xerx",
+      "name" : "Gingerbeard the Dork",
       "screen_name" : "tia_marie",
       "indices" : [ 1, 11 ],
       "id_str" : "6025712",
@@ -7177,7 +7177,7 @@ Grailbird.data.tweets_2016_05 =
       "id_str" : "71244935",
       "id" : 71244935
     }, {
-      "name" : "solo : Program Never",
+      "name" : "\u4E0D\u660E",
       "screen_name" : "rubysolo",
       "indices" : [ 9, 18 ],
       "id_str" : "6164712",
@@ -7888,7 +7888,7 @@ Grailbird.data.tweets_2016_05 =
       "screen_name" : "bcrypt",
       "protected" : false,
       "id_str" : "968881477",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/803114599948099584\/ZCZ4IlwA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/825889837064466432\/2sgCLic6_normal.jpg",
       "id" : 968881477,
       "verified" : false
     }
@@ -7930,7 +7930,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Randolph West \u26A7",
+      "name" : "\u26A7",
       "screen_name" : "rabryst",
       "indices" : [ 0, 8 ],
       "id_str" : "20009233",
@@ -8469,7 +8469,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Este\u00F1Mauretanianicus",
+      "name" : "Este\u00F1",
       "screen_name" : "esten",
       "indices" : [ 0, 6 ],
       "id_str" : "15374401",
@@ -8606,7 +8606,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Xerx",
+      "name" : "Gingerbeard the Dork",
       "screen_name" : "tia_marie",
       "indices" : [ 0, 10 ],
       "id_str" : "6025712",
@@ -9027,7 +9027,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Spiked Greggnog",
+      "name" : "Burn the Fasces \u2199\u2199\u2199",
       "screen_name" : "Greg_Sideyr",
       "indices" : [ 0, 12 ],
       "id_str" : "2621110917",
@@ -9170,7 +9170,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Keeper of Lore",
+      "name" : "Munin",
       "screen_name" : "munin",
       "indices" : [ 0, 6 ],
       "id_str" : "8513352",
@@ -10021,7 +10021,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jim",
+      "name" : "jeb kush",
       "screen_name" : "h0w_n0w",
       "indices" : [ 0, 8 ],
       "id_str" : "785596",
@@ -10101,7 +10101,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Coraline Ada Ehmke",
+      "name" : "Witch Emoji",
       "screen_name" : "CoralineAda",
       "indices" : [ 0, 12 ],
       "id_str" : "9526722",
@@ -10134,7 +10134,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Coraline Ada Ehmke",
+      "name" : "Witch Emoji",
       "screen_name" : "CoralineAda",
       "indices" : [ 0, 12 ],
       "id_str" : "9526722",
@@ -10167,7 +10167,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Coraline Ada Ehmke",
+      "name" : "Witch Emoji",
       "screen_name" : "CoralineAda",
       "indices" : [ 0, 12 ],
       "id_str" : "9526722",
@@ -12434,13 +12434,13 @@ Grailbird.data.tweets_2016_05 =
       "id_str" : "16322212",
       "id" : 16322212
     }, {
-      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
+      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 6, 21 ],
       "id_str" : "121556767",
       "id" : 121556767
     }, {
-      "name" : "Este\u00F1Mauretanianicus",
+      "name" : "Este\u00F1",
       "screen_name" : "esten",
       "indices" : [ 22, 28 ],
       "id_str" : "15374401",
@@ -13647,7 +13647,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Keeper of Lore",
+      "name" : "Munin",
       "screen_name" : "munin",
       "indices" : [ 0, 6 ],
       "id_str" : "8513352",
@@ -13680,7 +13680,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Keeper of Lore",
+      "name" : "Munin",
       "screen_name" : "munin",
       "indices" : [ 0, 6 ],
       "id_str" : "8513352",
@@ -14111,13 +14111,13 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Vladimir Plugin",
+      "name" : "A. Paul Ling",
       "screen_name" : "ehthayer",
       "indices" : [ 0, 9 ],
       "id_str" : "14176150",
       "id" : 14176150
     }, {
-      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
+      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 10, 25 ],
       "id_str" : "121556767",
@@ -14150,7 +14150,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
+      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 0, 15 ],
       "id_str" : "121556767",
@@ -14189,7 +14189,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
+      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 0, 15 ],
       "id_str" : "121556767",
@@ -14503,7 +14503,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
+      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 0, 15 ],
       "id_str" : "121556767",
@@ -14972,7 +14972,7 @@ Grailbird.data.tweets_2016_05 =
       "screen_name" : "Aelkus",
       "protected" : false,
       "id_str" : "8935052",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/718305881604165632\/FIQ5Ajen_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823085666980401152\/F3t7NpO3_normal.jpg",
       "id" : 8935052,
       "verified" : false
     }
@@ -15526,7 +15526,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Este\u00F1Mauretanianicus",
+      "name" : "Este\u00F1",
       "screen_name" : "esten",
       "indices" : [ 0, 6 ],
       "id_str" : "15374401",
@@ -15707,7 +15707,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
+      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 0, 15 ],
       "id_str" : "121556767",
@@ -16874,7 +16874,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Este\u00F1Mauretanianicus",
+      "name" : "Este\u00F1",
       "screen_name" : "esten",
       "indices" : [ 0, 6 ],
       "id_str" : "15374401",
@@ -17300,7 +17300,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lupe Fiasco",
+      "name" : "DROGAS Light 2\/10\/17",
       "screen_name" : "LupeFiasco",
       "indices" : [ 3, 14 ],
       "id_str" : "28165335",
@@ -17327,11 +17327,11 @@ Grailbird.data.tweets_2016_05 =
     "id" : 727870520360738817,
     "created_at" : "2016-05-04 14:40:29 +0000",
     "user" : {
-      "name" : "Lupe Fiasco",
+      "name" : "DROGAS Light 2\/10\/17",
       "screen_name" : "LupeFiasco",
       "protected" : false,
       "id_str" : "28165335",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/667070426502316032\/IOUwjuSg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/812888375141269504\/T8nimlIN_normal.jpg",
       "id" : 28165335,
       "verified" : true
     }
@@ -17576,7 +17576,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nite 0wl",
+      "name" : "nite 0wl \uD83C\uDF2E",
       "screen_name" : "nite0wl_2600",
       "indices" : [ 0, 13 ],
       "id_str" : "357870661",
@@ -17615,7 +17615,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nite 0wl",
+      "name" : "nite 0wl \uD83C\uDF2E",
       "screen_name" : "nite0wl_2600",
       "indices" : [ 0, 13 ],
       "id_str" : "357870661",
@@ -18072,6 +18072,12 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "OpSec Animals",
+      "screen_name" : "opsecanimals",
+      "indices" : [ 0, 13 ],
+      "id_str" : "822250833274437632",
+      "id" : 822250833274437632
+    }, {
       "name" : "cryptopotato",
       "screen_name" : "cryptoishard",
       "indices" : [ 14, 27 ],
@@ -18517,7 +18523,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "G\u00F6tzen-D\u00E4mmerung",
+      "name" : "robespierres ghost",
       "screen_name" : "NilVeritas",
       "indices" : [ 0, 11 ],
       "id_str" : "69146783",
@@ -18755,7 +18761,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "HONEY I'M BABY",
+      "name" : "sebmal... he's good",
       "screen_name" : "sebmal",
       "indices" : [ 3, 10 ],
       "id_str" : "10051822",
@@ -18842,7 +18848,7 @@ Grailbird.data.tweets_2016_05 =
     "id" : 727263645999194112,
     "created_at" : "2016-05-02 22:28:59 +0000",
     "user" : {
-      "name" : "HONEY I'M BABY",
+      "name" : "sebmal... he's good",
       "screen_name" : "sebmal",
       "protected" : false,
       "id_str" : "10051822",
@@ -19396,7 +19402,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Xerx",
+      "name" : "Gingerbeard the Dork",
       "screen_name" : "tia_marie",
       "indices" : [ 0, 10 ],
       "id_str" : "6025712",

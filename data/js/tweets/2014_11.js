@@ -177,7 +177,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "beardedstoner",
       "protected" : false,
       "id_str" : "232863368",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/512777214484439040\/qb1Vjk1F_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/822487490913325056\/ibee8D33_normal.jpg",
       "id" : 232863368,
       "verified" : false
     }
@@ -651,7 +651,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "murmurs",
+      "name" : "\uD83D\uDC80\uD83D\uDC06",
       "screen_name" : "mrmrs_",
       "indices" : [ 0, 7 ],
       "id_str" : "316589445",
@@ -1442,7 +1442,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u1D49\u02B3\u1DA6\u1D9C \u02B7\u1D52\u1D52\u1D48",
+      "name" : "eric..............",
       "screen_name" : "eric_b_wood",
       "indices" : [ 0, 12 ],
       "id_str" : "110202631",
@@ -1589,7 +1589,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "eksith",
       "protected" : false,
       "id_str" : "16364936",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/752190075287564289\/WPReNg7X_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/821315921960665088\/xCKSu8Ha_normal.jpg",
       "id" : 16364936,
       "verified" : false
     }
@@ -1704,7 +1704,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "nrose",
       "protected" : false,
       "id_str" : "926251",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/803087886610530304\/Zt1-pF7H_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/827751072701751296\/s2FrxG8s_normal.jpg",
       "id" : 926251,
       "verified" : false
     }
@@ -2595,7 +2595,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nasty Hombre",
+      "name" : "Rebel Scum",
       "screen_name" : "bradheintz",
       "indices" : [ 0, 11 ],
       "id_str" : "2042451",

@@ -28,7 +28,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "A Holly Jolly Punyon",
+      "name" : "Jason Punyon",
       "screen_name" : "JasonPunyon",
       "indices" : [ 3, 15 ],
       "id_str" : "14364352",
@@ -121,7 +121,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 395576978666835968,
     "created_at" : "2013-10-30 15:44:36 +0000",
     "user" : {
-      "name" : "A Holly Jolly Punyon",
+      "name" : "Jason Punyon",
       "screen_name" : "JasonPunyon",
       "protected" : false,
       "id_str" : "14364352",
@@ -1718,7 +1718,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : ".garyd",
+      "name" : "Gary Deer",
       "screen_name" : "_GaryD",
       "indices" : [ 0, 7 ],
       "id_str" : "452602691",
@@ -1820,7 +1820,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
+      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 0, 15 ],
       "id_str" : "121556767",
@@ -2460,7 +2460,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Cyber",
+      "name" : "Self-Diving Bar",
       "screen_name" : "perezd",
       "indices" : [ 0, 7 ],
       "id_str" : "811649",
@@ -2653,7 +2653,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
+      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 3, 18 ],
       "id_str" : "121556767",
@@ -2690,11 +2690,11 @@ Grailbird.data.tweets_2013_10 =
     "id" : 390914089901641728,
     "created_at" : "2013-10-17 18:55:56 +0000",
     "user" : {
-      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
+      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "protected" : false,
       "id_str" : "121556767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800195290590347264\/jNa7PjJN_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/829131583105953793\/bSerl3Xk_normal.jpg",
       "id" : 121556767,
       "verified" : false
     }
@@ -2714,7 +2714,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Xerx",
+      "name" : "Gingerbeard the Dork",
       "screen_name" : "tia_marie",
       "indices" : [ 0, 10 ],
       "id_str" : "6025712",
@@ -4096,7 +4096,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Conway's Lawyer",
+      "name" : "not your whit",
       "screen_name" : "whit",
       "indices" : [ 3, 8 ],
       "id_str" : "17974018",
@@ -4140,11 +4140,11 @@ Grailbird.data.tweets_2013_10 =
     "in_reply_to_screen_name" : "GonzoHacker",
     "in_reply_to_user_id_str" : "773009000",
     "user" : {
-      "name" : "Conway's Lawyer",
+      "name" : "not your whit",
       "screen_name" : "whit",
       "protected" : false,
       "id_str" : "17974018",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/757128619575521280\/ZshBCx5W_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823204567810572288\/Mtl8so_m_normal.jpg",
       "id" : 17974018,
       "verified" : false
     }
@@ -4408,7 +4408,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Evil Genius",
+      "name" : "\u0421\u0430\u0448\u0430 \u041C\u043E\u0440c",
       "screen_name" : "AlexMorse",
       "indices" : [ 0, 10 ],
       "id_str" : "4047941",
@@ -4556,11 +4556,11 @@ Grailbird.data.tweets_2013_10 =
     "id" : 387774449744764928,
     "created_at" : "2013-10-09 03:00:07 +0000",
     "user" : {
-      "name" : "be kind",
+      "name" : ".js \uD83C\uDFF4",
       "screen_name" : "jsdnxx",
       "protected" : false,
       "id_str" : "91704031",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/797149151326662656\/Fu1BW3f2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/809964385179308032\/ZoTiC0ey_normal.jpg",
       "id" : 91704031,
       "verified" : false
     }
@@ -5001,7 +5001,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
+      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 0, 15 ],
       "id_str" : "121556767",
@@ -5156,7 +5156,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(((Popehat)))",
+      "name" : "So-called Popehat",
       "screen_name" : "Popehat",
       "indices" : [ 3, 11 ],
       "id_str" : "18839937",
@@ -5183,7 +5183,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 386328322197553152,
     "created_at" : "2013-10-05 03:13:44 +0000",
     "user" : {
-      "name" : "(((Popehat)))",
+      "name" : "So-called Popehat",
       "screen_name" : "Popehat",
       "protected" : false,
       "id_str" : "18839937",
@@ -5213,7 +5213,7 @@ Grailbird.data.tweets_2013_10 =
       "id_str" : "18368962",
       "id" : 18368962
     }, {
-      "name" : "(((Popehat)))",
+      "name" : "So-called Popehat",
       "screen_name" : "Popehat",
       "indices" : [ 11, 19 ],
       "id_str" : "18839937",
@@ -5239,7 +5239,7 @@ Grailbird.data.tweets_2013_10 =
     "source" : "\u003Ca href=\"http:\/\/twicca.r246.jp\/\" rel=\"nofollow\"\u003Etwicca\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "(((Popehat)))",
+        "name" : "So-called Popehat",
         "screen_name" : "Popehat",
         "indices" : [ 0, 8 ],
         "id_str" : "18839937",
@@ -5626,7 +5626,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
+      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 3, 18 ],
       "id_str" : "121556767",
@@ -5659,11 +5659,11 @@ Grailbird.data.tweets_2013_10 =
     "id" : 386316905180450816,
     "created_at" : "2013-10-05 02:28:22 +0000",
     "user" : {
-      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
+      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "protected" : false,
       "id_str" : "121556767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800195290590347264\/jNa7PjJN_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/829131583105953793\/bSerl3Xk_normal.jpg",
       "id" : 121556767,
       "verified" : false
     }
@@ -6407,7 +6407,7 @@ Grailbird.data.tweets_2013_10 =
       "id_str" : "4170910474",
       "id" : 4170910474
     }, {
-      "name" : "tiny warfield",
+      "name" : "scream share",
       "screen_name" : "benjaminws",
       "indices" : [ 26, 37 ],
       "id_str" : "14188391",
@@ -7123,7 +7123,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "snipe",
+      "name" : "fake GNUs snipe",
       "screen_name" : "snipeyhead",
       "indices" : [ 0, 11 ],
       "id_str" : "14246782",

@@ -1951,7 +1951,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "drraid",
       "protected" : false,
       "id_str" : "44493824",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/422584207055941632\/Zrqv32Dl_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/829010788572606465\/P8WvpVnz_normal.jpg",
       "id" : 44493824,
       "verified" : false
     }

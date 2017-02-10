@@ -77,7 +77,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob Ratchet \uD83C\uDF84\uD83C\uDF81",
+      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 0, 15 ],
       "id_str" : "121556767",
@@ -1836,7 +1836,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "emiliano luckman",
+      "name" : "ernie would have won",
       "screen_name" : "ErnieLies",
       "indices" : [ 3, 13 ],
       "id_str" : "321787970",
@@ -1863,7 +1863,7 @@ Grailbird.data.tweets_2015_08 =
     "id" : 630850144733237248,
     "created_at" : "2015-08-10 21:16:09 +0000",
     "user" : {
-      "name" : "emiliano luckman",
+      "name" : "ernie would have won",
       "screen_name" : "ErnieLies",
       "protected" : false,
       "id_str" : "321787970",
@@ -2499,7 +2499,7 @@ Grailbird.data.tweets_2015_08 =
       "screen_name" : "jewfacekilla",
       "protected" : false,
       "id_str" : "311185536",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/763041251587264512\/GkzKUiSt_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/816516417423962112\/dHQDmz4J_normal.jpg",
       "id" : 311185536,
       "verified" : false
     }

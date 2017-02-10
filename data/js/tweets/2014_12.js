@@ -99,13 +99,7 @@ Grailbird.data.tweets_2014_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "voidfraction",
-      "screen_name" : "voidfraction",
-      "indices" : [ 0, 13 ],
-      "id_str" : "287184001",
-      "id" : 287184001
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -118,7 +112,7 @@ Grailbird.data.tweets_2014_12 =
   "id" : 550103349974929408,
   "in_reply_to_status_id" : 550100110865367042,
   "created_at" : "2014-12-31 01:37:13 +0000",
-  "in_reply_to_screen_name" : "voidfraction",
+  "in_reply_to_screen_name" : "hikikomorphism",
   "in_reply_to_user_id_str" : "287184001",
   "user" : {
     "name" : "GonzoHacker",

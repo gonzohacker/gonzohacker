@@ -58,7 +58,7 @@ Grailbird.data.tweets_2015_07 =
       "id_str" : "1081",
       "id" : 1081
     }, {
-      "name" : "Hiroki Watanabe",
+      "name" : "\u6E21\u8FBA\u62D3\u8CB4",
       "screen_name" : "hirokibacardi",
       "indices" : [ 13, 27 ],
       "id_str" : "1968539466",
@@ -94,7 +94,7 @@ Grailbird.data.tweets_2015_07 =
       "id_str" : "5943622",
       "id" : 5943622
     }, {
-      "name" : "Kevin Rose",
+      "name" : "Kevin Rose \u26E9",
       "screen_name" : "kevinrose",
       "indices" : [ 80, 90 ],
       "id_str" : "657863",
@@ -855,7 +855,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(((Alx Dark)))",
+      "name" : "avd",
       "screen_name" : "alxdark",
       "indices" : [ 0, 8 ],
       "id_str" : "32810126",
@@ -1901,7 +1901,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "cyberilluminati",
+      "name" : "Per Curiam",
       "screen_name" : "thwarted",
       "indices" : [ 3, 12 ],
       "id_str" : "14874283",
@@ -1945,7 +1945,7 @@ Grailbird.data.tweets_2015_07 =
     "in_reply_to_screen_name" : "GonzoHacker",
     "in_reply_to_user_id_str" : "773009000",
     "user" : {
-      "name" : "cyberilluminati",
+      "name" : "Per Curiam",
       "screen_name" : "thwarted",
       "protected" : false,
       "id_str" : "14874283",
@@ -2108,7 +2108,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(((Yishan Wong)))",
+      "name" : "Yishan",
       "screen_name" : "yishan",
       "indices" : [ 3, 10 ],
       "id_str" : "14553823",
@@ -2152,11 +2152,11 @@ Grailbird.data.tweets_2015_07 =
     "in_reply_to_screen_name" : "yishan",
     "in_reply_to_user_id_str" : "14553823",
     "user" : {
-      "name" : "(((Yishan Wong)))",
+      "name" : "Yishan",
       "screen_name" : "yishan",
       "protected" : false,
       "id_str" : "14553823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/714684938445012993\/TAdpgH1t_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/825934360528293888\/_eKETkcz_normal.jpg",
       "id" : 14553823,
       "verified" : false
     }
@@ -2366,7 +2366,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "rstevens \uD83E\uDD16",
+      "name" : "rstevens \uD83D\uDCBE",
       "screen_name" : "rstevens",
       "indices" : [ 3, 12 ],
       "id_str" : "643653",
@@ -2393,7 +2393,7 @@ Grailbird.data.tweets_2015_07 =
     "id" : 618984692503547904,
     "created_at" : "2015-07-09 03:27:05 +0000",
     "user" : {
-      "name" : "rstevens \uD83E\uDD16",
+      "name" : "rstevens \uD83D\uDCBE",
       "screen_name" : "rstevens",
       "protected" : false,
       "id_str" : "643653",
@@ -2810,7 +2810,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "jewfacekilla",
       "protected" : false,
       "id_str" : "311185536",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/763041251587264512\/GkzKUiSt_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/816516417423962112\/dHQDmz4J_normal.jpg",
       "id" : 311185536,
       "verified" : false
     }
@@ -2973,7 +2973,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Queer&Present Danger",
+      "name" : "The Original Alan",
       "screen_name" : "awhooker",
       "indices" : [ 0, 9 ],
       "id_str" : "49647020",
@@ -3006,7 +3006,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jingle Bell Jayelle",
+      "name" : "Im-\uD83C\uDF51-\uD83C\uDF31 Jayelle",
       "screen_name" : "GreenEyedLilo",
       "indices" : [ 3, 17 ],
       "id_str" : "119758837",
@@ -3036,7 +3036,7 @@ Grailbird.data.tweets_2015_07 =
     "id" : 617833702668697600,
     "created_at" : "2015-07-05 23:13:28 +0000",
     "user" : {
-      "name" : "Jingle Bell Jayelle",
+      "name" : "Im-\uD83C\uDF51-\uD83C\uDF31 Jayelle",
       "screen_name" : "GreenEyedLilo",
       "protected" : false,
       "id_str" : "119758837",
