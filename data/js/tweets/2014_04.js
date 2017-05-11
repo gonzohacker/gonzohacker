@@ -576,7 +576,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDC80\uD83D\uDC06",
+      "name" : "murmurs",
       "screen_name" : "mrmrs_",
       "indices" : [ 0, 7 ],
       "id_str" : "316589445",
@@ -846,6 +846,74 @@ Grailbird.data.tweets_2014_04 =
     "user_mentions" : [ {
       "name" : "Tony Collen",
       "screen_name" : "tcollen",
+      "indices" : [ 3, 11 ],
+      "id_str" : "15201409",
+      "id" : 15201409
+    }, {
+      "name" : "GonzoHacker",
+      "screen_name" : "GonzoHacker",
+      "indices" : [ 13, 25 ],
+      "id_str" : "773009000",
+      "id" : 773009000
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "460849540031995904",
+  "text" : "RT @tcollen: @GonzoHacker Closed: WONTFIX",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "GonzoHacker",
+        "screen_name" : "GonzoHacker",
+        "indices" : [ 0, 12 ],
+        "id_str" : "773009000",
+        "id" : 773009000
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "in_reply_to_status_id_str" : "460846353120129024",
+    "geo" : { },
+    "id_str" : "460846512323297280",
+    "in_reply_to_user_id" : 773009000,
+    "text" : "@GonzoHacker Closed: WONTFIX",
+    "id" : 460846512323297280,
+    "in_reply_to_status_id" : 460846353120129024,
+    "created_at" : "2014-04-28 18:22:25 +0000",
+    "in_reply_to_screen_name" : "GonzoHacker",
+    "in_reply_to_user_id_str" : "773009000",
+    "user" : {
+      "name" : "Tony Collen",
+      "screen_name" : "tcollen",
+      "protected" : false,
+      "id_str" : "15201409",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/822498624986824707\/k4Hcyl6J_normal.jpg",
+      "id" : 15201409,
+      "verified" : false
+    }
+  },
+  "id" : 460849540031995904,
+  "created_at" : "2014-04-28 18:34:27 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Tony Collen",
+      "screen_name" : "tcollen",
       "indices" : [ 0, 8 ],
       "id_str" : "15201409",
       "id" : 15201409
@@ -1025,7 +1093,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "snipe \uD83E\uDD19\uD83C\uDFFB",
+      "name" : "schwifty schnipe",
       "screen_name" : "snipeyhead",
       "indices" : [ 3, 14 ],
       "id_str" : "14246782",
@@ -1062,7 +1130,7 @@ Grailbird.data.tweets_2014_04 =
     "id" : 460380459885543424,
     "created_at" : "2014-04-27 11:30:29 +0000",
     "user" : {
-      "name" : "snipe \uD83E\uDD19\uD83C\uDFFB",
+      "name" : "schwifty schnipe",
       "screen_name" : "snipeyhead",
       "protected" : false,
       "id_str" : "14246782",
@@ -2233,7 +2301,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pookleblinky",
+      "name" : "\u200F\u0628\u0648\u0643\u064A\u0628\u0644\u064A\u0646\u0643\u064A",
       "screen_name" : "pookleblinky",
       "indices" : [ 0, 13 ],
       "id_str" : "35163668",

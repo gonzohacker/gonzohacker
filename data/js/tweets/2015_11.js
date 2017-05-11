@@ -1991,7 +1991,7 @@ Grailbird.data.tweets_2015_11 =
       "screen_name" : "GeekNathn",
       "protected" : false,
       "id_str" : "410950287",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/815719220147142656\/atyr-IDb_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/855910487954907136\/AuIYcVnj_normal.jpg",
       "id" : 410950287,
       "verified" : false
     }
@@ -2236,7 +2236,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Russell Thomas",
+      "name" : "Russell\uD83C\uDDFA\uD83C\uDDF8\uD83C\uDF1CThomas",
       "screen_name" : "MrMeritology",
       "indices" : [ 0, 13 ],
       "id_str" : "80693776",
@@ -2643,7 +2643,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "onomatopoetic",
+      "name" : "insomnomaniac \uD83D\uDCA4",
       "screen_name" : "brrzap",
       "indices" : [ 0, 7 ],
       "id_str" : "265639666",
@@ -2681,7 +2681,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "onomatopoetic",
+      "name" : "insomnomaniac \uD83D\uDCA4",
       "screen_name" : "brrzap",
       "indices" : [ 0, 7 ],
       "id_str" : "265639666",
@@ -3221,7 +3221,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Russell's Teapot",
+      "name" : "Modelo Especial War",
       "screen_name" : "nailbomb3",
       "indices" : [ 0, 10 ],
       "id_str" : "196685253",
@@ -4541,7 +4541,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "everett byram",
+      "name" : "ret byram",
       "screen_name" : "rad_milk",
       "indices" : [ 0, 9 ],
       "id_str" : "39291341",
@@ -5810,7 +5810,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Self-Diving Bar",
+      "name" : "to catch a redditor",
       "screen_name" : "perezd",
       "indices" : [ 0, 7 ],
       "id_str" : "811649",
@@ -6071,7 +6071,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "cryptopotato",
+      "name" : "cryptopotato w\/ \uD83E\uDDC0\uD83E\uDD53",
       "screen_name" : "cryptoishard",
       "indices" : [ 0, 13 ],
       "id_str" : "1058788472",

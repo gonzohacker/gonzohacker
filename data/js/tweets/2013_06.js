@@ -934,7 +934,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "languagehacker",
       "protected" : false,
       "id_str" : "121556767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/829131583105953793\/bSerl3Xk_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/833874714904973312\/yUCZn9tg_normal.jpg",
       "id" : 121556767,
       "verified" : false
     }
@@ -2687,7 +2687,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "ioCassie",
       "protected" : false,
       "id_str" : "295359176",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/731253048220078081\/ANf09Maa_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/861399056614125568\/CDqop9bN_normal.jpg",
       "id" : 295359176,
       "verified" : false
     }
@@ -3419,11 +3419,11 @@ Grailbird.data.tweets_2013_06 =
     "in_reply_to_screen_name" : "GonzoHacker",
     "in_reply_to_user_id_str" : "773009000",
     "user" : {
-      "name" : ".js \uD83C\uDFF4",
+      "name" : "\u303D\uD83C\uDF51",
       "screen_name" : "jsdnxx",
       "protected" : false,
       "id_str" : "91704031",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/809964385179308032\/ZoTiC0ey_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/840135228760899584\/wqC7aCPa_normal.jpg",
       "id" : 91704031,
       "verified" : false
     }
@@ -3491,7 +3491,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "bobpoekert",
       "protected" : false,
       "id_str" : "191945961",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/716225811737677824\/ek4WzXbB_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847880563394359296\/JgdzEJlv_normal.jpg",
       "id" : 191945961,
       "verified" : false
     }
@@ -3544,7 +3544,7 @@ Grailbird.data.tweets_2013_06 =
       "id_str" : "14052358",
       "id" : 14052358
     }, {
-      "name" : "Alvaro Videla",
+      "name" : "\u00D8lvaro Videla",
       "screen_name" : "old_sound",
       "indices" : [ 22, 32 ],
       "id_str" : "16484216",
@@ -3804,7 +3804,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alvaro Videla",
+      "name" : "\u00D8lvaro Videla",
       "screen_name" : "old_sound",
       "indices" : [ 10, 20 ],
       "id_str" : "16484216",

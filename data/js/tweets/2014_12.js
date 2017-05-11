@@ -99,7 +99,13 @@ Grailbird.data.tweets_2014_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "voidfraction",
+      "screen_name" : "voidfraction",
+      "indices" : [ 0, 13 ],
+      "id_str" : "850562052372406272",
+      "id" : 850562052372406272
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -434,7 +440,7 @@ Grailbird.data.tweets_2014_12 =
       "screen_name" : "GlennF",
       "protected" : false,
       "id_str" : "8315692",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/793494468334727169\/vqQjKOGi_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/849008122152734720\/Bv0k3pr9_normal.jpg",
       "id" : 8315692,
       "verified" : true
     }
@@ -2587,7 +2593,7 @@ Grailbird.data.tweets_2014_12 =
       "screen_name" : "baratunde",
       "protected" : false,
       "id_str" : "820585",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/636925930686930944\/NEjicosS_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/861297996364791809\/SnLLKK3o_normal.jpg",
       "id" : 820585,
       "verified" : true
     }

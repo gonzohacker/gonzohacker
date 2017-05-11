@@ -252,7 +252,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Gingerbeard the Dork",
+      "name" : "CaptainOblivious",
       "screen_name" : "tia_marie",
       "indices" : [ 0, 10 ],
       "id_str" : "6025712",
@@ -393,7 +393,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "xntrik",
       "protected" : false,
       "id_str" : "14598790",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/819939361072386048\/8ZIXcNth_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/843191694942076929\/1mmhzD49_normal.jpg",
       "id" : 14598790,
       "verified" : false
     }
@@ -727,7 +727,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alvaro Videla",
+      "name" : "\u00D8lvaro Videla",
       "screen_name" : "old_sound",
       "indices" : [ 0, 10 ],
       "id_str" : "16484216",
@@ -782,7 +782,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alvaro Videla",
+      "name" : "\u00D8lvaro Videla",
       "screen_name" : "old_sound",
       "indices" : [ 0, 10 ],
       "id_str" : "16484216",
@@ -2169,7 +2169,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "recrudesce",
       "protected" : false,
       "id_str" : "5656182",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/731165891937894401\/pXciGAA7_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/851407631709347840\/IvHq3NQO_normal.jpg",
       "id" : 5656182,
       "verified" : false
     }
@@ -4885,13 +4885,13 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Timeless Prototype \u2B50",
+      "name" : "Timeless Prototype \u23F3",
       "screen_name" : "TimelessP",
       "indices" : [ 0, 10 ],
       "id_str" : "8784462",
       "id" : 8784462
     }, {
-      "name" : "cryptopotato",
+      "name" : "cryptopotato w\/ \uD83E\uDDC0\uD83E\uDD53",
       "screen_name" : "cryptoishard",
       "indices" : [ 11, 24 ],
       "id_str" : "1058788472",
@@ -5344,7 +5344,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pookleblinky",
+      "name" : "\u200F\u0628\u0648\u0643\u064A\u0628\u0644\u064A\u0646\u0643\u064A",
       "screen_name" : "pookleblinky",
       "indices" : [ 0, 13 ],
       "id_str" : "35163668",
@@ -5725,7 +5725,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "capetownbrown",
       "protected" : false,
       "id_str" : "65860206",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/735443528340373505\/zKdmrvYI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844887691250544640\/Ts-lQ3jH_normal.jpg",
       "id" : 65860206,
       "verified" : false
     }
@@ -6318,7 +6318,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pookleblinky",
+      "name" : "\u200F\u0628\u0648\u0643\u064A\u0628\u0644\u064A\u0646\u0643\u064A",
       "screen_name" : "pookleblinky",
       "indices" : [ 0, 13 ],
       "id_str" : "35163668",

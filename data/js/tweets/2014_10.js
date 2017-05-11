@@ -350,7 +350,7 @@ Grailbird.data.tweets_2014_10 =
     "user" : {
       "name" : "KOZZWON",
       "screen_name" : "KOZZWON",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "65150717",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/818491441689350144\/6xVOUOml_normal.jpg",
       "id" : 65150717,
@@ -735,7 +735,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "onomatopoetic",
+      "name" : "insomnomaniac \uD83D\uDCA4",
       "screen_name" : "brrzap",
       "indices" : [ 0, 7 ],
       "id_str" : "265639666",

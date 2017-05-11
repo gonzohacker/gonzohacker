@@ -1532,7 +1532,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jordan Hello World",
+      "name" : "DeliciousKekletariat",
       "screen_name" : "DELICIOUSKEK",
       "indices" : [ 0, 13 ],
       "id_str" : "2235734407",
@@ -1951,7 +1951,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "languagehacker",
       "protected" : false,
       "id_str" : "121556767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/829131583105953793\/bSerl3Xk_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/833874714904973312\/yUCZn9tg_normal.jpg",
       "id" : 121556767,
       "verified" : false
     }

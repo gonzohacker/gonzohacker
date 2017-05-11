@@ -2387,7 +2387,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "snipe \uD83E\uDD19\uD83C\uDFFB",
+      "name" : "schwifty schnipe",
       "screen_name" : "snipeyhead",
       "indices" : [ 0, 11 ],
       "id_str" : "14246782",
@@ -3425,7 +3425,7 @@ Grailbird.data.tweets_2015_06 =
       "screen_name" : "languagehacker",
       "protected" : false,
       "id_str" : "121556767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/829131583105953793\/bSerl3Xk_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/833874714904973312\/yUCZn9tg_normal.jpg",
       "id" : 121556767,
       "verified" : false
     }
@@ -3526,7 +3526,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pookleblinky",
+      "name" : "\u200F\u0628\u0648\u0643\u064A\u0628\u0644\u064A\u0646\u0643\u064A",
       "screen_name" : "pookleblinky",
       "indices" : [ 0, 13 ],
       "id_str" : "35163668",
@@ -4124,7 +4124,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tweety Amin",
+      "name" : "Churn A Bog",
       "screen_name" : "moonpolysoft",
       "indices" : [ 3, 16 ],
       "id_str" : "14204623",
@@ -4151,7 +4151,7 @@ Grailbird.data.tweets_2015_06 =
     "id" : 606206077076504576,
     "created_at" : "2015-06-03 21:09:26 +0000",
     "user" : {
-      "name" : "Tweety Amin",
+      "name" : "Churn A Bog",
       "screen_name" : "moonpolysoft",
       "protected" : false,
       "id_str" : "14204623",
@@ -4578,7 +4578,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "16867627",
       "id" : 16867627
     }, {
-      "name" : "cryptopotato",
+      "name" : "cryptopotato w\/ \uD83E\uDDC0\uD83E\uDD53",
       "screen_name" : "cryptoishard",
       "indices" : [ 11, 24 ],
       "id_str" : "1058788472",

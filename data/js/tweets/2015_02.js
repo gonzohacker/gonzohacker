@@ -212,7 +212,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Witch Emoji",
+      "name" : "Coraline Ada Ehmke",
       "screen_name" : "CoralineAda",
       "indices" : [ 3, 15 ],
       "id_str" : "9526722",
@@ -239,11 +239,11 @@ Grailbird.data.tweets_2015_02 =
     "id" : 571356340498464768,
     "created_at" : "2015-02-27 17:09:01 +0000",
     "user" : {
-      "name" : "Witch Emoji",
+      "name" : "Coraline Ada Ehmke",
       "screen_name" : "CoralineAda",
       "protected" : false,
       "id_str" : "9526722",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/827487173809168385\/FLMQeEzK_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847934240838656000\/cUYDyiCs_normal.jpg",
       "id" : 9526722,
       "verified" : true
     }
@@ -386,7 +386,7 @@ Grailbird.data.tweets_2015_02 =
       "id_str" : "26000458",
       "id" : 26000458
     }, {
-      "name" : "cryptopotato",
+      "name" : "cryptopotato w\/ \uD83E\uDDC0\uD83E\uDD53",
       "screen_name" : "cryptoishard",
       "indices" : [ 15, 28 ],
       "id_str" : "1058788472",
@@ -627,7 +627,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ALL SPRING '17",
+      "name" : "!!Bert",
       "screen_name" : "stijlist",
       "indices" : [ 3, 12 ],
       "id_str" : "885413604",
@@ -654,7 +654,7 @@ Grailbird.data.tweets_2015_02 =
     "id" : 570390265225187329,
     "created_at" : "2015-02-25 01:10:11 +0000",
     "user" : {
-      "name" : "ALL SPRING '17",
+      "name" : "!!Bert",
       "screen_name" : "stijlist",
       "protected" : false,
       "id_str" : "885413604",
@@ -749,7 +749,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pikelet",
+      "name" : "Pikelet \uD83E\uDD84\uD83C\uDF89\u2728",
       "screen_name" : "pikelet",
       "indices" : [ 3, 11 ],
       "id_str" : "6000702",
@@ -776,11 +776,11 @@ Grailbird.data.tweets_2015_02 =
     "id" : 570061993949818881,
     "created_at" : "2015-02-24 03:25:45 +0000",
     "user" : {
-      "name" : "Pikelet",
+      "name" : "Pikelet \uD83E\uDD84\uD83C\uDF89\u2728",
       "screen_name" : "pikelet",
       "protected" : false,
       "id_str" : "6000702",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/815436427697655808\/s5hK2mLv_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/857470785501315072\/KLtn3Vhb_normal.jpg",
       "id" : 6000702,
       "verified" : false
     }
@@ -1467,7 +1467,7 @@ Grailbird.data.tweets_2015_02 =
       "screen_name" : "languagehacker",
       "protected" : false,
       "id_str" : "121556767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/829131583105953793\/bSerl3Xk_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/833874714904973312\/yUCZn9tg_normal.jpg",
       "id" : 121556767,
       "verified" : false
     }
@@ -2327,7 +2327,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Gingerbeard the Dork",
+      "name" : "CaptainOblivious",
       "screen_name" : "tia_marie",
       "indices" : [ 0, 10 ],
       "id_str" : "6025712",
@@ -2360,7 +2360,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Gingerbeard the Dork",
+      "name" : "CaptainOblivious",
       "screen_name" : "tia_marie",
       "indices" : [ 0, 10 ],
       "id_str" : "6025712",
@@ -2444,7 +2444,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Gingerbeard the Dork",
+      "name" : "CaptainOblivious",
       "screen_name" : "tia_marie",
       "indices" : [ 0, 10 ],
       "id_str" : "6025712",
@@ -2502,7 +2502,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Gingerbeard the Dork",
+      "name" : "CaptainOblivious",
       "screen_name" : "tia_marie",
       "indices" : [ 0, 10 ],
       "id_str" : "6025712",
@@ -2562,7 +2562,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Null",
+      "name" : "[o...o]",
       "screen_name" : "chrisstumph",
       "indices" : [ 0, 12 ],
       "id_str" : "3024673382",
@@ -2595,7 +2595,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Null",
+      "name" : "[o...o]",
       "screen_name" : "chrisstumph",
       "indices" : [ 0, 12 ],
       "id_str" : "3024673382",
@@ -2628,7 +2628,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Null",
+      "name" : "[o...o]",
       "screen_name" : "chrisstumph",
       "indices" : [ 0, 12 ],
       "id_str" : "3024673382",
@@ -2683,7 +2683,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Null",
+      "name" : "[o...o]",
       "screen_name" : "chrisstumph",
       "indices" : [ 0, 12 ],
       "id_str" : "3024673382",

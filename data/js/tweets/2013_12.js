@@ -431,13 +431,7 @@ Grailbird.data.tweets_2013_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "can't convert void",
-      "screen_name" : "fronx_horse",
-      "indices" : [ 18, 30 ],
-      "id_str" : "1399367952",
-      "id" : 1399367952
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -771,7 +765,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "glue\uD83D\uDEBD",
+      "name" : "wendys adams",
       "screen_name" : "Porkbeard",
       "indices" : [ 3, 13 ],
       "id_str" : "6296832",
@@ -798,11 +792,11 @@ Grailbird.data.tweets_2013_12 =
     "id" : 296920453442842625,
     "created_at" : "2013-01-31 09:58:47 +0000",
     "user" : {
-      "name" : "glue\uD83D\uDEBD",
+      "name" : "wendys adams",
       "screen_name" : "Porkbeard",
       "protected" : false,
       "id_str" : "6296832",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/814152655488610308\/pfg1ki6U_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/848663801683730434\/H0FKzn0s_normal.jpg",
       "id" : 6296832,
       "verified" : false
     }
@@ -849,7 +843,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Salad Bar Ham Cubes",
+      "name" : "Salad Bar TimeCubes",
       "screen_name" : "flangy",
       "indices" : [ 0, 7 ],
       "id_str" : "14209746",
@@ -1146,7 +1140,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pookleblinky",
+      "name" : "\u200F\u0628\u0648\u0643\u064A\u0628\u0644\u064A\u0646\u0643\u064A",
       "screen_name" : "pookleblinky",
       "indices" : [ 0, 13 ],
       "id_str" : "35163668",
@@ -1375,7 +1369,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "bobpoekert",
       "protected" : false,
       "id_str" : "191945961",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/716225811737677824\/ek4WzXbB_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847880563394359296\/JgdzEJlv_normal.jpg",
       "id" : 191945961,
       "verified" : false
     }
@@ -2633,7 +2627,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Null",
+      "name" : "[o...o]",
       "screen_name" : "chrisstumph",
       "indices" : [ 0, 12 ],
       "id_str" : "3024673382",
@@ -4009,7 +4003,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zach McArtor",
+      "name" : "Zach McArtor \uD83D\uDC68\u200D\uD83D\uDCBB",
       "screen_name" : "zmcartor",
       "indices" : [ 0, 9 ],
       "id_str" : "19977631",
@@ -4042,7 +4036,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kevin M. Gallagher",
+      "name" : "K.M. Gallagher",
       "screen_name" : "ageis",
       "indices" : [ 0, 6 ],
       "id_str" : "18179241",
@@ -4770,7 +4764,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jennifer jean spleen",
+      "name" : "jennjamin button",
       "screen_name" : "jennschiffer",
       "indices" : [ 0, 13 ],
       "id_str" : "12524622",
@@ -5483,7 +5477,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "languagehacker",
       "protected" : false,
       "id_str" : "121556767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/829131583105953793\/bSerl3Xk_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/833874714904973312\/yUCZn9tg_normal.jpg",
       "id" : 121556767,
       "verified" : false
     }
@@ -5723,13 +5717,13 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "feminist cousineau",
+      "name" : "yes all doggos",
       "screen_name" : "dcousineau",
       "indices" : [ 0, 11 ],
       "id_str" : "14738275",
       "id" : 14738275
     }, {
-      "name" : "snipe \uD83E\uDD19\uD83C\uDFFB",
+      "name" : "schwifty schnipe",
       "screen_name" : "snipeyhead",
       "indices" : [ 12, 23 ],
       "id_str" : "14246782",

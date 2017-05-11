@@ -124,7 +124,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "eric..............",
+      "name" : "OK, computer \uD83D\uDE44",
       "screen_name" : "eric_b_wood",
       "indices" : [ 0, 12 ],
       "id_str" : "110202631",
@@ -1282,7 +1282,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jennifer jean spleen",
+      "name" : "jennjamin button",
       "screen_name" : "jennschiffer",
       "indices" : [ 0, 13 ],
       "id_str" : "12524622",
@@ -2365,7 +2365,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Emma Evans",
+      "name" : "Emma Evans, Rebel",
       "screen_name" : "TrancewithMe",
       "indices" : [ 3, 16 ],
       "id_str" : "67727088",
@@ -2398,7 +2398,7 @@ Grailbird.data.tweets_2015_01 =
     "id" : 552702499484758016,
     "created_at" : "2015-01-07 05:45:19 +0000",
     "user" : {
-      "name" : "Emma Evans",
+      "name" : "Emma Evans, Rebel",
       "screen_name" : "TrancewithMe",
       "protected" : false,
       "id_str" : "67727088",
@@ -2809,7 +2809,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pookleblinky",
+      "name" : "\u200F\u0628\u0648\u0643\u064A\u0628\u0644\u064A\u0646\u0643\u064A",
       "screen_name" : "pookleblinky",
       "indices" : [ 0, 13 ],
       "id_str" : "35163668",

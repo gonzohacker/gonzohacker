@@ -1682,7 +1682,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "pup",
+      "name" : "small dog friend",
       "screen_name" : "duckinator",
       "indices" : [ 0, 11 ],
       "id_str" : "28650670",
@@ -1715,7 +1715,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "pup",
+      "name" : "small dog friend",
       "screen_name" : "duckinator",
       "indices" : [ 0, 11 ],
       "id_str" : "28650670",
@@ -1748,7 +1748,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "pup",
+      "name" : "small dog friend",
       "screen_name" : "duckinator",
       "indices" : [ 0, 11 ],
       "id_str" : "28650670",
@@ -1786,7 +1786,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "pup",
+      "name" : "small dog friend",
       "screen_name" : "duckinator",
       "indices" : [ 0, 11 ],
       "id_str" : "28650670",
@@ -1819,7 +1819,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "pup",
+      "name" : "small dog friend",
       "screen_name" : "duckinator",
       "indices" : [ 0, 11 ],
       "id_str" : "28650670",
@@ -1901,7 +1901,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Per Curiam",
+      "name" : "chaotic cyber",
       "screen_name" : "thwarted",
       "indices" : [ 3, 12 ],
       "id_str" : "14874283",
@@ -1945,11 +1945,11 @@ Grailbird.data.tweets_2015_07 =
     "in_reply_to_screen_name" : "GonzoHacker",
     "in_reply_to_user_id_str" : "773009000",
     "user" : {
-      "name" : "Per Curiam",
+      "name" : "chaotic cyber",
       "screen_name" : "thwarted",
       "protected" : false,
       "id_str" : "14874283",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/775838959922450432\/xV-TsGTv_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/841117821186666496\/9o5mZuLX_normal.jpg",
       "id" : 14874283,
       "verified" : false
     }
@@ -2066,7 +2066,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "mcclure111",
       "protected" : false,
       "id_str" : "312426579",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/735285077358182400\/OLGCm0x__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/852519442047225857\/juzc1JeR_normal.jpg",
       "id" : 312426579,
       "verified" : false
     }
@@ -2176,7 +2176,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pookleblinky",
+      "name" : "\u200F\u0628\u0648\u0643\u064A\u0628\u0644\u064A\u0646\u0643\u064A",
       "screen_name" : "pookleblinky",
       "indices" : [ 3, 16 ],
       "id_str" : "35163668",
@@ -2209,7 +2209,7 @@ Grailbird.data.tweets_2015_07 =
     "id" : 619630080143179776,
     "created_at" : "2015-07-10 22:11:37 +0000",
     "user" : {
-      "name" : "Pookleblinky",
+      "name" : "\u200F\u0628\u0648\u0643\u064A\u0628\u0644\u064A\u0646\u0643\u064A",
       "screen_name" : "pookleblinky",
       "protected" : false,
       "id_str" : "35163668",
@@ -2366,7 +2366,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "rstevens \uD83D\uDCBE",
+      "name" : "rstevens\u2122",
       "screen_name" : "rstevens",
       "indices" : [ 3, 12 ],
       "id_str" : "643653",
@@ -2393,7 +2393,7 @@ Grailbird.data.tweets_2015_07 =
     "id" : 618984692503547904,
     "created_at" : "2015-07-09 03:27:05 +0000",
     "user" : {
-      "name" : "rstevens \uD83D\uDCBE",
+      "name" : "rstevens\u2122",
       "screen_name" : "rstevens",
       "protected" : false,
       "id_str" : "643653",
@@ -2973,7 +2973,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Original Alan",
+      "name" : "nothing to ze hir",
       "screen_name" : "awhooker",
       "indices" : [ 0, 9 ],
       "id_str" : "49647020",
@@ -3006,7 +3006,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Im-\uD83C\uDF51-\uD83C\uDF31 Jayelle",
+      "name" : "Jayelle\uD83C\uDF4A\uD83E\uDD85",
       "screen_name" : "GreenEyedLilo",
       "indices" : [ 3, 17 ],
       "id_str" : "119758837",
@@ -3036,7 +3036,7 @@ Grailbird.data.tweets_2015_07 =
     "id" : 617833702668697600,
     "created_at" : "2015-07-05 23:13:28 +0000",
     "user" : {
-      "name" : "Im-\uD83C\uDF51-\uD83C\uDF31 Jayelle",
+      "name" : "Jayelle\uD83C\uDF4A\uD83E\uDD85",
       "screen_name" : "GreenEyedLilo",
       "protected" : false,
       "id_str" : "119758837",
@@ -3510,7 +3510,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "jonculver",
       "protected" : false,
       "id_str" : "13134132",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/777767615305388032\/6VN4eCDZ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/840809433806458881\/LdHe7WNc_normal.jpg",
       "id" : 13134132,
       "verified" : false
     }

@@ -787,7 +787,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "languagehacker",
       "protected" : false,
       "id_str" : "121556767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/829131583105953793\/bSerl3Xk_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/833874714904973312\/yUCZn9tg_normal.jpg",
       "id" : 121556767,
       "verified" : false
     }
@@ -3778,7 +3778,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Salad Bar Ham Cubes",
+      "name" : "Salad Bar TimeCubes",
       "screen_name" : "flangy",
       "indices" : [ 0, 7 ],
       "id_str" : "14209746",
@@ -4123,7 +4123,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "heyaudy",
       "protected" : false,
       "id_str" : "14534523",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/813471219358040064\/7K03JOFr_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/862118780448653313\/LLHp4lYi_normal.jpg",
       "id" : 14534523,
       "verified" : false
     }
@@ -4382,7 +4382,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pookleblinky",
+      "name" : "\u200F\u0628\u0648\u0643\u064A\u0628\u0644\u064A\u0646\u0643\u064A",
       "screen_name" : "pookleblinky",
       "indices" : [ 0, 13 ],
       "id_str" : "35163668",
@@ -4415,7 +4415,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pookleblinky",
+      "name" : "\u200F\u0628\u0648\u0643\u064A\u0628\u0644\u064A\u0646\u0643\u064A",
       "screen_name" : "pookleblinky",
       "indices" : [ 0, 13 ],
       "id_str" : "35163668",
@@ -4591,7 +4591,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alvaro Videla",
+      "name" : "\u00D8lvaro Videla",
       "screen_name" : "old_sound",
       "indices" : [ 3, 13 ],
       "id_str" : "16484216",
@@ -4635,7 +4635,7 @@ Grailbird.data.tweets_2013_09 =
     "in_reply_to_screen_name" : "GonzoHacker",
     "in_reply_to_user_id_str" : "773009000",
     "user" : {
-      "name" : "Alvaro Videla",
+      "name" : "\u00D8lvaro Videla",
       "screen_name" : "old_sound",
       "protected" : false,
       "id_str" : "16484216",
@@ -4921,23 +4921,18 @@ Grailbird.data.tweets_2013_09 =
       "name" : "Jonathan Zdziarski",
       "screen_name" : "JZdziarski",
       "indices" : [ 0, 11 ],
-      "id_str" : "1267770224",
-      "id" : 1267770224
+      "id_str" : "851803288198455297",
+      "id" : 851803288198455297
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "376080966617677824",
   "geo" : { },
   "id_str" : "376081380548956160",
-  "in_reply_to_user_id" : 1267770224,
   "text" : "@JZdziarski I thought those were illegal now?",
   "id" : 376081380548956160,
-  "in_reply_to_status_id" : 376080966617677824,
   "created_at" : "2013-09-06 20:36:03 +0000",
-  "in_reply_to_screen_name" : "JZdziarski",
-  "in_reply_to_user_id_str" : "1267770224",
   "user" : {
     "name" : "GonzoHacker",
     "screen_name" : "GonzoHacker",

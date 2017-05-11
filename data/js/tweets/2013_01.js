@@ -1813,7 +1813,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "lucaswiman",
       "protected" : false,
       "id_str" : "179843265",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/521196965099368448\/Un-EeXYI_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/835042549156855809\/fky6YRY3_normal.jpg",
       "id" : 179843265,
       "verified" : false
     }
@@ -2110,7 +2110,7 @@ Grailbird.data.tweets_2013_01 =
     "user" : {
       "name" : "Gordon Currie",
       "screen_name" : "hiplingo",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "20626409",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/745381705972875264\/kCVKVSme_normal.jpg",
       "id" : 20626409,
@@ -2163,6 +2163,86 @@ Grailbird.data.tweets_2013_01 =
   "text" : "What if instead of programming with words you could program with feelings?",
   "id" : 294140707399143424,
   "created_at" : "2013-01-23 17:53:04 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Uli",
+      "screen_name" : "aplusplus",
+      "indices" : [ 3, 13 ],
+      "id_str" : "14360992",
+      "id" : 14360992
+    }, {
+      "name" : "GonzoHacker",
+      "screen_name" : "GonzoHacker",
+      "indices" : [ 15, 27 ],
+      "id_str" : "773009000",
+      "id" : 773009000
+    }, {
+      "name" : "erik spiekermann",
+      "screen_name" : "espiekermann",
+      "indices" : [ 28, 41 ],
+      "id_str" : "19045458",
+      "id" : 19045458
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "294138085657178112",
+  "text" : "RT @aplusplus: @GonzoHacker @espiekermann and John Gruber would defend it",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "GonzoHacker",
+        "screen_name" : "GonzoHacker",
+        "indices" : [ 0, 12 ],
+        "id_str" : "773009000",
+        "id" : 773009000
+      }, {
+        "name" : "erik spiekermann",
+        "screen_name" : "espiekermann",
+        "indices" : [ 13, 26 ],
+        "id_str" : "19045458",
+        "id" : 19045458
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "in_reply_to_status_id_str" : "294134625280856064",
+    "geo" : { },
+    "id_str" : "294136045526712320",
+    "in_reply_to_user_id" : 19045458,
+    "text" : "@GonzoHacker @espiekermann and John Gruber would defend it",
+    "id" : 294136045526712320,
+    "in_reply_to_status_id" : 294134625280856064,
+    "created_at" : "2013-01-23 17:34:32 +0000",
+    "in_reply_to_screen_name" : "espiekermann",
+    "in_reply_to_user_id_str" : "19045458",
+    "user" : {
+      "name" : "Uli",
+      "screen_name" : "aplusplus",
+      "protected" : false,
+      "id_str" : "14360992",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/620464969591582720\/PYcHbUZZ_normal.png",
+      "id" : 14360992,
+      "verified" : false
+    }
+  },
+  "id" : 294138085657178112,
+  "created_at" : "2013-01-23 17:42:39 +0000",
   "user" : {
     "name" : "GonzoHacker",
     "screen_name" : "GonzoHacker",
@@ -2905,7 +2985,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alvaro Videla",
+      "name" : "\u00D8lvaro Videla",
       "screen_name" : "old_sound",
       "indices" : [ 3, 13 ],
       "id_str" : "16484216",
@@ -2932,7 +3012,7 @@ Grailbird.data.tweets_2013_01 =
     "id" : 293384887661113345,
     "created_at" : "2013-01-21 15:49:42 +0000",
     "user" : {
-      "name" : "Alvaro Videla",
+      "name" : "\u00D8lvaro Videla",
       "screen_name" : "old_sound",
       "protected" : false,
       "id_str" : "16484216",
@@ -3787,7 +3867,7 @@ Grailbird.data.tweets_2013_01 =
     "in_reply_to_screen_name" : "GonzoHacker",
     "in_reply_to_user_id_str" : "773009000",
     "user" : {
-      "name" : "dangling reference",
+      "name" : "software homeopathy",
       "screen_name" : "andrewstwrt",
       "protected" : false,
       "id_str" : "14369199",
@@ -4280,7 +4360,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alternative Lance",
+      "name" : "Lance The Saboteur \u2744",
       "screen_name" : "lancewalton",
       "indices" : [ 3, 15 ],
       "id_str" : "21432560",
@@ -4307,7 +4387,7 @@ Grailbird.data.tweets_2013_01 =
     "id" : 290921116002811905,
     "created_at" : "2013-01-14 20:39:33 +0000",
     "user" : {
-      "name" : "Alternative Lance",
+      "name" : "Lance The Saboteur \u2744",
       "screen_name" : "lancewalton",
       "protected" : false,
       "id_str" : "21432560",
@@ -4524,7 +4604,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nolan Brubaker",
+      "name" : "\u30CE\u30E9\u30F3",
       "screen_name" : "palendae",
       "indices" : [ 3, 12 ],
       "id_str" : "29798769",
@@ -4554,7 +4634,7 @@ Grailbird.data.tweets_2013_01 =
     "id" : 291049172415705088,
     "created_at" : "2013-01-15 05:08:24 +0000",
     "user" : {
-      "name" : "Nolan Brubaker",
+      "name" : "\u30CE\u30E9\u30F3",
       "screen_name" : "palendae",
       "protected" : false,
       "id_str" : "29798769",
@@ -5591,7 +5671,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "heatherpayne",
       "protected" : false,
       "id_str" : "26269523",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/828098280148045824\/Zc3rRk0__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837677925629636608\/hIEuwmjC_normal.jpg",
       "id" : 26269523,
       "verified" : false
     }
@@ -5633,7 +5713,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDD2Ebrandon\uD83D\uDEE1burton\uD83D\uDC8E",
+      "name" : "\u2728Brandon Burton",
       "screen_name" : "solarce",
       "indices" : [ 3, 11 ],
       "id_str" : "822284",
@@ -5660,7 +5740,7 @@ Grailbird.data.tweets_2013_01 =
     "id" : 289176069288902657,
     "created_at" : "2013-01-10 01:05:22 +0000",
     "user" : {
-      "name" : "\uD83D\uDD2Ebrandon\uD83D\uDEE1burton\uD83D\uDC8E",
+      "name" : "\u2728Brandon Burton",
       "screen_name" : "solarce",
       "protected" : false,
       "id_str" : "822284",
@@ -6309,7 +6389,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lindsey B",
+      "name" : "Guillotine Grrrl",
       "screen_name" : "lindseybieda",
       "indices" : [ 0, 13 ],
       "id_str" : "14928483",
@@ -6346,7 +6426,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lindsey B",
+      "name" : "Guillotine Grrrl",
       "screen_name" : "lindseybieda",
       "indices" : [ 0, 13 ],
       "id_str" : "14928483",
@@ -6380,7 +6460,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lindsey B",
+      "name" : "Guillotine Grrrl",
       "screen_name" : "lindseybieda",
       "indices" : [ 0, 13 ],
       "id_str" : "14928483",

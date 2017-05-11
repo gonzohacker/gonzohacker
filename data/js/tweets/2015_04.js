@@ -207,7 +207,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "IrisClasson",
       "protected" : false,
       "id_str" : "388958428",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800064951348068352\/K6FQPzd3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/851085681233465345\/zukYHDDU_normal.jpg",
       "id" : 388958428,
       "verified" : false
     }
@@ -227,7 +227,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jordan Hello World",
+      "name" : "DeliciousKekletariat",
       "screen_name" : "DELICIOUSKEK",
       "indices" : [ 0, 13 ],
       "id_str" : "2235734407",
@@ -308,7 +308,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "languagehacker",
       "protected" : false,
       "id_str" : "121556767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/829131583105953793\/bSerl3Xk_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/833874714904973312\/yUCZn9tg_normal.jpg",
       "id" : 121556767,
       "verified" : false
     }
@@ -722,7 +722,7 @@ Grailbird.data.tweets_2015_04 =
       "id_str" : "274721186",
       "id" : 274721186
     }, {
-      "name" : "Jordan Hello World",
+      "name" : "DeliciousKekletariat",
       "screen_name" : "DELICIOUSKEK",
       "indices" : [ 15, 28 ],
       "id_str" : "2235734407",
@@ -1700,7 +1700,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "jasonbaldridge",
       "protected" : false,
       "id_str" : "119837224",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/793470751936360449\/I_IbI1zw_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/852607333721047040\/8dw_iomE_normal.jpg",
       "id" : 119837224,
       "verified" : false
     }
@@ -2544,7 +2544,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "T\u042FE\u0418T",
+      "name" : "T\u042FE\u0418T\uD83D\uDC7D\uD83D\uDCE1",
       "screen_name" : "pr1ntf",
       "indices" : [ 3, 10 ],
       "id_str" : "16483629",
@@ -2648,11 +2648,11 @@ Grailbird.data.tweets_2015_04 =
     "in_reply_to_screen_name" : "d4rk0s",
     "in_reply_to_user_id_str" : "227598323",
     "user" : {
-      "name" : "T\u042FE\u0418T",
+      "name" : "T\u042FE\u0418T\uD83D\uDC7D\uD83D\uDCE1",
       "screen_name" : "pr1ntf",
       "protected" : false,
       "id_str" : "16483629",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767278186015051780\/v49T49DF_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/854481409032863744\/LNzKmCAQ_normal.jpg",
       "id" : 16483629,
       "verified" : false
     }
@@ -3275,7 +3275,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Russell's Teapot",
+      "name" : "Modelo Especial War",
       "screen_name" : "nailbomb3",
       "indices" : [ 0, 10 ],
       "id_str" : "196685253",
@@ -3616,7 +3616,7 @@ Grailbird.data.tweets_2015_04 =
       "id_str" : "152601415",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/826597681451646976\/iNw64s2L_normal.jpg",
       "id" : 152601415,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 585810248834818048,
@@ -3947,7 +3947,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "bobpoekert",
       "protected" : false,
       "id_str" : "191945961",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/716225811737677824\/ek4WzXbB_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847880563394359296\/JgdzEJlv_normal.jpg",
       "id" : 191945961,
       "verified" : false
     }
@@ -4266,7 +4266,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pookleblinky",
+      "name" : "\u200F\u0628\u0648\u0643\u064A\u0628\u0644\u064A\u0646\u0643\u064A",
       "screen_name" : "pookleblinky",
       "indices" : [ 0, 13 ],
       "id_str" : "35163668",

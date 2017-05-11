@@ -3,7 +3,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDC80\uD83D\uDC06",
+      "name" : "murmurs",
       "screen_name" : "mrmrs_",
       "indices" : [ 0, 7 ],
       "id_str" : "316589445",
@@ -388,7 +388,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jabes",
+      "name" : "honestly, jabes,,",
       "screen_name" : "beardenthusiast",
       "indices" : [ 0, 16 ],
       "id_str" : "15208596",
@@ -1249,7 +1249,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "weirdo",
+      "name" : "Weird",
       "screen_name" : "NeilScudder",
       "indices" : [ 0, 12 ],
       "id_str" : "11961412",
@@ -2173,7 +2173,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pookleblinky",
+      "name" : "\u200F\u0628\u0648\u0643\u064A\u0628\u0644\u064A\u0646\u0643\u064A",
       "screen_name" : "pookleblinky",
       "indices" : [ 0, 13 ],
       "id_str" : "35163668",
@@ -2351,7 +2351,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "fake news lover",
+      "name" : "dan",
       "screen_name" : "dannolan",
       "indices" : [ 3, 12 ],
       "id_str" : "971761",
@@ -2438,7 +2438,7 @@ Grailbird.data.tweets_2014_07 =
     "id" : 485261726921666560,
     "created_at" : "2014-07-05 03:19:46 +0000",
     "user" : {
-      "name" : "fake news lover",
+      "name" : "dan",
       "screen_name" : "dannolan",
       "protected" : false,
       "id_str" : "971761",
@@ -2679,7 +2679,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "Steve_Yegge",
       "protected" : false,
       "id_str" : "429567341",
-      "profile_image_url_https" : "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_0_normal.png",
+      "profile_image_url_https" : "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
       "id" : 429567341,
       "verified" : false
     }
@@ -3045,7 +3045,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "zeke is resisting\u2026\u23F3",
+      "name" : "0.1X Developer",
       "screen_name" : "zekeweeks",
       "indices" : [ 0, 10 ],
       "id_str" : "12923902",

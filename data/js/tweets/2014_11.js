@@ -651,7 +651,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDC80\uD83D\uDC06",
+      "name" : "murmurs",
       "screen_name" : "mrmrs_",
       "indices" : [ 0, 7 ],
       "id_str" : "316589445",
@@ -1442,7 +1442,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "eric..............",
+      "name" : "OK, computer \uD83D\uDE44",
       "screen_name" : "eric_b_wood",
       "indices" : [ 0, 12 ],
       "id_str" : "110202631",
@@ -1704,7 +1704,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "nrose",
       "protected" : false,
       "id_str" : "926251",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/827751072701751296\/s2FrxG8s_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/859909903787450368\/zrSkBPPS_normal.jpg",
       "id" : 926251,
       "verified" : false
     }

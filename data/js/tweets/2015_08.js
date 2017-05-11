@@ -369,7 +369,7 @@ Grailbird.data.tweets_2015_08 =
       "screen_name" : "SnoopDogg",
       "protected" : false,
       "id_str" : "3004231",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796033778648911872\/lijK5oA6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/857358077879656448\/W3_DzY1__normal.jpg",
       "id" : 3004231,
       "verified" : true
     }
@@ -1151,7 +1151,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pookleblinky",
+      "name" : "\u200F\u0628\u0648\u0643\u064A\u0628\u0644\u064A\u0646\u0643\u064A",
       "screen_name" : "pookleblinky",
       "indices" : [ 0, 13 ],
       "id_str" : "35163668",
@@ -1719,7 +1719,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Leon Arnott",
+      "name" : "Leon, inside dewdrop",
       "screen_name" : "webbedspace",
       "indices" : [ 3, 15 ],
       "id_str" : "23720736",
@@ -1746,7 +1746,7 @@ Grailbird.data.tweets_2015_08 =
     "id" : 326998898650537984,
     "created_at" : "2013-04-24 09:59:47 +0000",
     "user" : {
-      "name" : "Leon Arnott",
+      "name" : "Leon, inside dewdrop",
       "screen_name" : "webbedspace",
       "protected" : false,
       "id_str" : "23720736",
@@ -1836,7 +1836,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ernie would have won",
+      "name" : "emiliano luckman",
       "screen_name" : "ErnieLies",
       "indices" : [ 3, 13 ],
       "id_str" : "321787970",
@@ -1863,11 +1863,11 @@ Grailbird.data.tweets_2015_08 =
     "id" : 630850144733237248,
     "created_at" : "2015-08-10 21:16:09 +0000",
     "user" : {
-      "name" : "ernie would have won",
+      "name" : "emiliano luckman",
       "screen_name" : "ErnieLies",
       "protected" : false,
       "id_str" : "321787970",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/797047774193782784\/oPbmhDNc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/860277664942370816\/Azd2rczr_normal.jpg",
       "id" : 321787970,
       "verified" : false
     }
@@ -2170,7 +2170,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pookleblinky",
+      "name" : "\u200F\u0628\u0648\u0643\u064A\u0628\u0644\u064A\u0646\u0643\u064A",
       "screen_name" : "pookleblinky",
       "indices" : [ 0, 13 ],
       "id_str" : "35163668",
@@ -2365,7 +2365,7 @@ Grailbird.data.tweets_2015_08 =
   "id_str" : "628689043539144704",
   "text" : "RT @garybernhardt: JavaScript's type coercion rules are autotune for programming. Even screaming gets turned into some standard value (prob\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003EMobile Web (M5)\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
