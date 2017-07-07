@@ -318,7 +318,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "[Alhazred] Allen",
+      "name" : "[sich beats] Allen",
       "screen_name" : "bitemyapp",
       "indices" : [ 0, 10 ],
       "id_str" : "161569820",
@@ -1658,7 +1658,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "cgcardona",
       "protected" : false,
       "id_str" : "149370826",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856544534397829120\/JApfG7mo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/866796005395771393\/xCC6Gx15_normal.jpg",
       "id" : 149370826,
       "verified" : false
     }
@@ -2018,7 +2018,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kerri A. Salciccioli",
+      "name" : "\/mdance Done Quick",
       "screen_name" : "sactage",
       "indices" : [ 0, 8 ],
       "id_str" : "258048302",
@@ -3356,7 +3356,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Austin Richardson",
+      "name" : "Austin Richardson \uD83C\uDF3A",
       "screen_name" : "heyaudy",
       "indices" : [ 0, 8 ],
       "id_str" : "14534523",
@@ -3411,7 +3411,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Austin Richardson",
+      "name" : "Austin Richardson \uD83C\uDF3A",
       "screen_name" : "heyaudy",
       "indices" : [ 0, 8 ],
       "id_str" : "14534523",
@@ -3585,7 +3585,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "kat \u2605",
+      "name" : "kat \u2728\uD83D\uDC19\u2728",
       "screen_name" : "wirehead2501",
       "indices" : [ 3, 16 ],
       "id_str" : "11797632",
@@ -3612,7 +3612,7 @@ Grailbird.data.tweets_2014_06 =
     "id" : 475682638837981184,
     "created_at" : "2014-06-08 16:55:53 +0000",
     "user" : {
-      "name" : "kat \u2605",
+      "name" : "kat \u2728\uD83D\uDC19\u2728",
       "screen_name" : "wirehead2501",
       "protected" : false,
       "id_str" : "11797632",
@@ -4951,7 +4951,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "languagehacker",
       "protected" : false,
       "id_str" : "121556767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/833874714904973312\/yUCZn9tg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/867561315656765442\/wBErciK9_normal.jpg",
       "id" : 121556767,
       "verified" : false
     }
@@ -5019,7 +5019,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "languagehacker",
       "protected" : false,
       "id_str" : "121556767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/833874714904973312\/yUCZn9tg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/867561315656765442\/wBErciK9_normal.jpg",
       "id" : 121556767,
       "verified" : false
     }

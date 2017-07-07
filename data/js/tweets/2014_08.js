@@ -1951,7 +1951,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "languagehacker",
       "protected" : false,
       "id_str" : "121556767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/833874714904973312\/yUCZn9tg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/867561315656765442\/wBErciK9_normal.jpg",
       "id" : 121556767,
       "verified" : false
     }

@@ -306,7 +306,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "WaltHickey",
       "protected" : false,
       "id_str" : "235700566",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/797195293712207872\/aNaMdriz_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/874386007839318016\/OQWGNWCg_normal.jpg",
       "id" : 235700566,
       "verified" : true
     }
@@ -906,7 +906,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "languagehacker",
       "protected" : false,
       "id_str" : "121556767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/833874714904973312\/yUCZn9tg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/867561315656765442\/wBErciK9_normal.jpg",
       "id" : 121556767,
       "verified" : false
     }
@@ -2211,7 +2211,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "languagehacker",
       "protected" : false,
       "id_str" : "121556767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/833874714904973312\/yUCZn9tg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/867561315656765442\/wBErciK9_normal.jpg",
       "id" : 121556767,
       "verified" : false
     }
@@ -2464,7 +2464,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Peter Fisher \uD83C\uDF32",
+      "name" : "Peter Fisher \uD83D\uDD4A",
       "screen_name" : "peterfisher",
       "indices" : [ 0, 12 ],
       "id_str" : "23723768",
@@ -3127,7 +3127,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "sa-meep",
+      "name" : "abandon ship",
       "screen_name" : "SamirTalwar",
       "indices" : [ 0, 12 ],
       "id_str" : "14225305",
@@ -3919,7 +3919,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brexit Saboteur",
+      "name" : "Alex Hern",
       "screen_name" : "alexhern",
       "indices" : [ 3, 12 ],
       "id_str" : "4004901",
@@ -4016,7 +4016,7 @@ Grailbird.data.tweets_2013_11 =
     "id" : 402365655250644992,
     "created_at" : "2013-11-18 09:20:22 +0000",
     "user" : {
-      "name" : "Brexit Saboteur",
+      "name" : "Alex Hern",
       "screen_name" : "alexhern",
       "protected" : false,
       "id_str" : "4004901",
@@ -4260,7 +4260,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Coda Hale",
+      "name" : "Stifle Papa",
       "screen_name" : "coda",
       "indices" : [ 3, 8 ],
       "id_str" : "637533",
@@ -4287,7 +4287,7 @@ Grailbird.data.tweets_2013_11 =
     "id" : 401546034989383680,
     "created_at" : "2013-11-16 03:03:29 +0000",
     "user" : {
-      "name" : "Coda Hale",
+      "name" : "Stifle Papa",
       "screen_name" : "coda",
       "protected" : false,
       "id_str" : "637533",
@@ -5824,7 +5824,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "officialjaden",
       "protected" : false,
       "id_str" : "262794965",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/862494000728731649\/3Icl40yJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875003048434839552\/0Yi_1ZxC_normal.jpg",
       "id" : 262794965,
       "verified" : true
     }
@@ -6281,7 +6281,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "OK, computer \uD83D\uDE44",
+      "name" : "Eric Wood \u1D47\u1D49\u1D57\u1D43",
       "screen_name" : "eric_b_wood",
       "indices" : [ 0, 12 ],
       "id_str" : "110202631",

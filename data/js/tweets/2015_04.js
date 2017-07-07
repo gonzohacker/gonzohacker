@@ -308,7 +308,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "languagehacker",
       "protected" : false,
       "id_str" : "121556767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/833874714904973312\/yUCZn9tg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/867561315656765442\/wBErciK9_normal.jpg",
       "id" : 121556767,
       "verified" : false
     }
@@ -2305,7 +2305,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rebel Scum",
+      "name" : "Brad Heintz",
       "screen_name" : "bradheintz",
       "indices" : [ 0, 11 ],
       "id_str" : "2042451",
@@ -3614,7 +3614,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "Okwonga",
       "protected" : false,
       "id_str" : "152601415",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/826597681451646976\/iNw64s2L_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/881776784265678848\/2UP_deLi_normal.jpg",
       "id" : 152601415,
       "verified" : true
     }

@@ -934,7 +934,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "languagehacker",
       "protected" : false,
       "id_str" : "121556767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/833874714904973312\/yUCZn9tg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/867561315656765442\/wBErciK9_normal.jpg",
       "id" : 121556767,
       "verified" : false
     }
@@ -985,74 +985,6 @@ Grailbird.data.tweets_2013_06 =
   "text" : "Told a clique of interns that I don't like girls. Now they think I'm gay but I just meant I find people their age obnoxious.",
   "id" : 345282139903885312,
   "created_at" : "2013-06-13 20:50:51 +0000",
-  "user" : {
-    "name" : "GonzoHacker",
-    "screen_name" : "GonzoHacker",
-    "protected" : false,
-    "id_str" : "773009000",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
-    "id" : 773009000,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Greg Wester",
-      "screen_name" : "gwestr",
-      "indices" : [ 3, 10 ],
-      "id_str" : "254873442",
-      "id" : 254873442
-    }, {
-      "name" : "GonzoHacker",
-      "screen_name" : "GonzoHacker",
-      "indices" : [ 12, 24 ],
-      "id_str" : "773009000",
-      "id" : 773009000
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "345282049336287232",
-  "text" : "RT @gwestr: @GonzoHacker verified smh as a service",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "GonzoHacker",
-        "screen_name" : "GonzoHacker",
-        "indices" : [ 0, 12 ],
-        "id_str" : "773009000",
-        "id" : 773009000
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "in_reply_to_status_id_str" : "345234570830024705",
-    "geo" : { },
-    "id_str" : "345249304480460800",
-    "in_reply_to_user_id" : 773009000,
-    "text" : "@GonzoHacker verified smh as a service",
-    "id" : 345249304480460800,
-    "in_reply_to_status_id" : 345234570830024705,
-    "created_at" : "2013-06-13 18:40:23 +0000",
-    "in_reply_to_screen_name" : "GonzoHacker",
-    "in_reply_to_user_id_str" : "773009000",
-    "user" : {
-      "name" : "Greg Wester",
-      "screen_name" : "gwestr",
-      "protected" : false,
-      "id_str" : "254873442",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/502601328791539712\/rweKCUoq_normal.jpeg",
-      "id" : 254873442,
-      "verified" : false
-    }
-  },
-  "id" : 345282049336287232,
-  "created_at" : "2013-06-13 20:50:30 +0000",
   "user" : {
     "name" : "GonzoHacker",
     "screen_name" : "GonzoHacker",
@@ -1910,7 +1842,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "mustard",
+      "name" : "mustard jackpots",
       "screen_name" : "nice_mustard",
       "indices" : [ 3, 16 ],
       "id_str" : "502088521",
@@ -1937,7 +1869,7 @@ Grailbird.data.tweets_2013_06 =
     "id" : 344506828975140864,
     "created_at" : "2013-06-11 17:30:03 +0000",
     "user" : {
-      "name" : "mustard",
+      "name" : "mustard jackpots",
       "screen_name" : "nice_mustard",
       "protected" : false,
       "id_str" : "502088521",
@@ -3419,7 +3351,7 @@ Grailbird.data.tweets_2013_06 =
     "in_reply_to_screen_name" : "GonzoHacker",
     "in_reply_to_user_id_str" : "773009000",
     "user" : {
-      "name" : "\u303D\uD83C\uDF51",
+      "name" : "juno \uD83C\uDF39\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08\uD83C\uDDF5\uD83C\uDDF7",
       "screen_name" : "jsdnxx",
       "protected" : false,
       "id_str" : "91704031",
@@ -3544,7 +3476,7 @@ Grailbird.data.tweets_2013_06 =
       "id_str" : "14052358",
       "id" : 14052358
     }, {
-      "name" : "\u00D8lvaro Videla",
+      "name" : "Alvaro Videla",
       "screen_name" : "old_sound",
       "indices" : [ 22, 32 ],
       "id_str" : "16484216",
@@ -3577,7 +3509,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rebel Scum",
+      "name" : "Brad Heintz",
       "screen_name" : "bradheintz",
       "indices" : [ 0, 11 ],
       "id_str" : "2042451",
@@ -3804,7 +3736,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u00D8lvaro Videla",
+      "name" : "Alvaro Videla",
       "screen_name" : "old_sound",
       "indices" : [ 10, 20 ],
       "id_str" : "16484216",

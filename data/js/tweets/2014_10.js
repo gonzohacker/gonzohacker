@@ -25,7 +25,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rebel Scum",
+      "name" : "Brad Heintz",
       "screen_name" : "bradheintz",
       "indices" : [ 0, 11 ],
       "id_str" : "2042451",
@@ -136,7 +136,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "mleinart",
       "protected" : false,
       "id_str" : "23000562",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1706485416\/IMG_20111218_092724_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/874463318186102786\/wGP952OU_normal.jpg",
       "id" : 23000562,
       "verified" : false
     }
@@ -350,7 +350,7 @@ Grailbird.data.tweets_2014_10 =
     "user" : {
       "name" : "KOZZWON",
       "screen_name" : "KOZZWON",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "65150717",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/818491441689350144\/6xVOUOml_normal.jpg",
       "id" : 65150717,
@@ -2050,13 +2050,7 @@ Grailbird.data.tweets_2014_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Nicole Brown",
-      "screen_name" : "Brown591Brown",
-      "indices" : [ 0, 14 ],
-      "id_str" : "2842510201",
-      "id" : 2842510201
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

@@ -1235,7 +1235,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "languagehacker",
       "protected" : false,
       "id_str" : "121556767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/833874714904973312\/yUCZn9tg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/867561315656765442\/wBErciK9_normal.jpg",
       "id" : 121556767,
       "verified" : false
     }
@@ -1554,7 +1554,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "232863368",
       "id" : 232863368
     }, {
-      "name" : "Alt-Thin Brown",
+      "name" : "Robbed ForCashian",
       "screen_name" : "jteeDC",
       "indices" : [ 15, 22 ],
       "id_str" : "69171795",
@@ -1980,7 +1980,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Salad Bar TimeCubes",
+      "name" : "salad bar ham cubes",
       "screen_name" : "flangy",
       "indices" : [ 3, 10 ],
       "id_str" : "14209746",
@@ -2024,11 +2024,11 @@ Grailbird.data.tweets_2013_07 =
     "in_reply_to_screen_name" : "GonzoHacker",
     "in_reply_to_user_id_str" : "773009000",
     "user" : {
-      "name" : "Salad Bar TimeCubes",
+      "name" : "salad bar ham cubes",
       "screen_name" : "flangy",
       "protected" : false,
       "id_str" : "14209746",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844281555451166720\/WMCkUr4M_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/880847733732421632\/deBFzvuT_normal.jpg",
       "id" : 14209746,
       "verified" : false
     }
@@ -2627,7 +2627,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "bus.factorial",
+      "name" : "jean von cl\u00F8\u00FCdb\u00E4nk",
       "screen_name" : "whit",
       "indices" : [ 3, 8 ],
       "id_str" : "17974018",
@@ -2671,7 +2671,7 @@ Grailbird.data.tweets_2013_07 =
     "in_reply_to_screen_name" : "GonzoHacker",
     "in_reply_to_user_id_str" : "773009000",
     "user" : {
-      "name" : "bus.factorial",
+      "name" : "jean von cl\u00F8\u00FCdb\u00E4nk",
       "screen_name" : "whit",
       "protected" : false,
       "id_str" : "17974018",
@@ -2973,7 +2973,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zach McArtor \uD83D\uDC68\u200D\uD83D\uDCBB",
+      "name" : "Zach McArtor \uD83E\uDDD9\u200D\u2642\uFE0F\uD83D\uDC68\u200D\uD83D\uDCBB",
       "screen_name" : "zmcartor",
       "indices" : [ 3, 12 ],
       "id_str" : "19977631",
@@ -3017,7 +3017,7 @@ Grailbird.data.tweets_2013_07 =
     "in_reply_to_screen_name" : "GonzoHacker",
     "in_reply_to_user_id_str" : "773009000",
     "user" : {
-      "name" : "Zach McArtor \uD83D\uDC68\u200D\uD83D\uDCBB",
+      "name" : "Zach McArtor \uD83E\uDDD9\u200D\u2642\uFE0F\uD83D\uDC68\u200D\uD83D\uDCBB",
       "screen_name" : "zmcartor",
       "protected" : false,
       "id_str" : "19977631",
@@ -3435,7 +3435,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eugene Ventimiglia",
+      "name" : "Eugene, a tea lizard",
       "screen_name" : "eventi",
       "indices" : [ 0, 7 ],
       "id_str" : "850",
@@ -3468,7 +3468,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sargoth| bird aspect",
+      "name" : "Digital grey goo",
       "screen_name" : "sargoth",
       "indices" : [ 0, 8 ],
       "id_str" : "15002329",
@@ -4263,7 +4263,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zach McArtor \uD83D\uDC68\u200D\uD83D\uDCBB",
+      "name" : "Zach McArtor \uD83E\uDDD9\u200D\u2642\uFE0F\uD83D\uDC68\u200D\uD83D\uDCBB",
       "screen_name" : "zmcartor",
       "indices" : [ 0, 9 ],
       "id_str" : "19977631",
@@ -4869,7 +4869,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "languagehacker",
       "protected" : false,
       "id_str" : "121556767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/833874714904973312\/yUCZn9tg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/867561315656765442\/wBErciK9_normal.jpg",
       "id" : 121556767,
       "verified" : false
     }
@@ -5210,7 +5210,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "cgcardona",
       "protected" : false,
       "id_str" : "149370826",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856544534397829120\/JApfG7mo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/866796005395771393\/xCC6Gx15_normal.jpg",
       "id" : 149370826,
       "verified" : false
     }
@@ -5283,7 +5283,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "languagehacker",
       "protected" : false,
       "id_str" : "121556767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/833874714904973312\/yUCZn9tg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/867561315656765442\/wBErciK9_normal.jpg",
       "id" : 121556767,
       "verified" : false
     }
@@ -5369,7 +5369,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Adam Howard",
+      "name" : "Adam Howard \uD83D\uDDFD",
       "screen_name" : "skattyadz",
       "indices" : [ 0, 10 ],
       "id_str" : "4675238256",
@@ -5402,7 +5402,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Adam Howard",
+      "name" : "Adam Howard \uD83D\uDDFD",
       "screen_name" : "skattyadz",
       "indices" : [ 0, 10 ],
       "id_str" : "4675238256",

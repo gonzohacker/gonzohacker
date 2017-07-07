@@ -118,7 +118,7 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zach McArtor \uD83D\uDC68\u200D\uD83D\uDCBB",
+      "name" : "Zach McArtor \uD83E\uDDD9\u200D\u2642\uFE0F\uD83D\uDC68\u200D\uD83D\uDCBB",
       "screen_name" : "zmcartor",
       "indices" : [ 0, 9 ],
       "id_str" : "19977631",
@@ -2949,16 +2949,27 @@ Grailbird.data.tweets_2016_03 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "kelly jensen.",
+      "screen_name" : "veronikellymars",
+      "indices" : [ 0, 16 ],
+      "id_str" : "15047178",
+      "id" : 15047178
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "715599092508811264",
   "geo" : { },
   "id_str" : "715599360109768704",
+  "in_reply_to_user_id" : 15047178,
   "text" : "@veronikellymars but do you leave your phone unlocked?",
   "id" : 715599360109768704,
+  "in_reply_to_status_id" : 715599092508811264,
   "created_at" : "2016-03-31 17:59:17 +0000",
+  "in_reply_to_screen_name" : "veronikellymars",
+  "in_reply_to_user_id_str" : "15047178",
   "user" : {
     "name" : "GonzoHacker",
     "screen_name" : "GonzoHacker",
@@ -4761,7 +4772,7 @@ Grailbird.data.tweets_2016_03 =
       "screen_name" : "SwiftOnSecurity",
       "protected" : false,
       "id_str" : "2436389418",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/855853739747545090\/TQA5rVCn_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/881353162178908160\/N5iG5XVw_normal.jpg",
       "id" : 2436389418,
       "verified" : false
     }
@@ -5054,109 +5065,6 @@ Grailbird.data.tweets_2016_03 =
   "text" : "Scalia was such a coward, bowing out before watching the collapse of the conservative movement",
   "id" : 715334501069524992,
   "created_at" : "2016-03-31 00:26:49 +0000",
-  "user" : {
-    "name" : "GonzoHacker",
-    "screen_name" : "GonzoHacker",
-    "protected" : false,
-    "id_str" : "773009000",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
-    "id" : 773009000,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u01DDuu\u01DD\u0131\u0279p\u0250",
-      "screen_name" : "adrienneleigh",
-      "indices" : [ 3, 17 ],
-      "id_str" : "557563",
-      "id" : 557563
-    }, {
-      "name" : "holly wood \uD83C\uDF39\uD83D\uDD2A\uD83D\uDD2A\uD83D\uDD2A",
-      "screen_name" : "girlziplocked",
-      "indices" : [ 87, 101 ],
-      "id_str" : "20221325",
-      "id" : 20221325
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 102, 125 ],
-      "url" : "https:\/\/t.co\/HnYj4Z5OX3",
-      "expanded_url" : "https:\/\/medium.com\/@girlziplocked\/when-we-suck-too-much-to-love-34a7ba04c2f2#---0-48.3vz2nihoo",
-      "display_url" : "medium.com\/@girlziplocked\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "715316223852982272",
-  "text" : "RT @adrienneleigh: Oof. Too real. \u201CBut weirdly no one asks, How do you make a self?\u201D\u200A\u2014\u200A@girlziplocked https:\/\/t.co\/HnYj4Z5OX3 https:\/\/t.co\/\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/medium.com\" rel=\"nofollow\"\u003EMedium\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "holly wood \uD83C\uDF39\uD83D\uDD2A\uD83D\uDD2A\uD83D\uDD2A",
-        "screen_name" : "girlziplocked",
-        "indices" : [ 68, 82 ],
-        "id_str" : "20221325",
-        "id" : 20221325
-      } ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/adrienneleigh\/status\/715312499923546112\/photo\/1",
-        "indices" : [ 107, 130 ],
-        "url" : "https:\/\/t.co\/6YjPgUi1NM",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/Ce1M7XkWIAEXyD0.jpg",
-        "id_str" : "715312498644230145",
-        "id" : 715312498644230145,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Ce1M7XkWIAEXyD0.jpg",
-        "sizes" : [ {
-          "h" : 901,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 1126,
-          "resize" : "fit",
-          "w" : 750
-        }, {
-          "h" : 510,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 1126,
-          "resize" : "fit",
-          "w" : 750
-        } ],
-        "display_url" : "pic.twitter.com\/6YjPgUi1NM"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 83, 106 ],
-        "url" : "https:\/\/t.co\/HnYj4Z5OX3",
-        "expanded_url" : "https:\/\/medium.com\/@girlziplocked\/when-we-suck-too-much-to-love-34a7ba04c2f2#---0-48.3vz2nihoo",
-        "display_url" : "medium.com\/@girlziplocked\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "715312499923546112",
-    "text" : "Oof. Too real. \u201CBut weirdly no one asks, How do you make a self?\u201D\u200A\u2014\u200A@girlziplocked https:\/\/t.co\/HnYj4Z5OX3 https:\/\/t.co\/6YjPgUi1NM",
-    "id" : 715312499923546112,
-    "created_at" : "2016-03-30 22:59:24 +0000",
-    "user" : {
-      "name" : "\u01DDuu\u01DD\u0131\u0279p\u0250",
-      "screen_name" : "adrienneleigh",
-      "protected" : false,
-      "id_str" : "557563",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/565742287301263360\/_A5L5vOS_normal.jpeg",
-      "id" : 557563,
-      "verified" : false
-    }
-  },
-  "id" : 715316223852982272,
-  "created_at" : "2016-03-30 23:14:12 +0000",
   "user" : {
     "name" : "GonzoHacker",
     "screen_name" : "GonzoHacker",
@@ -5605,7 +5513,7 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kerri A. Salciccioli",
+      "name" : "\/mdance Done Quick",
       "screen_name" : "sactage",
       "indices" : [ 0, 8 ],
       "id_str" : "258048302",
@@ -5773,7 +5681,7 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Coraline Ada Ehmke",
+      "name" : "A Dream Like an Echo",
       "screen_name" : "CoralineAda",
       "indices" : [ 0, 12 ],
       "id_str" : "9526722",
@@ -6016,7 +5924,7 @@ Grailbird.data.tweets_2016_03 =
       "id_str" : "17468481",
       "id" : 17468481
     }, {
-      "name" : "Ranger Doom",
+      "name" : "Noah Shachtman",
       "screen_name" : "NoahShachtman",
       "indices" : [ 12, 26 ],
       "id_str" : "15728161",
@@ -6033,7 +5941,7 @@ Grailbird.data.tweets_2016_03 =
     "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Ranger Doom",
+        "name" : "Noah Shachtman",
         "screen_name" : "NoahShachtman",
         "indices" : [ 0, 14 ],
         "id_str" : "15728161",
@@ -7043,7 +6951,7 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eugene Ventimiglia",
+      "name" : "Eugene, a tea lizard",
       "screen_name" : "eventi",
       "indices" : [ 0, 7 ],
       "id_str" : "850",
@@ -8564,7 +8472,7 @@ Grailbird.data.tweets_2016_03 =
       "screen_name" : "languagehacker",
       "protected" : false,
       "id_str" : "121556767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/833874714904973312\/yUCZn9tg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/867561315656765442\/wBErciK9_normal.jpg",
       "id" : 121556767,
       "verified" : false
     }
@@ -8753,7 +8661,7 @@ Grailbird.data.tweets_2016_03 =
       "screen_name" : "languagehacker",
       "protected" : false,
       "id_str" : "121556767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/833874714904973312\/yUCZn9tg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/867561315656765442\/wBErciK9_normal.jpg",
       "id" : 121556767,
       "verified" : false
     }
@@ -10175,16 +10083,11 @@ Grailbird.data.tweets_2016_03 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "712700262155157505",
   "geo" : { },
   "id_str" : "712700512760520704",
-  "in_reply_to_user_id" : 4846449262,
   "text" : "@apocatwitchit @Storify wat?",
   "id" : 712700512760520704,
-  "in_reply_to_status_id" : 712700262155157505,
   "created_at" : "2016-03-23 18:00:18 +0000",
-  "in_reply_to_screen_name" : "mallrohir",
-  "in_reply_to_user_id_str" : "4846449262",
   "user" : {
     "name" : "GonzoHacker",
     "screen_name" : "GonzoHacker",
@@ -10482,7 +10385,7 @@ Grailbird.data.tweets_2016_03 =
       "id_str" : "262914828",
       "id" : 262914828
     }, {
-      "name" : "Malaised Machine",
+      "name" : "saddest server",
       "screen_name" : "sadserver",
       "indices" : [ 28, 38 ],
       "id_str" : "116568685",
@@ -10611,7 +10514,7 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bye Java Doc",
+      "name" : "Bad Joy Cave",
       "screen_name" : "JacobyDave",
       "indices" : [ 0, 11 ],
       "id_str" : "15087660",
@@ -10644,7 +10547,7 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bye Java Doc",
+      "name" : "Bad Joy Cave",
       "screen_name" : "JacobyDave",
       "indices" : [ 0, 11 ],
       "id_str" : "15087660",
@@ -10677,7 +10580,7 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bye Java Doc",
+      "name" : "Bad Joy Cave",
       "screen_name" : "JacobyDave",
       "indices" : [ 0, 11 ],
       "id_str" : "15087660",
@@ -12003,7 +11906,7 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Greg \u2199\u0335\u0327\u0317\u2199\u0358\u034F\u033A\u2199\u035F\u0340\u031E\u0339\u0320\u031C",
+      "name" : "HRH Greg of ACAB",
       "screen_name" : "Greg_Sideyr",
       "indices" : [ 0, 12 ],
       "id_str" : "2621110917",
@@ -12173,7 +12076,7 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chaotic cyber",
+      "name" : "the under-juice",
       "screen_name" : "thwarted",
       "indices" : [ 3, 12 ],
       "id_str" : "14874283",
@@ -12210,7 +12113,7 @@ Grailbird.data.tweets_2016_03 =
     "id" : 711385152631386112,
     "created_at" : "2016-03-20 02:53:31 +0000",
     "user" : {
-      "name" : "chaotic cyber",
+      "name" : "the under-juice",
       "screen_name" : "thwarted",
       "protected" : false,
       "id_str" : "14874283",
@@ -13251,8 +13154,8 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Weird",
-      "screen_name" : "NeilScudder",
+      "name" : "Heavy Mover",
+      "screen_name" : "neilscudder",
       "indices" : [ 0, 12 ],
       "id_str" : "11961412",
       "id" : 11961412
@@ -13269,7 +13172,7 @@ Grailbird.data.tweets_2016_03 =
   "id" : 710670506001768450,
   "in_reply_to_status_id" : 710657663554617344,
   "created_at" : "2016-03-18 03:33:46 +0000",
-  "in_reply_to_screen_name" : "NeilScudder",
+  "in_reply_to_screen_name" : "neilscudder",
   "in_reply_to_user_id_str" : "11961412",
   "user" : {
     "name" : "GonzoHacker",
@@ -13312,7 +13215,7 @@ Grailbird.data.tweets_2016_03 =
       "id_str" : "23634463",
       "id" : 23634463
     }, {
-      "name" : "\uD83D\uDC4F",
+      "name" : "-",
       "screen_name" : "cloud_opinion",
       "indices" : [ 6, 20 ],
       "id_str" : "263792919",
@@ -14376,74 +14279,6 @@ Grailbird.data.tweets_2016_03 =
   "text" : "I'm judging your for loops",
   "id" : 709859669167050752,
   "created_at" : "2016-03-15 21:51:48 +0000",
-  "user" : {
-    "name" : "GonzoHacker",
-    "screen_name" : "GonzoHacker",
-    "protected" : false,
-    "id_str" : "773009000",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
-    "id" : 773009000,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "BrainOpener",
-      "screen_name" : "brainopener",
-      "indices" : [ 3, 15 ],
-      "id_str" : "43310902",
-      "id" : 43310902
-    }, {
-      "name" : "GonzoHacker",
-      "screen_name" : "GonzoHacker",
-      "indices" : [ 17, 29 ],
-      "id_str" : "773009000",
-      "id" : 773009000
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "709853670142119936",
-  "text" : "RT @brainopener: @GonzoHacker In Florida, they don't allow people to pull life support.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "GonzoHacker",
-        "screen_name" : "GonzoHacker",
-        "indices" : [ 0, 12 ],
-        "id_str" : "773009000",
-        "id" : 773009000
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "in_reply_to_status_id_str" : "709850086537175041",
-    "geo" : { },
-    "id_str" : "709850983241752577",
-    "in_reply_to_user_id" : 773009000,
-    "text" : "@GonzoHacker In Florida, they don't allow people to pull life support.",
-    "id" : 709850983241752577,
-    "in_reply_to_status_id" : 709850086537175041,
-    "created_at" : "2016-03-15 21:17:17 +0000",
-    "in_reply_to_screen_name" : "GonzoHacker",
-    "in_reply_to_user_id_str" : "773009000",
-    "user" : {
-      "name" : "BrainOpener",
-      "screen_name" : "brainopener",
-      "protected" : false,
-      "id_str" : "43310902",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/586238780991905793\/EfZRryoF_normal.png",
-      "id" : 43310902,
-      "verified" : false
-    }
-  },
-  "id" : 709853670142119936,
-  "created_at" : "2016-03-15 21:27:58 +0000",
   "user" : {
     "name" : "GonzoHacker",
     "screen_name" : "GonzoHacker",
@@ -16199,57 +16034,6 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Greg Wester",
-      "screen_name" : "gwestr",
-      "indices" : [ 3, 10 ],
-      "id_str" : "254873442",
-      "id" : 254873442
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "708543644232364032",
-  "text" : "RT @gwestr: Millennials who write automation that disrupts their parents' careers",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "708543344054435840",
-    "text" : "Millennials who write automation that disrupts their parents' careers",
-    "id" : 708543344054435840,
-    "created_at" : "2016-03-12 06:41:11 +0000",
-    "user" : {
-      "name" : "Greg Wester",
-      "screen_name" : "gwestr",
-      "protected" : false,
-      "id_str" : "254873442",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/502601328791539712\/rweKCUoq_normal.jpeg",
-      "id" : 254873442,
-      "verified" : false
-    }
-  },
-  "id" : 708543644232364032,
-  "created_at" : "2016-03-12 06:42:23 +0000",
-  "user" : {
-    "name" : "GonzoHacker",
-    "screen_name" : "GonzoHacker",
-    "protected" : false,
-    "id_str" : "773009000",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
-    "id" : 773009000,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "\u2308Phusion\u2309",
       "screen_name" : "phusion",
       "indices" : [ 0, 8 ],
@@ -17712,7 +17496,7 @@ Grailbird.data.tweets_2016_03 =
       "screen_name" : "zmanian",
       "protected" : false,
       "id_str" : "7910872",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/596345107227353089\/I2diQm3n_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/869563205303119872\/RvlT4V7W_normal.jpg",
       "id" : 7910872,
       "verified" : false
     }
@@ -17962,7 +17746,7 @@ Grailbird.data.tweets_2016_03 =
       "screen_name" : "Durf",
       "protected" : false,
       "id_str" : "5514712",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/861406821294120964\/08p3O_Aq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/873082149921898497\/lqJriaOY_normal.jpg",
       "id" : 5514712,
       "verified" : false
     }
@@ -18610,7 +18394,7 @@ Grailbird.data.tweets_2016_03 =
       "screen_name" : "IamStan",
       "protected" : false,
       "id_str" : "14879896",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/860806430785507328\/iv4VnxJF_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/880866419814146049\/BDE8mtQB_normal.jpg",
       "id" : 14879896,
       "verified" : false
     }
@@ -18894,7 +18678,7 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Adult Millennial",
+      "name" : "adult_Millennial!",
       "screen_name" : "AdultMillennial",
       "indices" : [ 0, 16 ],
       "id_str" : "703735415094677505",
@@ -19952,7 +19736,7 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Coraline Ada Ehmke",
+      "name" : "A Dream Like an Echo",
       "screen_name" : "CoralineAda",
       "indices" : [ 0, 12 ],
       "id_str" : "9526722",
@@ -19985,7 +19769,7 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Coraline Ada Ehmke",
+      "name" : "A Dream Like an Echo",
       "screen_name" : "CoralineAda",
       "indices" : [ 0, 12 ],
       "id_str" : "9526722",
@@ -20364,7 +20148,7 @@ Grailbird.data.tweets_2016_03 =
       "screen_name" : "RawStory",
       "protected" : false,
       "id_str" : "16041234",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/511012709270183936\/wEVYV7Lf_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879061537423544320\/99vcNM5N_normal.jpg",
       "id" : 16041234,
       "verified" : true
     }
@@ -21010,7 +20794,7 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDF3A\uD83C\uDF3C eevee \uD83C\uDF3C\uD83C\uDF3A",
+      "name" : "\uD83C\uDF07\uD83C\uDF86 eevee \uD83C\uDF86\uD83C\uDF07",
       "screen_name" : "eevee",
       "indices" : [ 0, 6 ],
       "id_str" : "14412937",
@@ -21677,7 +21461,7 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDC4F",
+      "name" : "-",
       "screen_name" : "cloud_opinion",
       "indices" : [ 0, 14 ],
       "id_str" : "263792919",

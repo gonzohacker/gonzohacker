@@ -54,7 +54,7 @@ Grailbird.data.tweets_2014_05 =
       "screen_name" : "cgcardona",
       "protected" : false,
       "id_str" : "149370826",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856544534397829120\/JApfG7mo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/866796005395771393\/xCC6Gx15_normal.jpg",
       "id" : 149370826,
       "verified" : false
     }
@@ -674,7 +674,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eugene Ventimiglia",
+      "name" : "Eugene, a tea lizard",
       "screen_name" : "eventi",
       "indices" : [ 0, 7 ],
       "id_str" : "850",
@@ -2070,7 +2070,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "non shell aunt",
+      "name" : "fidget sinner",
       "screen_name" : "benjaminws",
       "indices" : [ 0, 11 ],
       "id_str" : "14188391",
@@ -4267,7 +4267,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "dba",
+      "name" : "everything is config",
       "screen_name" : "agestam",
       "indices" : [ 0, 8 ],
       "id_str" : "33248620",
@@ -4608,7 +4608,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "R\u00F6stbrotkammer",
+      "name" : "lastfuture",
       "screen_name" : "toastroom",
       "indices" : [ 3, 13 ],
       "id_str" : "11531572",
@@ -4620,7 +4620,7 @@ Grailbird.data.tweets_2014_05 =
       "id_str" : "773009000",
       "id" : 773009000
     }, {
-      "name" : "Leonard Ritter",
+      "name" : "\uD83E\uDD14",
       "screen_name" : "paniq",
       "indices" : [ 28, 34 ],
       "id_str" : "15840592",
@@ -4648,7 +4648,7 @@ Grailbird.data.tweets_2014_05 =
         "id_str" : "773009000",
         "id" : 773009000
       }, {
-        "name" : "Leonard Ritter",
+        "name" : "\uD83E\uDD14",
         "screen_name" : "paniq",
         "indices" : [ 13, 19 ],
         "id_str" : "15840592",
@@ -4674,7 +4674,7 @@ Grailbird.data.tweets_2014_05 =
     "in_reply_to_screen_name" : "GonzoHacker",
     "in_reply_to_user_id_str" : "773009000",
     "user" : {
-      "name" : "R\u00F6stbrotkammer",
+      "name" : "lastfuture",
       "screen_name" : "toastroom",
       "protected" : false,
       "id_str" : "11531572",

@@ -370,7 +370,7 @@ Grailbird.data.tweets_2014_12 =
       "id_str" : "149317216",
       "id" : 149317216
     }, {
-      "name" : "Austin Richardson",
+      "name" : "Austin Richardson \uD83C\uDF3A",
       "screen_name" : "heyaudy",
       "indices" : [ 13, 21 ],
       "id_str" : "14534523",
@@ -409,7 +409,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Glenn Fleishman",
+      "name" : "Glenn Fleishman \uD83C\uDF4A\uD83E\uDD21\uD83E\uDD1B\uD83D\uDD14",
       "screen_name" : "GlennF",
       "indices" : [ 3, 10 ],
       "id_str" : "8315692",
@@ -436,7 +436,7 @@ Grailbird.data.tweets_2014_12 =
     "id" : 549958481386561537,
     "created_at" : "2014-12-30 16:01:34 +0000",
     "user" : {
-      "name" : "Glenn Fleishman",
+      "name" : "Glenn Fleishman \uD83C\uDF4A\uD83E\uDD21\uD83E\uDD1B\uD83D\uDD14",
       "screen_name" : "GlennF",
       "protected" : false,
       "id_str" : "8315692",

@@ -1169,7 +1169,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "gvwilson",
       "protected" : false,
       "id_str" : "21506708",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/860865262324678657\/6tX8R9EJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/874217431190962176\/bM0hqtHh_normal.jpg",
       "id" : 21506708,
       "verified" : false
     }
@@ -4220,7 +4220,7 @@ Grailbird.data.tweets_2012_11 =
     "user" : {
       "name" : "KOZZWON",
       "screen_name" : "KOZZWON",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "65150717",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/818491441689350144\/6xVOUOml_normal.jpg",
       "id" : 65150717,
@@ -7289,13 +7289,13 @@ Grailbird.data.tweets_2012_11 =
         "id_str" : "277089224",
         "id" : 277089224
       }, {
-        "name" : "Stubby Butcher \uD83E\uDD52",
+        "name" : "English Pea Ravioli",
         "screen_name" : "Snegurothka",
         "indices" : [ 63, 75 ],
         "id_str" : "106550123",
         "id" : 106550123
       }, {
-        "name" : "GSV Steen",
+        "name" : "GSV Steen Comer",
         "screen_name" : "mediapathic",
         "indices" : [ 76, 88 ],
         "id_str" : "12374692",
@@ -7313,7 +7313,7 @@ Grailbird.data.tweets_2012_11 =
         "id_str" : "1155195259",
         "id" : 1155195259
       }, {
-        "name" : "Colin\uD83C\uDF39Barrett",
+        "name" : "Karl Marx Admirer \uD83C\uDF0A\uD83D\uDC3B",
         "screen_name" : "cbarrett",
         "indices" : [ 114, 123 ],
         "id_str" : "3562421",
@@ -7377,27 +7377,16 @@ Grailbird.data.tweets_2012_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Ryan \uD83D\uDD4A",
-      "screen_name" : "rhdoe",
-      "indices" : [ 0, 6 ],
-      "id_str" : "68503509",
-      "id" : 68503509
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "264113308473389056",
   "geo" : { },
   "id_str" : "264113660480327680",
-  "in_reply_to_user_id" : 68503509,
   "text" : "@rhdoe A hash press",
   "id" : 264113660480327680,
-  "in_reply_to_status_id" : 264113308473389056,
   "created_at" : "2012-11-01 21:16:18 +0000",
-  "in_reply_to_screen_name" : "rhdoe",
-  "in_reply_to_user_id_str" : "68503509",
   "user" : {
     "name" : "GonzoHacker",
     "screen_name" : "GonzoHacker",

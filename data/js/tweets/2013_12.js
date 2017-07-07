@@ -766,7 +766,7 @@ Grailbird.data.tweets_2013_12 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "wendys adams",
-      "screen_name" : "Porkbeard",
+      "screen_name" : "porkbeard",
       "indices" : [ 3, 13 ],
       "id_str" : "6296832",
       "id" : 6296832
@@ -793,10 +793,10 @@ Grailbird.data.tweets_2013_12 =
     "created_at" : "2013-01-31 09:58:47 +0000",
     "user" : {
       "name" : "wendys adams",
-      "screen_name" : "Porkbeard",
+      "screen_name" : "porkbeard",
       "protected" : false,
       "id_str" : "6296832",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/848663801683730434\/H0FKzn0s_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/867111840114987008\/z4B2dDT__normal.jpg",
       "id" : 6296832,
       "verified" : false
     }
@@ -843,7 +843,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Salad Bar TimeCubes",
+      "name" : "salad bar ham cubes",
       "screen_name" : "flangy",
       "indices" : [ 0, 7 ],
       "id_str" : "14209746",
@@ -4003,7 +4003,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zach McArtor \uD83D\uDC68\u200D\uD83D\uDCBB",
+      "name" : "Zach McArtor \uD83E\uDDD9\u200D\u2642\uFE0F\uD83D\uDC68\u200D\uD83D\uDCBB",
       "screen_name" : "zmcartor",
       "indices" : [ 0, 9 ],
       "id_str" : "19977631",
@@ -4588,60 +4588,6 @@ Grailbird.data.tweets_2013_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Greg Wester",
-      "screen_name" : "gwestr",
-      "indices" : [ 3, 10 ],
-      "id_str" : "254873442",
-      "id" : 254873442
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "408819005156118528",
-  "text" : "RT @gwestr: Scumbag engineer: wants to deploy an API change every day, gets mad when IT applies a puppet change to dev box",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : {
-      "type" : "Point",
-      "coordinates" : [ 37.7674094, -122.453255 ]
-    },
-    "id_str" : "408818456625049600",
-    "text" : "Scumbag engineer: wants to deploy an API change every day, gets mad when IT applies a puppet change to dev box",
-    "id" : 408818456625049600,
-    "created_at" : "2013-12-06 04:41:30 +0000",
-    "user" : {
-      "name" : "Greg Wester",
-      "screen_name" : "gwestr",
-      "protected" : false,
-      "id_str" : "254873442",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/502601328791539712\/rweKCUoq_normal.jpeg",
-      "id" : 254873442,
-      "verified" : false
-    }
-  },
-  "id" : 408819005156118528,
-  "created_at" : "2013-12-06 04:43:40 +0000",
-  "user" : {
-    "name" : "GonzoHacker",
-    "screen_name" : "GonzoHacker",
-    "protected" : false,
-    "id_str" : "773009000",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
-    "id" : 773009000,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -4764,7 +4710,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jennjamin button",
+      "name" : "jennmoneydollars",
       "screen_name" : "jennschiffer",
       "indices" : [ 0, 13 ],
       "id_str" : "12524622",
@@ -5477,7 +5423,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "languagehacker",
       "protected" : false,
       "id_str" : "121556767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/833874714904973312\/yUCZn9tg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/867561315656765442\/wBErciK9_normal.jpg",
       "id" : 121556767,
       "verified" : false
     }
@@ -5717,7 +5663,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "yes all doggos",
+      "name" : "haute tak\u00E9",
       "screen_name" : "dcousineau",
       "indices" : [ 0, 11 ],
       "id_str" : "14738275",

@@ -2497,57 +2497,6 @@ Grailbird.data.tweets_2015_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Greg Wester",
-      "screen_name" : "gwestr",
-      "indices" : [ 3, 10 ],
-      "id_str" : "254873442",
-      "id" : 254873442
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "608712979236855808",
-  "text" : "RT @gwestr: Need another billion? Just increase your valuation by $9B. Repeat every 8 months until nobody can buy you and you can't credibl\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "608712685241245696",
-    "text" : "Need another billion? Just increase your valuation by $9B. Repeat every 8 months until nobody can buy you and you can't credibly beat giants",
-    "id" : 608712685241245696,
-    "created_at" : "2015-06-10 19:09:48 +0000",
-    "user" : {
-      "name" : "Greg Wester",
-      "screen_name" : "gwestr",
-      "protected" : false,
-      "id_str" : "254873442",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/502601328791539712\/rweKCUoq_normal.jpeg",
-      "id" : 254873442,
-      "verified" : false
-    }
-  },
-  "id" : 608712979236855808,
-  "created_at" : "2015-06-10 19:10:58 +0000",
-  "user" : {
-    "name" : "GonzoHacker",
-    "screen_name" : "GonzoHacker",
-    "protected" : false,
-    "id_str" : "773009000",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
-    "id" : 773009000,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -3425,7 +3374,7 @@ Grailbird.data.tweets_2015_06 =
       "screen_name" : "languagehacker",
       "protected" : false,
       "id_str" : "121556767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/833874714904973312\/yUCZn9tg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/867561315656765442\/wBErciK9_normal.jpg",
       "id" : 121556767,
       "verified" : false
     }
@@ -3864,7 +3813,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eugene Ventimiglia",
+      "name" : "Eugene, a tea lizard",
       "screen_name" : "eventi",
       "indices" : [ 3, 10 ],
       "id_str" : "850",
@@ -3891,7 +3840,7 @@ Grailbird.data.tweets_2015_06 =
     "id" : 606878152216997888,
     "created_at" : "2015-06-05 17:40:01 +0000",
     "user" : {
-      "name" : "Eugene Ventimiglia",
+      "name" : "Eugene, a tea lizard",
       "screen_name" : "eventi",
       "protected" : false,
       "id_str" : "850",
@@ -4124,7 +4073,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Churn A Bog",
+      "name" : "BinchX",
       "screen_name" : "moonpolysoft",
       "indices" : [ 3, 16 ],
       "id_str" : "14204623",
@@ -4151,7 +4100,7 @@ Grailbird.data.tweets_2015_06 =
     "id" : 606206077076504576,
     "created_at" : "2015-06-03 21:09:26 +0000",
     "user" : {
-      "name" : "Churn A Bog",
+      "name" : "BinchX",
       "screen_name" : "moonpolysoft",
       "protected" : false,
       "id_str" : "14204623",
@@ -4572,7 +4521,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anthony",
+      "name" : "Anthony Ferrara",
       "screen_name" : "ircmaxell",
       "indices" : [ 0, 10 ],
       "id_str" : "16867627",

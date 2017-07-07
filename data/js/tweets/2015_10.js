@@ -2969,7 +2969,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jeremy Baksht\u2122",
+      "name" : "Jeremy Baksht\u2122 \uD83D\uDE80\uD83E\uDD16",
       "screen_name" : "jbaksht",
       "indices" : [ 0, 8 ],
       "id_str" : "37716108",
@@ -4159,7 +4159,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Diabolical Bollocks",
+      "name" : "babadookchain",
       "screen_name" : "sorenmacbeth",
       "indices" : [ 3, 16 ],
       "id_str" : "7985672",
@@ -4186,7 +4186,7 @@ Grailbird.data.tweets_2015_10 =
     "id" : 651228503065542656,
     "created_at" : "2015-10-06 02:52:29 +0000",
     "user" : {
-      "name" : "Diabolical Bollocks",
+      "name" : "babadookchain",
       "screen_name" : "sorenmacbeth",
       "protected" : false,
       "id_str" : "7985672",

@@ -3722,7 +3722,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Saboteur John Dante",
+      "name" : "John Dante",
       "screen_name" : "johndante",
       "indices" : [ 0, 10 ],
       "id_str" : "27517325",
@@ -4065,7 +4065,7 @@ Grailbird.data.tweets_2017_04 =
       "screen_name" : "rootsecdev",
       "protected" : false,
       "id_str" : "35508508",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/737475256827416576\/JEU9mt0i_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/876634893610098688\/oyNzMYmY_normal.jpg",
       "id" : 35508508,
       "verified" : false
     }
@@ -4821,7 +4821,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kevin Fox \uD83D\uDC4D\uD83C\uDDEB\uD83C\uDDF7",
+      "name" : "Kevin Fox \uD83E\uDD8A",
       "screen_name" : "kfury",
       "indices" : [ 0, 6 ],
       "id_str" : "785",
@@ -6342,7 +6342,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FourOctets",
+      "name" : ":()\u007B :|: & \u007D;:",
       "screen_name" : "FourOctets",
       "indices" : [ 0, 11 ],
       "id_str" : "3185889936",
@@ -7223,7 +7223,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Se\u00F1or Yak Shaver\uD83C\uDDF3\uD83C\uDDF1",
+      "name" : "Tane Piper",
       "screen_name" : "tanepiper",
       "indices" : [ 3, 13 ],
       "id_str" : "20693",
@@ -7279,11 +7279,11 @@ Grailbird.data.tweets_2017_04 =
     "in_reply_to_screen_name" : "GonzoHacker",
     "in_reply_to_user_id_str" : "773009000",
     "user" : {
-      "name" : "Se\u00F1or Yak Shaver\uD83C\uDDF3\uD83C\uDDF1",
+      "name" : "Tane Piper",
       "screen_name" : "tanepiper",
       "protected" : false,
       "id_str" : "20693",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/813877820053196800\/T3sXjKvI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/873576539698409472\/85TCTu5g_normal.jpg",
       "id" : 20693,
       "verified" : false
     }
@@ -7303,7 +7303,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2694\uFE0FMichael Farnum\u2694\uFE0F",
+      "name" : "\uD83E\uDD53Michael Farnum\uD83E\uDD53",
       "screen_name" : "m1a1vet",
       "indices" : [ 0, 8 ],
       "id_str" : "12667532",
@@ -7342,7 +7342,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2694\uFE0FMichael Farnum\u2694\uFE0F",
+      "name" : "\uD83E\uDD53Michael Farnum\uD83E\uDD53",
       "screen_name" : "m1a1vet",
       "indices" : [ 0, 8 ],
       "id_str" : "12667532",
@@ -8327,7 +8327,7 @@ Grailbird.data.tweets_2017_04 =
       "id_str" : "17603168",
       "id" : 17603168
     }, {
-      "name" : "Yashar",
+      "name" : "Yashar Ali",
       "screen_name" : "yashar",
       "indices" : [ 43, 50 ],
       "id_str" : "11744152",
@@ -9672,7 +9672,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Saboteur John Dante",
+      "name" : "John Dante",
       "screen_name" : "johndante",
       "indices" : [ 0, 10 ],
       "id_str" : "27517325",
@@ -10212,7 +10212,7 @@ Grailbird.data.tweets_2017_04 =
       "screen_name" : "willdayble",
       "protected" : false,
       "id_str" : "16537883",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/783157543665184768\/dk5cmgPf_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/883105294821212160\/1oehgzCq_normal.jpg",
       "id" : 16537883,
       "verified" : false
     }

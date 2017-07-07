@@ -212,7 +212,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Coraline Ada Ehmke",
+      "name" : "A Dream Like an Echo",
       "screen_name" : "CoralineAda",
       "indices" : [ 3, 15 ],
       "id_str" : "9526722",
@@ -239,11 +239,11 @@ Grailbird.data.tweets_2015_02 =
     "id" : 571356340498464768,
     "created_at" : "2015-02-27 17:09:01 +0000",
     "user" : {
-      "name" : "Coraline Ada Ehmke",
+      "name" : "A Dream Like an Echo",
       "screen_name" : "CoralineAda",
       "protected" : false,
       "id_str" : "9526722",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847934240838656000\/cUYDyiCs_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/882599816731209728\/uCCyIUL__normal.jpg",
       "id" : 9526722,
       "verified" : true
     }
@@ -627,7 +627,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "!!Bert",
+      "name" : "sic, entire sentence",
       "screen_name" : "stijlist",
       "indices" : [ 3, 12 ],
       "id_str" : "885413604",
@@ -654,7 +654,7 @@ Grailbird.data.tweets_2015_02 =
     "id" : 570390265225187329,
     "created_at" : "2015-02-25 01:10:11 +0000",
     "user" : {
-      "name" : "!!Bert",
+      "name" : "sic, entire sentence",
       "screen_name" : "stijlist",
       "protected" : false,
       "id_str" : "885413604",
@@ -749,7 +749,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pikelet \uD83E\uDD84\uD83C\uDF89\u2728",
+      "name" : "Pikelet \uD83E\uDD84",
       "screen_name" : "pikelet",
       "indices" : [ 3, 11 ],
       "id_str" : "6000702",
@@ -776,11 +776,11 @@ Grailbird.data.tweets_2015_02 =
     "id" : 570061993949818881,
     "created_at" : "2015-02-24 03:25:45 +0000",
     "user" : {
-      "name" : "Pikelet \uD83E\uDD84\uD83C\uDF89\u2728",
+      "name" : "Pikelet \uD83E\uDD84",
       "screen_name" : "pikelet",
       "protected" : false,
       "id_str" : "6000702",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/857470785501315072\/KLtn3Vhb_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/868925382354849792\/n-w0wgNG_normal.jpg",
       "id" : 6000702,
       "verified" : false
     }
@@ -1467,7 +1467,7 @@ Grailbird.data.tweets_2015_02 =
       "screen_name" : "languagehacker",
       "protected" : false,
       "id_str" : "121556767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/833874714904973312\/yUCZn9tg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/867561315656765442\/wBErciK9_normal.jpg",
       "id" : 121556767,
       "verified" : false
     }
@@ -1947,60 +1947,6 @@ Grailbird.data.tweets_2015_02 =
   "text" : "So, Etsy just sells crafts and stuff right? Their blog makes it seem like they're trying to initiate the singularity",
   "id" : 565895217178349568,
   "created_at" : "2015-02-12 15:28:28 +0000",
-  "user" : {
-    "name" : "GonzoHacker",
-    "screen_name" : "GonzoHacker",
-    "protected" : false,
-    "id_str" : "773009000",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
-    "id" : 773009000,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Greg Wester",
-      "screen_name" : "gwestr",
-      "indices" : [ 3, 10 ],
-      "id_str" : "254873442",
-      "id" : 254873442
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "565699401814114304",
-  "text" : "RT @gwestr: Local news is the original clickbait. \"We have critical public safety information but first watch mattress ads to find out\"",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : {
-      "type" : "Point",
-      "coordinates" : [ 37.76735843856649, -122.4531165884812 ]
-    },
-    "id_str" : "565698906907226112",
-    "text" : "Local news is the original clickbait. \"We have critical public safety information but first watch mattress ads to find out\"",
-    "id" : 565698906907226112,
-    "created_at" : "2015-02-12 02:28:24 +0000",
-    "user" : {
-      "name" : "Greg Wester",
-      "screen_name" : "gwestr",
-      "protected" : false,
-      "id_str" : "254873442",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/502601328791539712\/rweKCUoq_normal.jpeg",
-      "id" : 254873442,
-      "verified" : false
-    }
-  },
-  "id" : 565699401814114304,
-  "created_at" : "2015-02-12 02:30:22 +0000",
   "user" : {
     "name" : "GonzoHacker",
     "screen_name" : "GonzoHacker",

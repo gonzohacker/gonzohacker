@@ -1123,57 +1123,6 @@ Grailbird.data.tweets_2014_07 =
     "user_mentions" : [ {
       "name" : "Andrew S",
       "screen_name" : "bn2b",
-      "indices" : [ 3, 8 ],
-      "id_str" : "16322212",
-      "id" : 16322212
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "491976785051926528",
-  "text" : "RT @bn2b: You face 2 men. One always lies, one always tells the truth. They both say \"Click me to unsubscribe\".\nYou may ask one Yes or No q\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "491967929559183360",
-    "text" : "You face 2 men. One always lies, one always tells the truth. They both say \"Click me to unsubscribe\".\nYou may ask one Yes or No question.",
-    "id" : 491967929559183360,
-    "created_at" : "2014-07-23 15:27:49 +0000",
-    "user" : {
-      "name" : "Andrew S",
-      "screen_name" : "bn2b",
-      "protected" : false,
-      "id_str" : "16322212",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000851031028\/9e3e517fb3eccc9bd651917f2918b08d_normal.png",
-      "id" : 16322212,
-      "verified" : false
-    }
-  },
-  "id" : 491976785051926528,
-  "created_at" : "2014-07-23 16:03:00 +0000",
-  "user" : {
-    "name" : "GonzoHacker",
-    "screen_name" : "GonzoHacker",
-    "protected" : false,
-    "id_str" : "773009000",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
-    "id" : 773009000,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Andrew S",
-      "screen_name" : "bn2b",
       "indices" : [ 0, 5 ],
       "id_str" : "16322212",
       "id" : 16322212
@@ -1249,8 +1198,8 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Weird",
-      "screen_name" : "NeilScudder",
+      "name" : "Heavy Mover",
+      "screen_name" : "neilscudder",
       "indices" : [ 0, 12 ],
       "id_str" : "11961412",
       "id" : 11961412
@@ -1267,7 +1216,7 @@ Grailbird.data.tweets_2014_07 =
   "id" : 491388938666246144,
   "in_reply_to_status_id" : 491366523148050432,
   "created_at" : "2014-07-22 01:07:07 +0000",
-  "in_reply_to_screen_name" : "NeilScudder",
+  "in_reply_to_screen_name" : "neilscudder",
   "in_reply_to_user_id_str" : "11961412",
   "user" : {
     "name" : "GonzoHacker",
@@ -3045,7 +2994,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "0.1X Developer",
+      "name" : "Z\uD83D\uDE31 W\uD83D\uDE31s",
       "screen_name" : "zekeweeks",
       "indices" : [ 0, 10 ],
       "id_str" : "12923902",

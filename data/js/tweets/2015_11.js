@@ -91,7 +91,7 @@ Grailbird.data.tweets_2015_11 =
       "screen_name" : "LOLGOP",
       "protected" : false,
       "id_str" : "11866582",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/649031186845560832\/c385MSMQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875789656369102848\/YtrDL9IU_normal.jpg",
       "id" : 11866582,
       "verified" : false
     }
@@ -5810,7 +5810,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "to catch a redditor",
+      "name" : "Business Skeleton",
       "screen_name" : "perezd",
       "indices" : [ 0, 7 ],
       "id_str" : "811649",
@@ -6170,7 +6170,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kilgore Trout",
+      "name" : "Kilgore Trout \uD83D\uDC1C",
       "screen_name" : "LordThree",
       "indices" : [ 0, 10 ],
       "id_str" : "179807762",

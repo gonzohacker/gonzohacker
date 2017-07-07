@@ -2454,7 +2454,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "to catch a redditor",
+      "name" : "Business Skeleton",
       "screen_name" : "perezd",
       "indices" : [ 0, 7 ],
       "id_str" : "811649",
@@ -2688,7 +2688,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "languagehacker",
       "protected" : false,
       "id_str" : "121556767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/833874714904973312\/yUCZn9tg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/867561315656765442\/wBErciK9_normal.jpg",
       "id" : 121556767,
       "verified" : false
     }
@@ -4090,7 +4090,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "bus.factorial",
+      "name" : "jean von cl\u00F8\u00FCdb\u00E4nk",
       "screen_name" : "whit",
       "indices" : [ 3, 8 ],
       "id_str" : "17974018",
@@ -4134,7 +4134,7 @@ Grailbird.data.tweets_2013_10 =
     "in_reply_to_screen_name" : "GonzoHacker",
     "in_reply_to_user_id_str" : "773009000",
     "user" : {
-      "name" : "bus.factorial",
+      "name" : "jean von cl\u00F8\u00FCdb\u00E4nk",
       "screen_name" : "whit",
       "protected" : false,
       "id_str" : "17974018",
@@ -4550,7 +4550,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 387774449744764928,
     "created_at" : "2013-10-09 03:00:07 +0000",
     "user" : {
-      "name" : "\u303D\uD83C\uDF51",
+      "name" : "juno \uD83C\uDF39\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08\uD83C\uDDF5\uD83C\uDDF7",
       "screen_name" : "jsdnxx",
       "protected" : false,
       "id_str" : "91704031",
@@ -5150,7 +5150,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "DiscursivelyPopehat",
+      "name" : "ClenchdFistofPopehat",
       "screen_name" : "Popehat",
       "indices" : [ 3, 11 ],
       "id_str" : "18839937",
@@ -5177,7 +5177,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 386328322197553152,
     "created_at" : "2013-10-05 03:13:44 +0000",
     "user" : {
-      "name" : "DiscursivelyPopehat",
+      "name" : "ClenchdFistofPopehat",
       "screen_name" : "Popehat",
       "protected" : false,
       "id_str" : "18839937",
@@ -5207,7 +5207,7 @@ Grailbird.data.tweets_2013_10 =
       "id_str" : "18368962",
       "id" : 18368962
     }, {
-      "name" : "DiscursivelyPopehat",
+      "name" : "ClenchdFistofPopehat",
       "screen_name" : "Popehat",
       "indices" : [ 11, 19 ],
       "id_str" : "18839937",
@@ -5233,7 +5233,7 @@ Grailbird.data.tweets_2013_10 =
     "source" : "\u003Ca href=\"http:\/\/twicca.r246.jp\/\" rel=\"nofollow\"\u003Etwicca\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "DiscursivelyPopehat",
+        "name" : "ClenchdFistofPopehat",
         "screen_name" : "Popehat",
         "indices" : [ 0, 8 ],
         "id_str" : "18839937",
@@ -5462,7 +5462,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zach McArtor \uD83D\uDC68\u200D\uD83D\uDCBB",
+      "name" : "Zach McArtor \uD83E\uDDD9\u200D\u2642\uFE0F\uD83D\uDC68\u200D\uD83D\uDCBB",
       "screen_name" : "zmcartor",
       "indices" : [ 0, 9 ],
       "id_str" : "19977631",
@@ -5657,7 +5657,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "languagehacker",
       "protected" : false,
       "id_str" : "121556767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/833874714904973312\/yUCZn9tg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/867561315656765442\/wBErciK9_normal.jpg",
       "id" : 121556767,
       "verified" : false
     }
@@ -6401,7 +6401,7 @@ Grailbird.data.tweets_2013_10 =
       "id_str" : "4170910474",
       "id" : 4170910474
     }, {
-      "name" : "non shell aunt",
+      "name" : "fidget sinner",
       "screen_name" : "benjaminws",
       "indices" : [ 26, 37 ],
       "id_str" : "14188391",

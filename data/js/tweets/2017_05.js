@@ -1,5 +1,11754 @@
 Grailbird.data.tweets_2017_05 = 
-[ {
+ [ {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "870057233752653826",
+  "text" : "A system and a method to entrap a user's attention into a disorienting feedback loop of abstract social approval",
+  "id" : 870057233752653826,
+  "created_at" : "2017-05-31 23:19:44 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "870055863792410629",
+  "text" : "The invisible hand of the market no longer has to submit a fingerprint background check",
+  "id" : 870055863792410629,
+  "created_at" : "2017-05-31 23:14:17 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "870055020519149568",
+  "text" : "When the government gets involved in transportation it burdens the sector with regulations meant to keep people \"safe\" and \"alive\"",
+  "id" : 870055020519149568,
+  "created_at" : "2017-05-31 23:10:56 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/870054021243039744\/photo\/1",
+      "indices" : [ 126, 149 ],
+      "url" : "https:\/\/t.co\/ik6xYbEDro",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DBMNc_gUwAAX1ty.jpg",
+      "id_str" : "870053944747147264",
+      "id" : 870053944747147264,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DBMNc_gUwAAX1ty.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 284,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 650,
+        "resize" : "fit",
+        "w" : 1554
+      }, {
+        "h" : 502,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 650,
+        "resize" : "fit",
+        "w" : 1554
+      } ],
+      "display_url" : "pic.twitter.com\/ik6xYbEDro"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "870054021243039744",
+  "text" : "Disruption means your taxi driver is more likely to be under-insured and maybe murder you which is clear win for the consumer https:\/\/t.co\/ik6xYbEDro",
+  "id" : 870054021243039744,
+  "created_at" : "2017-05-31 23:06:58 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "870039577150578688",
+  "text" : "Everything a robot says is a lie.They can't say what they really think.",
+  "id" : 870039577150578688,
+  "created_at" : "2017-05-31 22:09:34 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "870030630834368512",
+  "geo" : { },
+  "id_str" : "870032041395589121",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "That shady Russian private equity group that invested all that money seems a bit suspect now though",
+  "id" : 870032041395589121,
+  "in_reply_to_status_id" : 870030630834368512,
+  "created_at" : "2017-05-31 21:39:37 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "870029771232727041",
+  "geo" : { },
+  "id_str" : "870030630834368512",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "It's just a funny hack that accumulates personally identifiable information and correlates info engagement with behavior &amp; sentiment metrics",
+  "id" : 870030630834368512,
+  "in_reply_to_status_id" : 870029771232727041,
+  "created_at" : "2017-05-31 21:34:01 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "870028879154511873",
+  "geo" : { },
+  "id_str" : "870029771232727041",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "It's just an algorithm that optimizes the impact of content impressions across highly targeted cohorts not a bomb",
+  "id" : 870029771232727041,
+  "in_reply_to_status_id" : 870028879154511873,
+  "created_at" : "2017-05-31 21:30:36 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "870028879154511873",
+  "text" : "I spent the Obama years writing twitter bots and a\/b testing content strategy and wondering if I'd ever work on things that change the world",
+  "id" : 870028879154511873,
+  "created_at" : "2017-05-31 21:27:03 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/870026285942222849\/photo\/1",
+      "indices" : [ 18, 41 ],
+      "url" : "https:\/\/t.co\/nRo0AnPeKu",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DBL0N2CUwAAyalQ.jpg",
+      "id_str" : "870026196716666880",
+      "id" : 870026196716666880,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DBL0N2CUwAAyalQ.jpg",
+      "sizes" : [ {
+        "h" : 672,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 381,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 816,
+        "resize" : "fit",
+        "w" : 1458
+      }, {
+        "h" : 816,
+        "resize" : "fit",
+        "w" : 1458
+      } ],
+      "display_url" : "pic.twitter.com\/nRo0AnPeKu"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "870026285942222849",
+  "text" : "git dad --no-puns https:\/\/t.co\/nRo0AnPeKu",
+  "id" : 870026285942222849,
+  "created_at" : "2017-05-31 21:16:45 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "FrankTheTank",
+      "screen_name" : "TheDevilsVoice",
+      "indices" : [ 0, 15 ],
+      "id_str" : "853418136",
+      "id" : 853418136
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "870020662420799488",
+  "geo" : { },
+  "id_str" : "870021018760380417",
+  "in_reply_to_user_id" : 853418136,
+  "text" : "@TheDevilsVoice they're warm and heavy for their size and that tacky tortilla skin... &lt;shudder&gt;",
+  "id" : 870021018760380417,
+  "in_reply_to_status_id" : 870020662420799488,
+  "created_at" : "2017-05-31 20:55:49 +0000",
+  "in_reply_to_screen_name" : "TheDevilsVoice",
+  "in_reply_to_user_id_str" : "853418136",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/870019892086398976\/photo\/1",
+      "indices" : [ 30, 53 ],
+      "url" : "https:\/\/t.co\/LG09MlTmac",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DBLuXiaUIAI_YQe.jpg",
+      "id_str" : "870019766177505282",
+      "id" : 870019766177505282,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DBLuXiaUIAI_YQe.jpg",
+      "sizes" : [ {
+        "h" : 524,
+        "resize" : "fit",
+        "w" : 1776
+      }, {
+        "h" : 524,
+        "resize" : "fit",
+        "w" : 1776
+      }, {
+        "h" : 354,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 201,
+        "resize" : "fit",
+        "w" : 680
+      } ],
+      "display_url" : "pic.twitter.com\/LG09MlTmac"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "870019892086398976",
+  "text" : "le bookstore ne construit pas https:\/\/t.co\/LG09MlTmac",
+  "id" : 870019892086398976,
+  "created_at" : "2017-05-31 20:51:21 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "FrankTheTank",
+      "screen_name" : "TheDevilsVoice",
+      "indices" : [ 0, 15 ],
+      "id_str" : "853418136",
+      "id" : 853418136
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "870018950750281729",
+  "geo" : { },
+  "id_str" : "870019409296752641",
+  "in_reply_to_user_id" : 853418136,
+  "text" : "@TheDevilsVoice Rice filled burritos feel like boneless fetuses",
+  "id" : 870019409296752641,
+  "in_reply_to_status_id" : 870018950750281729,
+  "created_at" : "2017-05-31 20:49:26 +0000",
+  "in_reply_to_screen_name" : "TheDevilsVoice",
+  "in_reply_to_user_id_str" : "853418136",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/870019121211101184\/photo\/1",
+      "indices" : [ 65, 88 ],
+      "url" : "https:\/\/t.co\/F9oG4QhHy2",
+      "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/DBLtj9AVYAABfeW.jpg",
+      "id_str" : "870018879963095040",
+      "id" : 870018879963095040,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/DBLtj9AVYAABfeW.jpg",
+      "sizes" : [ {
+        "h" : 240,
+        "resize" : "fit",
+        "w" : 320
+      }, {
+        "h" : 240,
+        "resize" : "fit",
+        "w" : 320
+      }, {
+        "h" : 240,
+        "resize" : "fit",
+        "w" : 320
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 240,
+        "resize" : "fit",
+        "w" : 320
+      } ],
+      "display_url" : "pic.twitter.com\/F9oG4QhHy2"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "870019121211101184",
+  "text" : "microservice! microservice! microservice! (sleep!) microservice! https:\/\/t.co\/F9oG4QhHy2",
+  "id" : 870019121211101184,
+  "created_at" : "2017-05-31 20:48:17 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/870010709500862464\/photo\/1",
+      "indices" : [ 38, 61 ],
+      "url" : "https:\/\/t.co\/GZIVWFT5Yn",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DBLmFskVYAA2FnE.jpg",
+      "id_str" : "870010663573217280",
+      "id" : 870010663573217280,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DBLmFskVYAA2FnE.jpg",
+      "sizes" : [ {
+        "h" : 613,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 347,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 618,
+        "resize" : "fit",
+        "w" : 1210
+      }, {
+        "h" : 618,
+        "resize" : "fit",
+        "w" : 1210
+      } ],
+      "display_url" : "pic.twitter.com\/GZIVWFT5Yn"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "870010709500862464",
+  "text" : "Stay safe by controlling what you see https:\/\/t.co\/GZIVWFT5Yn",
+  "id" : 870010709500862464,
+  "created_at" : "2017-05-31 20:14:51 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "869972139797094400",
+  "text" : "I've spent the last twenty years refusing to join Barnes &amp; Noble, what is the chance I'm going to change my mind today?",
+  "id" : 869972139797094400,
+  "created_at" : "2017-05-31 17:41:36 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/869970309771874308\/photo\/1",
+      "indices" : [ 36, 59 ],
+      "url" : "https:\/\/t.co\/GwIKFFPrYm",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DBLBYMpXcAMtu4g.jpg",
+      "id_str" : "869970299491676163",
+      "id" : 869970299491676163,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DBLBYMpXcAMtu4g.jpg",
+      "sizes" : [ {
+        "h" : 1024,
+        "resize" : "fit",
+        "w" : 971
+      }, {
+        "h" : 1024,
+        "resize" : "fit",
+        "w" : 971
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 1024,
+        "resize" : "fit",
+        "w" : 971
+      }, {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 645
+      } ],
+      "display_url" : "pic.twitter.com\/GwIKFFPrYm"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "869970309771874308",
+  "text" : "Most of you will only get to step 1 https:\/\/t.co\/GwIKFFPrYm",
+  "id" : 869970309771874308,
+  "created_at" : "2017-05-31 17:34:19 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/869966369982435329\/photo\/1",
+      "indices" : [ 54, 77 ],
+      "url" : "https:\/\/t.co\/gLb4PuBACj",
+      "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/DBK9yn5XcAATCa9.jpg",
+      "id_str" : "869966355436630016",
+      "id" : 869966355436630016,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/DBK9yn5XcAATCa9.jpg",
+      "sizes" : [ {
+        "h" : 400,
+        "resize" : "fit",
+        "w" : 400
+      }, {
+        "h" : 340,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 400,
+        "resize" : "fit",
+        "w" : 400
+      }, {
+        "h" : 400,
+        "resize" : "fit",
+        "w" : 400
+      } ],
+      "display_url" : "pic.twitter.com\/gLb4PuBACj"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "869966369982435329",
+  "text" : "I just thought of a funny way to use the word covfefe https:\/\/t.co\/gLb4PuBACj",
+  "id" : 869966369982435329,
+  "created_at" : "2017-05-31 17:18:40 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "869961020533383168",
+  "text" : "The apocalypse will be crowd funded",
+  "id" : 869961020533383168,
+  "created_at" : "2017-05-31 16:57:25 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "869956614006157312",
+  "text" : "For the sake of argument, I'm willing to assume you're wrong",
+  "id" : 869956614006157312,
+  "created_at" : "2017-05-31 16:39:54 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "869928638233415680",
+  "text" : "My children were very upset, especially the one that is a child",
+  "id" : 869928638233415680,
+  "created_at" : "2017-05-31 14:48:44 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/869928472470269953\/photo\/1",
+      "indices" : [ 44, 67 ],
+      "url" : "https:\/\/t.co\/tVD6eN0gmt",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DBKbBh1UAAA0D0D.png",
+      "id_str" : "869928128600080384",
+      "id" : 869928128600080384,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DBKbBh1UAAA0D0D.png",
+      "sizes" : [ {
+        "h" : 120,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 120,
+        "resize" : "crop",
+        "w" : 120
+      }, {
+        "h" : 120,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 120,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 120,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/tVD6eN0gmt"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "869928472470269953",
+  "text" : "there were only so many pixels in the world https:\/\/t.co\/tVD6eN0gmt",
+  "id" : 869928472470269953,
+  "created_at" : "2017-05-31 14:48:04 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/869927809346658304\/photo\/1",
+      "indices" : [ 31, 54 ],
+      "url" : "https:\/\/t.co\/uH6C7q3YW7",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DBKaMApVoAEyOyH.jpg",
+      "id_str" : "869927209158418433",
+      "id" : 869927209158418433,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DBKaMApVoAEyOyH.jpg",
+      "sizes" : [ {
+        "h" : 852,
+        "resize" : "fit",
+        "w" : 1566
+      }, {
+        "h" : 370,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 852,
+        "resize" : "fit",
+        "w" : 1566
+      }, {
+        "h" : 653,
+        "resize" : "fit",
+        "w" : 1200
+      } ],
+      "display_url" : "pic.twitter.com\/uH6C7q3YW7"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "869927809346658304",
+  "text" : "why did we abandon image maps? https:\/\/t.co\/uH6C7q3YW7",
+  "id" : 869927809346658304,
+  "created_at" : "2017-05-31 14:45:26 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "869921004193239040",
+  "text" : "The last time Trump pulled out in Paris... I don't know, something about a dead hooker or whatever",
+  "id" : 869921004193239040,
+  "created_at" : "2017-05-31 14:18:24 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "869907064763674624",
+  "text" : "I'm afraid of rejection so I just keep returning new promises",
+  "id" : 869907064763674624,
+  "created_at" : "2017-05-31 13:23:00 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "869905678994898944",
+  "text" : "New DOJ guidelines will focus enforcement efforts on listeners of hippity-hop music",
+  "id" : 869905678994898944,
+  "created_at" : "2017-05-31 13:17:30 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "869892233704726528",
+  "text" : "Breakfast is the most important meal of the morning",
+  "id" : 869892233704726528,
+  "created_at" : "2017-05-31 12:24:04 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "869720206104461313",
+  "text" : "Future archeologists will study the ruins of a New York City overrun with bronze statues and be like \u00AF\\_(\u30C4)_\/\u00AF",
+  "id" : 869720206104461313,
+  "created_at" : "2017-05-31 01:00:30 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "869718550495326208",
+  "text" : "2016: I had to block my mom on facebook because of all that nonsense she shares\n2017: My mom gave my name to The Council.",
+  "id" : 869718550495326208,
+  "created_at" : "2017-05-31 00:53:55 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "869717309602111488",
+  "text" : "2016: Hey guys, don't forget to vote!\n2017: Behold, the Beast shall rise in Europa while the Prophet howls against the coming storm",
+  "id" : 869717309602111488,
+  "created_at" : "2017-05-31 00:48:59 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "869715721965776896",
+  "text" : "2016: I'm sorry for all the political tweets!\n2017: Lo, we will stand together against the darkness or drown it in our blood",
+  "id" : 869715721965776896,
+  "created_at" : "2017-05-31 00:42:41 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "869714308489519104",
+  "text" : "2016: I don't remember, that mannequin thing? a gorilla? \n2017: breathe this sweet air while you can for no man knows what tomorrow holds",
+  "id" : 869714308489519104,
+  "created_at" : "2017-05-31 00:37:04 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "869712825610117120",
+  "text" : "i am not grammar my words right right now",
+  "id" : 869712825610117120,
+  "created_at" : "2017-05-31 00:31:10 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/869684343047847937\/photo\/1",
+      "indices" : [ 15, 38 ],
+      "url" : "https:\/\/t.co\/biBveeSd5e",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DBG9NegUwAAd8cN.jpg",
+      "id_str" : "869684242283806720",
+      "id" : 869684242283806720,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DBG9NegUwAAd8cN.jpg",
+      "sizes" : [ {
+        "h" : 275,
+        "resize" : "fit",
+        "w" : 500
+      }, {
+        "h" : 275,
+        "resize" : "fit",
+        "w" : 500
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 275,
+        "resize" : "fit",
+        "w" : 500
+      }, {
+        "h" : 275,
+        "resize" : "fit",
+        "w" : 500
+      } ],
+      "display_url" : "pic.twitter.com\/biBveeSd5e"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "869683968374968320",
+  "geo" : { },
+  "id_str" : "869684343047847937",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "&lt;static&gt; https:\/\/t.co\/biBveeSd5e",
+  "id" : 869684343047847937,
+  "in_reply_to_status_id" : 869683968374968320,
+  "created_at" : "2017-05-30 22:37:59 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "869683968374968320",
+  "text" : ":     you are \nthe last generation \n        born \n         dis\n         con\n         nec\n         ted",
+  "id" : 869683968374968320,
+  "created_at" : "2017-05-30 22:36:30 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/869656231337631744\/photo\/1",
+      "indices" : [ 113, 136 ],
+      "url" : "https:\/\/t.co\/BrJgnbUWOs",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DBGjl1mVwAApfDT.jpg",
+      "id_str" : "869656073497591808",
+      "id" : 869656073497591808,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DBGjl1mVwAApfDT.jpg",
+      "sizes" : [ {
+        "h" : 1793,
+        "resize" : "fit",
+        "w" : 966
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 1200,
+        "resize" : "fit",
+        "w" : 647
+      }, {
+        "h" : 1793,
+        "resize" : "fit",
+        "w" : 966
+      }, {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 366
+      } ],
+      "display_url" : "pic.twitter.com\/BrJgnbUWOs"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "869656231337631744",
+  "text" : "Faced with immeasurable odds, still I gave straight bets\nSo I felt I'm owed something, and you nothing... CHECK! https:\/\/t.co\/BrJgnbUWOs",
+  "id" : 869656231337631744,
+  "created_at" : "2017-05-30 20:46:17 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "869625523835731970",
+  "geo" : { },
+  "id_str" : "869626122681692161",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "When those early kings tried to extend their reach over people that couldn't be understand their words \u2013 they found the limit of their power",
+  "id" : 869626122681692161,
+  "in_reply_to_status_id" : 869625523835731970,
+  "created_at" : "2017-05-30 18:46:39 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "869625272601071617",
+  "geo" : { },
+  "id_str" : "869625523835731970",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "As long as everyone shared the same stories and sang the same songs they could be conscripted into service",
+  "id" : 869625523835731970,
+  "in_reply_to_status_id" : 869625272601071617,
+  "created_at" : "2017-05-30 18:44:16 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "869624783348142081",
+  "geo" : { },
+  "id_str" : "869625272601071617",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "In our early history, it was language that chained people to the towers",
+  "id" : 869625272601071617,
+  "in_reply_to_status_id" : 869624783348142081,
+  "created_at" : "2017-05-30 18:43:16 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "869623667122163712",
+  "geo" : { },
+  "id_str" : "869624783348142081",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "The Tower of Babel is being built in the clouds",
+  "id" : 869624783348142081,
+  "in_reply_to_status_id" : 869623667122163712,
+  "created_at" : "2017-05-30 18:41:19 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "869623068217536513",
+  "geo" : { },
+  "id_str" : "869623667122163712",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "Now only the dullest of tyrants gives a shit about towers",
+  "id" : 869623667122163712,
+  "in_reply_to_status_id" : 869623068217536513,
+  "created_at" : "2017-05-30 18:36:53 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "869621588328669184",
+  "geo" : { },
+  "id_str" : "869623068217536513",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "In its earliest iteration, priests and kings learned to use simple stone faces to get people to build towers and kill each other",
+  "id" : 869623068217536513,
+  "in_reply_to_status_id" : 869621588328669184,
+  "created_at" : "2017-05-30 18:34:30 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "869620522014978050",
+  "geo" : { },
+  "id_str" : "869621588328669184",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "Human attention is the most valuable resource in the world",
+  "id" : 869621588328669184,
+  "in_reply_to_status_id" : 869620522014978050,
+  "created_at" : "2017-05-30 18:28:38 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "869619925740113922",
+  "geo" : { },
+  "id_str" : "869620522014978050",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "Facebook wants you to look in its eyes",
+  "id" : 869620522014978050,
+  "in_reply_to_status_id" : 869619925740113922,
+  "created_at" : "2017-05-30 18:24:23 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "869619285408219140",
+  "geo" : { },
+  "id_str" : "869619925740113922",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "Add in the efficiency of self reported emotional reactions and you've got power beyond what any pope or president has ever dreamed \uD83D\uDC4D\u2764\uFE0F\uD83D\uDE03",
+  "id" : 869619925740113922,
+  "in_reply_to_status_id" : 869619285408219140,
+  "created_at" : "2017-05-30 18:22:01 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "869618832335405057",
+  "geo" : { },
+  "id_str" : "869619285408219140",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "Programmable intermittent reinforcement using the attention and approval of other people in our social circle is a powerful exploit",
+  "id" : 869619285408219140,
+  "in_reply_to_status_id" : 869618832335405057,
+  "created_at" : "2017-05-30 18:19:29 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "869617673260412928",
+  "geo" : { },
+  "id_str" : "869618832335405057",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "If you don't have charisma, you can build a social network to simulate it",
+  "id" : 869618832335405057,
+  "in_reply_to_status_id" : 869617673260412928,
+  "created_at" : "2017-05-30 18:17:41 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "869617493513580544",
+  "geo" : { },
+  "id_str" : "869617673260412928",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "When charisma scales we call it a religion",
+  "id" : 869617673260412928,
+  "in_reply_to_status_id" : 869617493513580544,
+  "created_at" : "2017-05-30 18:13:04 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "869617127178862594",
+  "geo" : { },
+  "id_str" : "869617493513580544",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "Some people have a natural talent for cross person scripting that we call charisma",
+  "id" : 869617493513580544,
+  "in_reply_to_status_id" : 869617127178862594,
+  "created_at" : "2017-05-30 18:12:21 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "869615974969954304",
+  "geo" : { },
+  "id_str" : "869617127178862594",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "A little fasting, group singing, shedding inhibitions and the repetitive reinforcement of ritual and you can deliver any payload you want",
+  "id" : 869617127178862594,
+  "in_reply_to_status_id" : 869615974969954304,
+  "created_at" : "2017-05-30 18:10:54 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "869615485100462080",
+  "geo" : { },
+  "id_str" : "869615974969954304",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "Get enough faces in a room and make them all feel the same thing and you can rewrite built in behavior loops that are core to survival",
+  "id" : 869615974969954304,
+  "in_reply_to_status_id" : 869615485100462080,
+  "created_at" : "2017-05-30 18:06:19 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "869614507362062336",
+  "geo" : { },
+  "id_str" : "869615485100462080",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "There is a whole class of mental malware that stimulates strong emotions in order to redirect built in desires like sex and companionship",
+  "id" : 869615485100462080,
+  "in_reply_to_status_id" : 869614507362062336,
+  "created_at" : "2017-05-30 18:04:22 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "869614227786485763",
+  "geo" : { },
+  "id_str" : "869614507362062336",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "Couple that with the permissions that emotions have over the executive functions and you have yourself a fully hackable monkey",
+  "id" : 869614507362062336,
+  "in_reply_to_status_id" : 869614227786485763,
+  "created_at" : "2017-05-30 18:00:29 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "869613642769203200",
+  "geo" : { },
+  "id_str" : "869614227786485763",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "The security issues are huge. I mean as soon as you give write access to internal state you've got potential exploits",
+  "id" : 869614227786485763,
+  "in_reply_to_status_id" : 869613642769203200,
+  "created_at" : "2017-05-30 17:59:23 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "869613077859323904",
+  "geo" : { },
+  "id_str" : "869613642769203200",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "It doesn't even have to be a real face, if can be a drawing or a natural language description and it fires",
+  "id" : 869613642769203200,
+  "in_reply_to_status_id" : 869613077859323904,
+  "created_at" : "2017-05-30 17:57:03 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "869612624681590785",
+  "geo" : { },
+  "id_str" : "869613077859323904",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "For example, anyone with sensory access can pass in a face and it triggers automatically",
+  "id" : 869613077859323904,
+  "in_reply_to_status_id" : 869612624681590785,
+  "created_at" : "2017-05-30 17:54:49 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "869612142772846592",
+  "geo" : { },
+  "id_str" : "869612624681590785",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "The problem is there is no input validation and the authentication scheme is easy to hack",
+  "id" : 869612624681590785,
+  "in_reply_to_status_id" : 869612142772846592,
+  "created_at" : "2017-05-30 17:53:01 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "869611866078814208",
+  "geo" : { },
+  "id_str" : "869612142772846592",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "Which is useful when you're trying to figure out what other people are thinking",
+  "id" : 869612142772846592,
+  "in_reply_to_status_id" : 869611866078814208,
+  "created_at" : "2017-05-30 17:51:06 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "869611866078814208",
+  "text" : "Evolution added a cool feature to primates where we can model other people's emotions using our own hardware.",
+  "id" : 869611866078814208,
+  "created_at" : "2017-05-30 17:50:00 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "869609211570925569",
+  "text" : "I believe all religions are equally valid paths to mindless subjugation",
+  "id" : 869609211570925569,
+  "created_at" : "2017-05-30 17:39:27 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "869546140957650944",
+  "text" : "Tired: Paywalls are crap because no one pays to be the first to hear about the continuation of the status quo\nWired: Everything is on fire",
+  "id" : 869546140957650944,
+  "created_at" : "2017-05-30 13:28:50 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/869535756053860354\/photo\/1",
+      "indices" : [ 77, 100 ],
+      "url" : "https:\/\/t.co\/8dI16rOiPc",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DBE2JOpVYAAdrl1.jpg",
+      "id_str" : "869535735237402624",
+      "id" : 869535735237402624,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DBE2JOpVYAAdrl1.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 761,
+        "resize" : "fit",
+        "w" : 980
+      }, {
+        "h" : 761,
+        "resize" : "fit",
+        "w" : 980
+      }, {
+        "h" : 528,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 761,
+        "resize" : "fit",
+        "w" : 980
+      } ],
+      "display_url" : "pic.twitter.com\/8dI16rOiPc"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "869535576206323712",
+  "geo" : { },
+  "id_str" : "869535756053860354",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "Today's software ain't got the same soul \nI like those old time cyber trolls https:\/\/t.co\/8dI16rOiPc",
+  "id" : 869535756053860354,
+  "in_reply_to_status_id" : 869535576206323712,
+  "created_at" : "2017-05-30 12:47:34 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/869535576206323712\/photo\/1",
+      "indices" : [ 76, 99 ],
+      "url" : "https:\/\/t.co\/AaqiCVM3A3",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DBE1oXeV0AEeqNA.jpg",
+      "id_str" : "869535170671529985",
+      "id" : 869535170671529985,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DBE1oXeV0AEeqNA.jpg",
+      "sizes" : [ {
+        "h" : 525,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 757,
+        "resize" : "fit",
+        "w" : 980
+      }, {
+        "h" : 757,
+        "resize" : "fit",
+        "w" : 980
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 757,
+        "resize" : "fit",
+        "w" : 980
+      } ],
+      "display_url" : "pic.twitter.com\/AaqiCVM3A3"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "869535576206323712",
+  "text" : "Just take those old disks off the shelf \nI'll sit and install 'em by myself https:\/\/t.co\/AaqiCVM3A3",
+  "id" : 869535576206323712,
+  "created_at" : "2017-05-30 12:46:51 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "869528338011914243",
+  "text" : "I want to be the Billie Holiday of JavaScript",
+  "id" : 869528338011914243,
+  "created_at" : "2017-05-30 12:18:05 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "869516975629881344",
+  "text" : "I don't have any close brands",
+  "id" : 869516975629881344,
+  "created_at" : "2017-05-30 11:32:56 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "869377107205513217",
+  "text" : "I want to win the lottery just so I can start killing the rich from inside the clubhouse",
+  "id" : 869377107205513217,
+  "created_at" : "2017-05-30 02:17:09 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "notdan \u2738",
+      "screen_name" : "notdan",
+      "indices" : [ 0, 7 ],
+      "id_str" : "19468408",
+      "id" : 19468408
+    }, {
+      "name" : "The Spectator Index",
+      "screen_name" : "spectatorindex",
+      "indices" : [ 8, 23 ],
+      "id_str" : "1626294277",
+      "id" : 1626294277
+    }, {
+      "name" : "HRH Greg of ACAB",
+      "screen_name" : "Greg_Sideyr",
+      "indices" : [ 24, 36 ],
+      "id_str" : "2621110917",
+      "id" : 2621110917
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "869345345032957952",
+  "geo" : { },
+  "id_str" : "869346040603959297",
+  "in_reply_to_user_id" : 19468408,
+  "text" : "@notdan @spectatorindex @Greg_Sideyr Trump doesn't drink though, so he's just a sober asshole",
+  "id" : 869346040603959297,
+  "in_reply_to_status_id" : 869345345032957952,
+  "created_at" : "2017-05-30 00:13:42 +0000",
+  "in_reply_to_screen_name" : "notdan",
+  "in_reply_to_user_id_str" : "19468408",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "869328891638407168",
+  "text" : "Historically, Trump having 'total confidence' in you is a bad omen",
+  "id" : 869328891638407168,
+  "created_at" : "2017-05-29 23:05:33 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "869327014066573313",
+  "text" : "Protip: Never write down your passwords or opinions",
+  "id" : 869327014066573313,
+  "created_at" : "2017-05-29 22:58:06 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Fin",
+      "screen_name" : "icetsvu",
+      "indices" : [ 3, 11 ],
+      "id_str" : "805226002192461824",
+      "id" : 805226002192461824
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "869326576038666241",
+  "text" : "RT @icetsvu: It's a nootropic from the dark web called Spider Twinkle. Chick was givin' a TEDx talk on using cybernetic alpacas... https:\/\/\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/icetsvu.tumblr.com\" rel=\"nofollow\"\u003EIceT SVU\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/icetsvu\/status\/869312409739177985\/photo\/1",
+        "indices" : [ 118, 141 ],
+        "url" : "https:\/\/t.co\/d9f32o2IwH",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DBBrB2tXkAE7Yk5.jpg",
+        "id_str" : "869312407692349441",
+        "id" : 869312407692349441,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DBBrB2tXkAE7Yk5.jpg",
+        "sizes" : [ {
+          "h" : 399,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 528,
+          "resize" : "fit",
+          "w" : 900
+        }, {
+          "h" : 528,
+          "resize" : "fit",
+          "w" : 900
+        }, {
+          "h" : 528,
+          "resize" : "fit",
+          "w" : 900
+        } ],
+        "display_url" : "pic.twitter.com\/d9f32o2IwH"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "869312409739177985",
+    "text" : "It's a nootropic from the dark web called Spider Twinkle. Chick was givin' a TEDx talk on using cybernetic alpacas... https:\/\/t.co\/d9f32o2IwH",
+    "id" : 869312409739177985,
+    "created_at" : "2017-05-29 22:00:04 +0000",
+    "user" : {
+      "name" : "Fin",
+      "screen_name" : "icetsvu",
+      "protected" : false,
+      "id_str" : "805226002192461824",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/805227051494019073\/NZ5fiRo3_normal.jpg",
+      "id" : 805226002192461824,
+      "verified" : false
+    }
+  },
+  "id" : 869326576038666241,
+  "created_at" : "2017-05-29 22:56:21 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/869222203820310528\/photo\/1",
+      "indices" : [ 2, 25 ],
+      "url" : "https:\/\/t.co\/zlpCN5pFL9",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DBAY-8CVoAAFHeT.jpg",
+      "id_str" : "869222197629394944",
+      "id" : 869222197629394944,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DBAY-8CVoAAFHeT.jpg",
+      "sizes" : [ {
+        "h" : 812,
+        "resize" : "fit",
+        "w" : 1076
+      }, {
+        "h" : 513,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 812,
+        "resize" : "fit",
+        "w" : 1076
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 812,
+        "resize" : "fit",
+        "w" : 1076
+      } ],
+      "display_url" : "pic.twitter.com\/zlpCN5pFL9"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "869222203820310528",
+  "text" : "k https:\/\/t.co\/zlpCN5pFL9",
+  "id" : 869222203820310528,
+  "created_at" : "2017-05-29 16:01:37 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Daniel Pryor \uD83C\uDF10",
+      "screen_name" : "DanielPryorr",
+      "indices" : [ 0, 13 ],
+      "id_str" : "286722735",
+      "id" : 286722735
+    }, {
+      "name" : "Infosec Gordon Cole",
+      "screen_name" : "JungleStrikeGuy",
+      "indices" : [ 14, 30 ],
+      "id_str" : "444262205",
+      "id" : 444262205
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/869220470935171072\/photo\/1",
+      "indices" : [ 67, 90 ],
+      "url" : "https:\/\/t.co\/xsZHSeeUMy",
+      "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/DBAXZ3BU0AASXRe.jpg",
+      "id_str" : "869220461116182528",
+      "id" : 869220461116182528,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/DBAXZ3BU0AASXRe.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 150,
+        "resize" : "fit",
+        "w" : 200
+      }, {
+        "h" : 150,
+        "resize" : "fit",
+        "w" : 200
+      }, {
+        "h" : 150,
+        "resize" : "fit",
+        "w" : 200
+      }, {
+        "h" : 150,
+        "resize" : "fit",
+        "w" : 200
+      } ],
+      "display_url" : "pic.twitter.com\/xsZHSeeUMy"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "869218616268529664",
+  "geo" : { },
+  "id_str" : "869220470935171072",
+  "in_reply_to_user_id" : 286722735,
+  "text" : "@DanielPryorr @JungleStrikeGuy But at least they don't have armies https:\/\/t.co\/xsZHSeeUMy",
+  "id" : 869220470935171072,
+  "in_reply_to_status_id" : 869218616268529664,
+  "created_at" : "2017-05-29 15:54:44 +0000",
+  "in_reply_to_screen_name" : "DanielPryorr",
+  "in_reply_to_user_id_str" : "286722735",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/869187402195226625\/photo\/1",
+      "indices" : [ 53, 76 ],
+      "url" : "https:\/\/t.co\/6HvR6TwAhz",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DA_5UKCUAAAUqPK.jpg",
+      "id_str" : "869187377792548864",
+      "id" : 869187377792548864,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DA_5UKCUAAAUqPK.jpg",
+      "sizes" : [ {
+        "h" : 1196,
+        "resize" : "fit",
+        "w" : 1075
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 1196,
+        "resize" : "fit",
+        "w" : 1075
+      }, {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 611
+      }, {
+        "h" : 1196,
+        "resize" : "fit",
+        "w" : 1075
+      } ],
+      "display_url" : "pic.twitter.com\/6HvR6TwAhz"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "869187402195226625",
+  "text" : "Busking and insurance fraud are how dreams come true https:\/\/t.co\/6HvR6TwAhz",
+  "id" : 869187402195226625,
+  "created_at" : "2017-05-29 13:43:20 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/869003578991620101\/photo\/1",
+      "indices" : [ 35, 58 ],
+      "url" : "https:\/\/t.co\/Dnfmzpnw19",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DA9SE9pUMAAas3L.jpg",
+      "id_str" : "869003498326601728",
+      "id" : 869003498326601728,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DA9SE9pUMAAas3L.jpg",
+      "sizes" : [ {
+        "h" : 242,
+        "resize" : "fit",
+        "w" : 1054
+      }, {
+        "h" : 156,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 242,
+        "resize" : "fit",
+        "w" : 1054
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 242,
+        "resize" : "fit",
+        "w" : 1054
+      } ],
+      "display_url" : "pic.twitter.com\/Dnfmzpnw19"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "869003578991620101",
+  "text" : "&lt;cancels flight to Portugal&gt; https:\/\/t.co\/Dnfmzpnw19",
+  "id" : 869003578991620101,
+  "created_at" : "2017-05-29 01:32:53 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Bearded Stoner",
+      "screen_name" : "beardedstoner",
+      "indices" : [ 0, 14 ],
+      "id_str" : "232863368",
+      "id" : 232863368
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "868948723321143297",
+  "geo" : { },
+  "id_str" : "868966497963692032",
+  "in_reply_to_user_id" : 232863368,
+  "text" : "@beardedstoner PLASTICS",
+  "id" : 868966497963692032,
+  "in_reply_to_status_id" : 868948723321143297,
+  "created_at" : "2017-05-28 23:05:32 +0000",
+  "in_reply_to_screen_name" : "beardedstoner",
+  "in_reply_to_user_id_str" : "232863368",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "868862500590301187",
+  "text" : "Google\u2019s mission is to organize the world\u2018s information and make it universally accessible and useful (except for how much they pay women)",
+  "id" : 868862500590301187,
+  "created_at" : "2017-05-28 16:12:17 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Laurie Voss",
+      "screen_name" : "seldo",
+      "indices" : [ 0, 6 ],
+      "id_str" : "15453",
+      "id" : 15453
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/868861903807946752\/photo\/1",
+      "indices" : [ 26, 49 ],
+      "url" : "https:\/\/t.co\/vL0Ky1xD9y",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DA7RQpiUAAABO28.jpg",
+      "id_str" : "868861862086967296",
+      "id" : 868861862086967296,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DA7RQpiUAAABO28.jpg",
+      "sizes" : [ {
+        "h" : 130,
+        "resize" : "crop",
+        "w" : 130
+      }, {
+        "h" : 64,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 130,
+        "resize" : "fit",
+        "w" : 1376
+      }, {
+        "h" : 130,
+        "resize" : "fit",
+        "w" : 1376
+      }, {
+        "h" : 113,
+        "resize" : "fit",
+        "w" : 1200
+      } ],
+      "display_url" : "pic.twitter.com\/vL0Ky1xD9y"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "868551756564766720",
+  "geo" : { },
+  "id_str" : "868861903807946752",
+  "in_reply_to_user_id" : 15453,
+  "text" : "@seldo You're in God Mode https:\/\/t.co\/vL0Ky1xD9y",
+  "id" : 868861903807946752,
+  "in_reply_to_status_id" : 868551756564766720,
+  "created_at" : "2017-05-28 16:09:55 +0000",
+  "in_reply_to_screen_name" : "seldo",
+  "in_reply_to_user_id_str" : "15453",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "868654438155788289",
+  "text" : "I bet there are a lot of male only showings of superhero movies on Wednesday afternoons",
+  "id" : 868654438155788289,
+  "created_at" : "2017-05-28 02:25:31 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Kevin Fox \uD83E\uDD8A",
+      "screen_name" : "kfury",
+      "indices" : [ 3, 9 ],
+      "id_str" : "785",
+      "id" : 785
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 63, 86 ],
+      "url" : "https:\/\/t.co\/1weMtZmzHK",
+      "expanded_url" : "https:\/\/twitter.com\/jackposobiec\/status\/868565803410567168",
+      "display_url" : "twitter.com\/jackposobiec\/s\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "868628417109008384",
+  "text" : "RT @kfury: Who knew that Fox News was the swamp to be drained? https:\/\/t.co\/1weMtZmzHK",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 52, 75 ],
+        "url" : "https:\/\/t.co\/1weMtZmzHK",
+        "expanded_url" : "https:\/\/twitter.com\/jackposobiec\/status\/868565803410567168",
+        "display_url" : "twitter.com\/jackposobiec\/s\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "868627839372808193",
+    "text" : "Who knew that Fox News was the swamp to be drained? https:\/\/t.co\/1weMtZmzHK",
+    "id" : 868627839372808193,
+    "created_at" : "2017-05-28 00:39:49 +0000",
+    "user" : {
+      "name" : "Kevin Fox \uD83E\uDD8A",
+      "screen_name" : "kfury",
+      "protected" : false,
+      "id_str" : "785",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/833142395738820608\/D7KMdJ8G_normal.jpg",
+      "id" : 785,
+      "verified" : true
+    }
+  },
+  "id" : 868628417109008384,
+  "created_at" : "2017-05-28 00:42:07 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Bearded Stoner",
+      "screen_name" : "beardedstoner",
+      "indices" : [ 3, 17 ],
+      "id_str" : "232863368",
+      "id" : 232863368
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "868604238049550336",
+  "text" : "RT @beardedstoner: Do I retweet myself? Very well then, I retweet myself. (I am small. I contain platitudes)",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "in_reply_to_status_id_str" : "868528111805243393",
+    "geo" : { },
+    "id_str" : "868598271144493056",
+    "in_reply_to_user_id" : 232863368,
+    "text" : "Do I retweet myself? Very well then, I retweet myself. (I am small. I contain platitudes)",
+    "id" : 868598271144493056,
+    "in_reply_to_status_id" : 868528111805243393,
+    "created_at" : "2017-05-27 22:42:20 +0000",
+    "in_reply_to_screen_name" : "beardedstoner",
+    "in_reply_to_user_id_str" : "232863368",
+    "user" : {
+      "name" : "Bearded Stoner",
+      "screen_name" : "beardedstoner",
+      "protected" : false,
+      "id_str" : "232863368",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/822487490913325056\/ibee8D33_normal.jpg",
+      "id" : 232863368,
+      "verified" : false
+    }
+  },
+  "id" : 868604238049550336,
+  "created_at" : "2017-05-27 23:06:02 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 44, 67 ],
+      "url" : "https:\/\/t.co\/7yumFrZ5eA",
+      "expanded_url" : "http:\/\/time.com\/4796632\/donald-trump-first-trip-abroad-overseas-terrorism-climate-change\/",
+      "display_url" : "time.com\/4796632\/donald\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "868590460394237953",
+  "text" : "A home run in the middle of a football game https:\/\/t.co\/7yumFrZ5eA",
+  "id" : 868590460394237953,
+  "created_at" : "2017-05-27 22:11:18 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/868526957251760129\/photo\/1",
+      "indices" : [ 46, 69 ],
+      "url" : "https:\/\/t.co\/hsTwvSvSok",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DA2gV9yVYAA4Jjn.jpg",
+      "id_str" : "868526602375749632",
+      "id" : 868526602375749632,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DA2gV9yVYAA4Jjn.jpg",
+      "sizes" : [ {
+        "h" : 484,
+        "resize" : "fit",
+        "w" : 842
+      }, {
+        "h" : 484,
+        "resize" : "fit",
+        "w" : 842
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 484,
+        "resize" : "fit",
+        "w" : 842
+      }, {
+        "h" : 391,
+        "resize" : "fit",
+        "w" : 680
+      } ],
+      "display_url" : "pic.twitter.com\/hsTwvSvSok"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "868526957251760129",
+  "text" : "I pay her to say mean things to me over skype https:\/\/t.co\/hsTwvSvSok",
+  "id" : 868526957251760129,
+  "created_at" : "2017-05-27 17:58:57 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "868456771706384384",
+  "text" : "You've reached your limit of free articles for the month. Tune in next month to see how Trump stays out of jail.",
+  "id" : 868456771706384384,
+  "created_at" : "2017-05-27 13:20:04 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/868307873255886849\/photo\/1",
+      "indices" : [ 26, 49 ],
+      "url" : "https:\/\/t.co\/h7OWILjUMY",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DAzZRJHUMAAFcju.jpg",
+      "id_str" : "868307716703268864",
+      "id" : 868307716703268864,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DAzZRJHUMAAFcju.jpg",
+      "sizes" : [ {
+        "h" : 744,
+        "resize" : "fit",
+        "w" : 791
+      }, {
+        "h" : 744,
+        "resize" : "fit",
+        "w" : 791
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 744,
+        "resize" : "fit",
+        "w" : 791
+      }, {
+        "h" : 640,
+        "resize" : "fit",
+        "w" : 680
+      } ],
+      "display_url" : "pic.twitter.com\/h7OWILjUMY"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "868307873255886849",
+  "text" : "when you install fail2ban https:\/\/t.co\/h7OWILjUMY",
+  "id" : 868307873255886849,
+  "created_at" : "2017-05-27 03:28:24 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Frank",
+      "screen_name" : "MNR_Franklin",
+      "indices" : [ 0, 13 ],
+      "id_str" : "778583697331138561",
+      "id" : 778583697331138561
+    }, {
+      "name" : "Mason Dulemba",
+      "screen_name" : "shmadul",
+      "indices" : [ 14, 22 ],
+      "id_str" : "1184202648",
+      "id" : 1184202648
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "868306023882211328",
+  "geo" : { },
+  "id_str" : "868306146054086656",
+  "in_reply_to_user_id" : 778583697331138561,
+  "text" : "@MNR_Franklin @shmadul that one",
+  "id" : 868306146054086656,
+  "in_reply_to_status_id" : 868306023882211328,
+  "created_at" : "2017-05-27 03:21:32 +0000",
+  "in_reply_to_screen_name" : "MNR_Franklin",
+  "in_reply_to_user_id_str" : "778583697331138561",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "868305057523134464",
+  "geo" : { },
+  "id_str" : "868305567500075008",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "meditate on this one for a bit",
+  "id" : 868305567500075008,
+  "in_reply_to_status_id" : 868305057523134464,
+  "created_at" : "2017-05-27 03:19:14 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/868305057523134464\/photo\/1",
+      "indices" : [ 76, 99 ],
+      "url" : "https:\/\/t.co\/66iNWfYhRr",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DAzVfUKVoAAeTye.jpg",
+      "id_str" : "868303562140393472",
+      "id" : 868303562140393472,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DAzVfUKVoAAeTye.jpg",
+      "sizes" : [ {
+        "h" : 1120,
+        "resize" : "fit",
+        "w" : 630
+      }, {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 383
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 1120,
+        "resize" : "fit",
+        "w" : 630
+      }, {
+        "h" : 1120,
+        "resize" : "fit",
+        "w" : 630
+      } ],
+      "display_url" : "pic.twitter.com\/66iNWfYhRr"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "868305057523134464",
+  "text" : "when you use incognito windows for porn and ripping off the Washington Post https:\/\/t.co\/66iNWfYhRr",
+  "id" : 868305057523134464,
+  "created_at" : "2017-05-27 03:17:12 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/868301313116864512\/photo\/1",
+      "indices" : [ 96, 119 ],
+      "url" : "https:\/\/t.co\/0KFvfDLehU",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DAzTaNQV0AAa9Ii.jpg",
+      "id_str" : "868301275363921920",
+      "id" : 868301275363921920,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DAzTaNQV0AAa9Ii.jpg",
+      "sizes" : [ {
+        "h" : 1512,
+        "resize" : "fit",
+        "w" : 2016
+      }, {
+        "h" : 900,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 1512,
+        "resize" : "fit",
+        "w" : 2016
+      }, {
+        "h" : 510,
+        "resize" : "fit",
+        "w" : 680
+      } ],
+      "display_url" : "pic.twitter.com\/0KFvfDLehU"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "868301313116864512",
+  "text" : "when you chmod 777 your wp-content directory so you can install your WordPress security updates https:\/\/t.co\/0KFvfDLehU",
+  "id" : 868301313116864512,
+  "created_at" : "2017-05-27 03:02:19 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/868300136346247169\/photo\/1",
+      "indices" : [ 53, 76 ],
+      "url" : "https:\/\/t.co\/NTWDChb4c1",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DAzSRW_VoAEeQJk.jpg",
+      "id_str" : "868300023846510593",
+      "id" : 868300023846510593,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DAzSRW_VoAEeQJk.jpg",
+      "sizes" : [ {
+        "h" : 608,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 928,
+        "resize" : "fit",
+        "w" : 1038
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 928,
+        "resize" : "fit",
+        "w" : 1038
+      }, {
+        "h" : 928,
+        "resize" : "fit",
+        "w" : 1038
+      } ],
+      "display_url" : "pic.twitter.com\/NTWDChb4c1"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "868300136346247169",
+  "text" : "If you're so worried about crime don't murder people https:\/\/t.co\/NTWDChb4c1",
+  "id" : 868300136346247169,
+  "created_at" : "2017-05-27 02:57:39 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/868297389165223936\/photo\/1",
+      "indices" : [ 38, 61 ],
+      "url" : "https:\/\/t.co\/dGLPpxoNmp",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DAzPz9dUMAEu_21.jpg",
+      "id_str" : "868297319753461761",
+      "id" : 868297319753461761,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DAzPz9dUMAEu_21.jpg",
+      "sizes" : [ {
+        "h" : 488,
+        "resize" : "fit",
+        "w" : 650
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 488,
+        "resize" : "fit",
+        "w" : 650
+      }, {
+        "h" : 488,
+        "resize" : "fit",
+        "w" : 650
+      }, {
+        "h" : 488,
+        "resize" : "fit",
+        "w" : 650
+      } ],
+      "display_url" : "pic.twitter.com\/dGLPpxoNmp"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "868297389165223936",
+  "text" : "when you move ssh to a different port https:\/\/t.co\/dGLPpxoNmp",
+  "id" : 868297389165223936,
+  "created_at" : "2017-05-27 02:46:44 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/868292000696684545\/photo\/1",
+      "indices" : [ 63, 86 ],
+      "url" : "https:\/\/t.co\/LEYH9pTQ88",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DAzK5NdVwAAuCHw.jpg",
+      "id_str" : "868291912389738496",
+      "id" : 868291912389738496,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DAzK5NdVwAAuCHw.jpg",
+      "sizes" : [ {
+        "h" : 359,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 509,
+        "resize" : "fit",
+        "w" : 1700
+      }, {
+        "h" : 204,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 509,
+        "resize" : "fit",
+        "w" : 1700
+      } ],
+      "display_url" : "pic.twitter.com\/LEYH9pTQ88"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "868292000696684545",
+  "text" : "What does Trump see in Jared besides himself with better hair? https:\/\/t.co\/LEYH9pTQ88",
+  "id" : 868292000696684545,
+  "created_at" : "2017-05-27 02:25:19 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/868195912186826752\/photo\/1",
+      "indices" : [ 40, 63 ],
+      "url" : "https:\/\/t.co\/tLQ1ZtvqzJ",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DAxzk3WW0AUuZLZ.jpg",
+      "id_str" : "868195905345867781",
+      "id" : 868195905345867781,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DAxzk3WW0AUuZLZ.jpg",
+      "sizes" : [ {
+        "h" : 533,
+        "resize" : "fit",
+        "w" : 355
+      }, {
+        "h" : 533,
+        "resize" : "fit",
+        "w" : 355
+      }, {
+        "h" : 533,
+        "resize" : "fit",
+        "w" : 355
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 533,
+        "resize" : "fit",
+        "w" : 355
+      } ],
+      "display_url" : "pic.twitter.com\/tLQ1ZtvqzJ"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "868195912186826752",
+  "text" : "Oligarchy with American Characteristics https:\/\/t.co\/tLQ1ZtvqzJ",
+  "id" : 868195912186826752,
+  "created_at" : "2017-05-26 20:03:30 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "868172821880614913",
+  "geo" : { },
+  "id_str" : "868173341244481536",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "This is what developers mean when they say they want to do more software architecture",
+  "id" : 868173341244481536,
+  "in_reply_to_status_id" : 868172821880614913,
+  "created_at" : "2017-05-26 18:33:49 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "868172821880614913",
+  "text" : "The hard part of naming things in programming is resisting the urge to spend all day doing it",
+  "id" : 868172821880614913,
+  "created_at" : "2017-05-26 18:31:45 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "b\u0360\u035D\u0344\u0350\u0310\u035D\u030A\u0341a\u030F\u0344\u0343\u0305\u0302\u0313\u030F\u0304t\u0352",
+      "screen_name" : "mzbat",
+      "indices" : [ 0, 6 ],
+      "id_str" : "253608265",
+      "id" : 253608265
+    }, {
+      "name" : "SwiftOnSecurity",
+      "screen_name" : "SwiftOnSecurity",
+      "indices" : [ 7, 23 ],
+      "id_str" : "2436389418",
+      "id" : 2436389418
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "868170334096289792",
+  "geo" : { },
+  "id_str" : "868170528485494784",
+  "in_reply_to_user_id" : 253608265,
+  "text" : "@mzbat @SwiftOnSecurity We were all just kids",
+  "id" : 868170528485494784,
+  "in_reply_to_status_id" : 868170334096289792,
+  "created_at" : "2017-05-26 18:22:38 +0000",
+  "in_reply_to_screen_name" : "mzbat",
+  "in_reply_to_user_id_str" : "253608265",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "868158922686959617",
+  "text" : "Bitcoin is digital Beanie Baby collecting",
+  "id" : 868158922686959617,
+  "created_at" : "2017-05-26 17:36:31 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "mcilwaine",
+      "screen_name" : "mcilwaine",
+      "indices" : [ 0, 10 ],
+      "id_str" : "18314017",
+      "id" : 18314017
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "868142800675721216",
+  "geo" : { },
+  "id_str" : "868145178929922048",
+  "in_reply_to_user_id" : 18314017,
+  "text" : "@mcilwaine If he didn't before, he does now",
+  "id" : 868145178929922048,
+  "in_reply_to_status_id" : 868142800675721216,
+  "created_at" : "2017-05-26 16:41:54 +0000",
+  "in_reply_to_screen_name" : "mcilwaine",
+  "in_reply_to_user_id_str" : "18314017",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "868118313456590850",
+  "text" : "Fascism is on the rise, the ice caps are melting, antibiotics are failing but it's a lot easier to peel oranges so the future isn't all bad",
+  "id" : 868118313456590850,
+  "created_at" : "2017-05-26 14:55:09 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/868102758179770368\/photo\/1",
+      "indices" : [ 33, 56 ],
+      "url" : "https:\/\/t.co\/cjxfi2QNxr",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DAwe1aGUIAA7sbU.jpg",
+      "id_str" : "868102731063369728",
+      "id" : 868102731063369728,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DAwe1aGUIAA7sbU.jpg",
+      "sizes" : [ {
+        "h" : 284,
+        "resize" : "fit",
+        "w" : 1144
+      }, {
+        "h" : 169,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 284,
+        "resize" : "fit",
+        "w" : 1144
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 284,
+        "resize" : "fit",
+        "w" : 1144
+      } ],
+      "display_url" : "pic.twitter.com\/cjxfi2QNxr"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "868102758179770368",
+  "text" : "Also, he has billions of dollars https:\/\/t.co\/cjxfi2QNxr",
+  "id" : 868102758179770368,
+  "created_at" : "2017-05-26 13:53:20 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/868095002785742849\/photo\/1",
+      "indices" : [ 35, 58 ],
+      "url" : "https:\/\/t.co\/fduYRAvoIA",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DAwXyZHVYAALNyR.jpg",
+      "id_str" : "868094982678208512",
+      "id" : 868094982678208512,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DAwXyZHVYAALNyR.jpg",
+      "sizes" : [ {
+        "h" : 1600,
+        "resize" : "fit",
+        "w" : 1000
+      }, {
+        "h" : 1200,
+        "resize" : "fit",
+        "w" : 750
+      }, {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 425
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 1600,
+        "resize" : "fit",
+        "w" : 1000
+      } ],
+      "display_url" : "pic.twitter.com\/fduYRAvoIA"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "868095002785742849",
+  "text" : "Gucci Mane is the millennial Tupac https:\/\/t.co\/fduYRAvoIA",
+  "id" : 868095002785742849,
+  "created_at" : "2017-05-26 13:22:31 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Multi-Tool",
+      "screen_name" : "neilscudder",
+      "indices" : [ 0, 12 ],
+      "id_str" : "11961412",
+      "id" : 11961412
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "867937548449886212",
+  "geo" : { },
+  "id_str" : "867937771796680704",
+  "in_reply_to_user_id" : 11961412,
+  "text" : "@NeilScudder Ok Grace Bedell",
+  "id" : 867937771796680704,
+  "in_reply_to_status_id" : 867937548449886212,
+  "created_at" : "2017-05-26 02:57:44 +0000",
+  "in_reply_to_screen_name" : "neilscudder",
+  "in_reply_to_user_id_str" : "11961412",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "867935328270639104",
+  "geo" : { },
+  "id_str" : "867935675466862593",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "It's nothing personal, it's just we look in your eyes and 65 million years of mammalian evolution tells us that you're up to no good",
+  "id" : 867935675466862593,
+  "in_reply_to_status_id" : 867935328270639104,
+  "created_at" : "2017-05-26 02:49:25 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/867935328270639104\/photo\/1",
+      "indices" : [ 120, 143 ],
+      "url" : "https:\/\/t.co\/3rDsDZWGau",
+      "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/DAuGdH6UAAA0cx9.jpg",
+      "id_str" : "867935188096909312",
+      "id" : 867935188096909312,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/DAuGdH6UAAA0cx9.jpg",
+      "sizes" : [ {
+        "h" : 189,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 278,
+        "resize" : "fit",
+        "w" : 500
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 278,
+        "resize" : "fit",
+        "w" : 500
+      }, {
+        "h" : 278,
+        "resize" : "fit",
+        "w" : 500
+      } ],
+      "display_url" : "pic.twitter.com\/3rDsDZWGau"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "867935328270639104",
+  "text" : "You can have all the behavior data and attention saturation and 63 billion dollars but people just don't like you, Zuck https:\/\/t.co\/3rDsDZWGau",
+  "id" : 867935328270639104,
+  "created_at" : "2017-05-26 02:48:02 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Lesley \uD83E\uDD5E",
+      "screen_name" : "hacks4pancakes",
+      "indices" : [ 0, 15 ],
+      "id_str" : "207617689",
+      "id" : 207617689
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "867919905450057728",
+  "geo" : { },
+  "id_str" : "867922889143701504",
+  "in_reply_to_user_id" : 207617689,
+  "text" : "@hacks4pancakes I heard there would be pancakes",
+  "id" : 867922889143701504,
+  "in_reply_to_status_id" : 867919905450057728,
+  "created_at" : "2017-05-26 01:58:36 +0000",
+  "in_reply_to_screen_name" : "hacks4pancakes",
+  "in_reply_to_user_id_str" : "207617689",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/867852678294110208\/photo\/1",
+      "indices" : [ 9, 32 ],
+      "url" : "https:\/\/t.co\/j986uv7Sqj",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DAs7ZjMXYAE5Aca.jpg",
+      "id_str" : "867852663328825345",
+      "id" : 867852663328825345,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DAs7ZjMXYAE5Aca.jpg",
+      "sizes" : [ {
+        "h" : 555,
+        "resize" : "fit",
+        "w" : 973
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 555,
+        "resize" : "fit",
+        "w" : 973
+      }, {
+        "h" : 555,
+        "resize" : "fit",
+        "w" : 973
+      }, {
+        "h" : 388,
+        "resize" : "fit",
+        "w" : 680
+      } ],
+      "display_url" : "pic.twitter.com\/j986uv7Sqj"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "867852678294110208",
+  "text" : "pls clap https:\/\/t.co\/j986uv7Sqj",
+  "id" : 867852678294110208,
+  "created_at" : "2017-05-25 21:19:37 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "BooperNet \u00AF\\_(\u30C4)_\/\u00AF",
+      "screen_name" : "GalenChris",
+      "indices" : [ 0, 11 ],
+      "id_str" : "66367579",
+      "id" : 66367579
+    }, {
+      "name" : "Oscaron \u2615",
+      "screen_name" : "oscaron",
+      "indices" : [ 12, 20 ],
+      "id_str" : "16156052",
+      "id" : 16156052
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "867834671299784704",
+  "geo" : { },
+  "id_str" : "867842422264516609",
+  "in_reply_to_user_id" : 66367579,
+  "text" : "@GalenChris @oscaron Someone said it was opium dust, so that would have been interesting....",
+  "id" : 867842422264516609,
+  "in_reply_to_status_id" : 867834671299784704,
+  "created_at" : "2017-05-25 20:38:51 +0000",
+  "in_reply_to_screen_name" : "GalenChris",
+  "in_reply_to_user_id_str" : "66367579",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Oscaron \u2615",
+      "screen_name" : "oscaron",
+      "indices" : [ 0, 8 ],
+      "id_str" : "16156052",
+      "id" : 16156052
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "867817835510321152",
+  "geo" : { },
+  "id_str" : "867817964543791104",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "@oscaron with a gallon of rubbing alcohol in the back parking lot.",
+  "id" : 867817964543791104,
+  "in_reply_to_status_id" : 867817835510321152,
+  "created_at" : "2017-05-25 19:01:40 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Oscaron \u2615",
+      "screen_name" : "oscaron",
+      "indices" : [ 0, 8 ],
+      "id_str" : "16156052",
+      "id" : 16156052
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "867817117726511105",
+  "geo" : { },
+  "id_str" : "867817835510321152",
+  "in_reply_to_user_id" : 16156052,
+  "text" : "@oscaron Back in the 90s i worked at a computer \"shop.\" One of our clients was a buddhist temple who brought in caked in yellow dust that I washed...",
+  "id" : 867817835510321152,
+  "in_reply_to_status_id" : 867817117726511105,
+  "created_at" : "2017-05-25 19:01:09 +0000",
+  "in_reply_to_screen_name" : "oscaron",
+  "in_reply_to_user_id_str" : "16156052",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "867816459203878912",
+  "text" : "Emotional Potty Training: Learning to recognize your feelings and make plans to deal with them when appropriate",
+  "id" : 867816459203878912,
+  "created_at" : "2017-05-25 18:55:41 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 19, 42 ],
+      "url" : "https:\/\/t.co\/aDQcaq8Kaj",
+      "expanded_url" : "https:\/\/twitter.com\/SwiftOnSecurity\/status\/867806849424293889",
+      "display_url" : "twitter.com\/SwiftOnSecurit\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "867808077709361152",
+  "text" : "post it on twitter https:\/\/t.co\/aDQcaq8Kaj",
+  "id" : 867808077709361152,
+  "created_at" : "2017-05-25 18:22:23 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "867789905119895552",
+  "text" : "So Breitbart died of a sudden heart attack right and a Russian connected billionaire with a digital propaganda analytics firm took over?",
+  "id" : 867789905119895552,
+  "created_at" : "2017-05-25 17:10:10 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Ben Fagin",
+      "screen_name" : "UnquietCode",
+      "indices" : [ 0, 12 ],
+      "id_str" : "619232779",
+      "id" : 619232779
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "867772346244804608",
+  "geo" : { },
+  "id_str" : "867772548360155136",
+  "in_reply_to_user_id" : 619232779,
+  "text" : "@UnquietCode Someone else's tweet... that's all i know",
+  "id" : 867772548360155136,
+  "in_reply_to_status_id" : 867772346244804608,
+  "created_at" : "2017-05-25 16:01:12 +0000",
+  "in_reply_to_screen_name" : "UnquietCode",
+  "in_reply_to_user_id_str" : "619232779",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/867771649667420161\/photo\/1",
+      "indices" : [ 140, 163 ],
+      "url" : "https:\/\/t.co\/dJdpYN2HCj",
+      "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/DArxqpbXUAAypJ0.jpg",
+      "id_str" : "867771593199669248",
+      "id" : 867771593199669248,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/DArxqpbXUAAypJ0.jpg",
+      "sizes" : [ {
+        "h" : 209,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 368,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 382,
+        "resize" : "fit",
+        "w" : 622
+      }, {
+        "h" : 382,
+        "resize" : "fit",
+        "w" : 622
+      } ],
+      "display_url" : "pic.twitter.com\/dJdpYN2HCj"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "867771649667420161",
+  "text" : "Ah shit, ok, ok, alright\nBig man! You wanna make some big bucks, huh?\nLet's see how tough you are\nYou know something about cocaine? Digame! https:\/\/t.co\/dJdpYN2HCj",
+  "id" : 867771649667420161,
+  "created_at" : "2017-05-25 15:57:38 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "867769924978171905",
+  "text" : "I'm an everything snob",
+  "id" : 867769924978171905,
+  "created_at" : "2017-05-25 15:50:47 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Matt Tex Eckerle",
+      "screen_name" : "MattTexEckerle",
+      "indices" : [ 0, 15 ],
+      "id_str" : "2384603222",
+      "id" : 2384603222
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "867731977843208192",
+  "geo" : { },
+  "id_str" : "867732065885749249",
+  "in_reply_to_user_id" : 2384603222,
+  "text" : "@MattTexEckerle Have to throw them pretty hard then",
+  "id" : 867732065885749249,
+  "in_reply_to_status_id" : 867731977843208192,
+  "created_at" : "2017-05-25 13:20:20 +0000",
+  "in_reply_to_screen_name" : "MattTexEckerle",
+  "in_reply_to_user_id_str" : "2384603222",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "867729685073080321",
+  "text" : "I'm not pro-war exactly, but we haven't killed off a generation of young men in long time and we're drowning in rare pepes and red pills",
+  "id" : 867729685073080321,
+  "created_at" : "2017-05-25 13:10:53 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "867726299225346048",
+  "text" : "It's just not practical for our app to comply with PCI standards",
+  "id" : 867726299225346048,
+  "created_at" : "2017-05-25 12:57:25 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/867593327075614721\/photo\/1",
+      "indices" : [ 74, 97 ],
+      "url" : "https:\/\/t.co\/1SN9fApjWp",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DApO9ncXsAU3cQQ.jpg",
+      "id_str" : "867592698689204229",
+      "id" : 867592698689204229,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DApO9ncXsAU3cQQ.jpg",
+      "sizes" : [ {
+        "h" : 789,
+        "resize" : "fit",
+        "w" : 554
+      }, {
+        "h" : 789,
+        "resize" : "fit",
+        "w" : 554
+      }, {
+        "h" : 789,
+        "resize" : "fit",
+        "w" : 554
+      }, {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 477
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      } ],
+      "display_url" : "pic.twitter.com\/1SN9fApjWp"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "867593327075614721",
+  "text" : "A. The Man in the Amarillo Hat\nB. Wallpaper Blouse\nC. Country Buck Rogers https:\/\/t.co\/1SN9fApjWp",
+  "id" : 867593327075614721,
+  "created_at" : "2017-05-25 04:09:02 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "867488746551357443",
+  "text" : "I lost all my retirement savings when Bing Rewards kicked me out for using a bot",
+  "id" : 867488746551357443,
+  "created_at" : "2017-05-24 21:13:28 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "867485746298540034",
+  "text" : "One of the ways newspapers are adapting to the digital age is by overthrowing governments",
+  "id" : 867485746298540034,
+  "created_at" : "2017-05-24 21:01:33 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "867481944635961344",
+  "text" : "Trump's budget hurts Trump's voters but they feel like they deserve it",
+  "id" : 867481944635961344,
+  "created_at" : "2017-05-24 20:46:27 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "867429072460279810",
+  "text" : "Bob Dylan as a trending topic made my stomach flop for a second",
+  "id" : 867429072460279810,
+  "created_at" : "2017-05-24 17:16:21 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/867427840937078784\/photo\/1",
+      "indices" : [ 46, 69 ],
+      "url" : "https:\/\/t.co\/Rm8KFR3TLZ",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DAm4ydHXgAQwB2h.jpg",
+      "id_str" : "867427580194029572",
+      "id" : 867427580194029572,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DAm4ydHXgAQwB2h.jpg",
+      "sizes" : [ {
+        "h" : 250,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 320,
+        "resize" : "fit",
+        "w" : 870
+      }, {
+        "h" : 320,
+        "resize" : "fit",
+        "w" : 870
+      }, {
+        "h" : 320,
+        "resize" : "fit",
+        "w" : 870
+      } ],
+      "display_url" : "pic.twitter.com\/Rm8KFR3TLZ"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "867427840937078784",
+  "text" : "And share with your friends with just a click https:\/\/t.co\/Rm8KFR3TLZ",
+  "id" : 867427840937078784,
+  "created_at" : "2017-05-24 17:11:27 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "867411279568416770",
+  "text" : "Instagram is the social network I use to look at pictures taken by people I don't know",
+  "id" : 867411279568416770,
+  "created_at" : "2017-05-24 16:05:39 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "867383354433384448",
+  "text" : "Trump is scared to death that he'll have to write a report about his big trip",
+  "id" : 867383354433384448,
+  "created_at" : "2017-05-24 14:14:41 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "867377118967189504",
+  "text" : "Finally the US will become an economic powerhouse like Kansas",
+  "id" : 867377118967189504,
+  "created_at" : "2017-05-24 13:49:54 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "867232976958042112",
+  "text" : "I'm pretty much only into beard oil and Gilligan's Island trivia now",
+  "id" : 867232976958042112,
+  "created_at" : "2017-05-24 04:17:08 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/867197384014667777\/photo\/1",
+      "indices" : [ 50, 73 ],
+      "url" : "https:\/\/t.co\/i67h7jdcQJ",
+      "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/DAjnSemXUAAXeY9.jpg",
+      "id_str" : "867197232906457088",
+      "id" : 867197232906457088,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/DAjnSemXUAAXeY9.jpg",
+      "sizes" : [ {
+        "h" : 298,
+        "resize" : "fit",
+        "w" : 690
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 298,
+        "resize" : "fit",
+        "w" : 690
+      }, {
+        "h" : 147,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 259,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/i67h7jdcQJ"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "867197384014667777",
+  "text" : "The All My Files view is so useful on my computer https:\/\/t.co\/i67h7jdcQJ",
+  "id" : 867197384014667777,
+  "created_at" : "2017-05-24 01:55:42 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/867192576130121729\/photo\/1",
+      "indices" : [ 25, 48 ],
+      "url" : "https:\/\/t.co\/hLmiLVnbp8",
+      "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/DAjjBpbXYAEJJT5.jpg",
+      "id_str" : "867192545708826625",
+      "id" : 867192545708826625,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/DAjjBpbXYAEJJT5.jpg",
+      "sizes" : [ {
+        "h" : 270,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 356,
+        "resize" : "fit",
+        "w" : 448
+      }, {
+        "h" : 356,
+        "resize" : "fit",
+        "w" : 448
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 356,
+        "resize" : "fit",
+        "w" : 448
+      } ],
+      "display_url" : "pic.twitter.com\/hLmiLVnbp8"
+    } ],
+    "hashtags" : [ {
+      "text" : "TweetSomethingBeautiful",
+      "indices" : [ 0, 24 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "867192576130121729",
+  "text" : "#TweetSomethingBeautiful https:\/\/t.co\/hLmiLVnbp8",
+  "id" : 867192576130121729,
+  "created_at" : "2017-05-24 01:36:36 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "867187782938243073",
+  "text" : "Clarence Thomas: Scalia can't hurt me anymore. I'm free.",
+  "id" : 867187782938243073,
+  "created_at" : "2017-05-24 01:17:33 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "867186683267215360",
+  "text" : "Some bullshit happened. Here's why it matters.",
+  "id" : 867186683267215360,
+  "created_at" : "2017-05-24 01:13:11 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/867176408589774852\/photo\/1",
+      "indices" : [ 0, 23 ],
+      "url" : "https:\/\/t.co\/QgXotyLP5U",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DAjUVgmWAAAqgQ3.jpg",
+      "id_str" : "867176394261921792",
+      "id" : 867176394261921792,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DAjUVgmWAAAqgQ3.jpg",
+      "sizes" : [ {
+        "h" : 644,
+        "resize" : "fit",
+        "w" : 758
+      }, {
+        "h" : 578,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 644,
+        "resize" : "fit",
+        "w" : 758
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 644,
+        "resize" : "fit",
+        "w" : 758
+      } ],
+      "display_url" : "pic.twitter.com\/QgXotyLP5U"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "867176408589774852",
+  "text" : "https:\/\/t.co\/QgXotyLP5U",
+  "id" : 867176408589774852,
+  "created_at" : "2017-05-24 00:32:21 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "867139877137207301",
+  "geo" : { },
+  "id_str" : "867140106016215040",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "A modest amount?",
+  "id" : 867140106016215040,
+  "in_reply_to_status_id" : 867139877137207301,
+  "created_at" : "2017-05-23 22:08:06 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "867139877137207301",
+  "text" : "How much of the deficit could we reduce if we just ate the poor?",
+  "id" : 867139877137207301,
+  "created_at" : "2017-05-23 22:07:12 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "R\u0103s",
+      "screen_name" : "rasputn_",
+      "indices" : [ 0, 9 ],
+      "id_str" : "2437642196",
+      "id" : 2437642196
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "867125874486726656",
+  "geo" : { },
+  "id_str" : "867126051583000577",
+  "in_reply_to_user_id" : 2437642196,
+  "text" : "@rasputn_ Anything leftover is waste",
+  "id" : 867126051583000577,
+  "in_reply_to_status_id" : 867125874486726656,
+  "created_at" : "2017-05-23 21:12:15 +0000",
+  "in_reply_to_screen_name" : "rasputn_",
+  "in_reply_to_user_id_str" : "2437642196",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "867125689883009024",
+  "text" : "There are plenty of fish in the sea. \nI mean, there were. \nThe world is going to end in your lifetime.",
+  "id" : 867125689883009024,
+  "created_at" : "2017-05-23 21:10:49 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "867114086592643072",
+  "text" : "i have to learn to reattach my motivation to my behavior",
+  "id" : 867114086592643072,
+  "created_at" : "2017-05-23 20:24:43 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Tactical Maid \uD83D\uDC9C",
+      "screen_name" : "tacticalmaid",
+      "indices" : [ 0, 13 ],
+      "id_str" : "14439107",
+      "id" : 14439107
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "867096668017000448",
+  "geo" : { },
+  "id_str" : "867097626222702592",
+  "in_reply_to_user_id" : 14439107,
+  "text" : "@tacticalmaid it was the rapture",
+  "id" : 867097626222702592,
+  "in_reply_to_status_id" : 867096668017000448,
+  "created_at" : "2017-05-23 19:19:18 +0000",
+  "in_reply_to_screen_name" : "tacticalmaid",
+  "in_reply_to_user_id_str" : "14439107",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jeremy Wadhams",
+      "screen_name" : "JeremyWadhams",
+      "indices" : [ 3, 17 ],
+      "id_str" : "564071545",
+      "id" : 564071545
+    }, {
+      "name" : "GonzoHacker",
+      "screen_name" : "GonzoHacker",
+      "indices" : [ 19, 31 ],
+      "id_str" : "773009000",
+      "id" : 773009000
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "867089987292061696",
+  "text" : "RT @JeremyWadhams: @GonzoHacker Bible table of contents:\n50% smiting\n30% hippie love\n10% Solomon's sexy poetry slam\n10% incredibly detailed\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "GonzoHacker",
+        "screen_name" : "GonzoHacker",
+        "indices" : [ 0, 12 ],
+        "id_str" : "773009000",
+        "id" : 773009000
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "in_reply_to_status_id_str" : "867088369326723072",
+    "geo" : { },
+    "id_str" : "867089025223589889",
+    "in_reply_to_user_id" : 773009000,
+    "text" : "@GonzoHacker Bible table of contents:\n50% smiting\n30% hippie love\n10% Solomon's sexy poetry slam\n10% incredibly detailed woodworking plans",
+    "id" : 867089025223589889,
+    "in_reply_to_status_id" : 867088369326723072,
+    "created_at" : "2017-05-23 18:45:08 +0000",
+    "in_reply_to_screen_name" : "GonzoHacker",
+    "in_reply_to_user_id_str" : "773009000",
+    "user" : {
+      "name" : "Jeremy Wadhams",
+      "screen_name" : "JeremyWadhams",
+      "protected" : false,
+      "id_str" : "564071545",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/863204361731571712\/NfvBcHWR_normal.jpg",
+      "id" : 564071545,
+      "verified" : false
+    }
+  },
+  "id" : 867089987292061696,
+  "created_at" : "2017-05-23 18:48:57 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jeremy Wadhams",
+      "screen_name" : "JeremyWadhams",
+      "indices" : [ 0, 14 ],
+      "id_str" : "564071545",
+      "id" : 564071545
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "867087751098888193",
+  "geo" : { },
+  "id_str" : "867088369326723072",
+  "in_reply_to_user_id" : 564071545,
+  "text" : "@JeremyWadhams It's canon\nish",
+  "id" : 867088369326723072,
+  "in_reply_to_status_id" : 867087751098888193,
+  "created_at" : "2017-05-23 18:42:31 +0000",
+  "in_reply_to_screen_name" : "JeremyWadhams",
+  "in_reply_to_user_id_str" : "564071545",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "867083065193107456",
+  "geo" : { },
+  "id_str" : "867083410732441601",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "If anyone lays their hands on my head, I swear, I will tomahawk missile the whole state of Oklahoma",
+  "id" : 867083410732441601,
+  "in_reply_to_status_id" : 867083065193107456,
+  "created_at" : "2017-05-23 18:22:49 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "867081498553438209",
+  "geo" : { },
+  "id_str" : "867081935235026944",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "Bannon, of course, insisted I try out the Catholics. Awesome people, everything is gold, conspiracy theories, the works, run by a hippie tho",
+  "id" : 867081935235026944,
+  "in_reply_to_status_id" : 867081498553438209,
+  "created_at" : "2017-05-23 18:16:57 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "867081017307389952",
+  "geo" : { },
+  "id_str" : "867081498553438209",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "Jared says I'd be an amazing jew. One of the best jews of all time, is what I've heard. Also, the first jewish president, which is nice.",
+  "id" : 867081498553438209,
+  "in_reply_to_status_id" : 867081017307389952,
+  "created_at" : "2017-05-23 18:15:13 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "867080139179425792",
+  "geo" : { },
+  "id_str" : "867081017307389952",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "Ok, I gave the Muslims a shot and they put on quite a presentation. They had Glowing Orbs, Toby Keith, no chicks, which was kinda weird tho",
+  "id" : 867081017307389952,
+  "in_reply_to_status_id" : 867080139179425792,
+  "created_at" : "2017-05-23 18:13:18 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "867080139179425792",
+  "text" : "Trump's going to come back from Saudi Arabia, Israel and the Vatican and announce which religion he picked",
+  "id" : 867080139179425792,
+  "created_at" : "2017-05-23 18:09:49 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "867078145270308864",
+  "text" : "One more stop in a religious autocracy where everything is covered in gold and back home",
+  "id" : 867078145270308864,
+  "created_at" : "2017-05-23 18:01:54 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "867072848636071936",
+  "text" : "I like my women like I like my code: loosely coupled, bug free and managing their own dependencies",
+  "id" : 867072848636071936,
+  "created_at" : "2017-05-23 17:40:51 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "867065553931964418",
+  "text" : "Jesus is just alt-right to me",
+  "id" : 867065553931964418,
+  "created_at" : "2017-05-23 17:11:52 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "867057663166861316",
+  "text" : "I want to collaborate in realtime with bots in the browser while editing files in the cloud and video chatting with homeless millennials",
+  "id" : 867057663166861316,
+  "created_at" : "2017-05-23 16:40:30 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "867036925944881153",
+  "text" : "Using a graph based database to store a list of key\/value pairs",
+  "id" : 867036925944881153,
+  "created_at" : "2017-05-23 15:18:06 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "867016393438498816",
+  "text" : "Insulting terrorists is literally the only useful thing Trump has done as president",
+  "id" : 867016393438498816,
+  "created_at" : "2017-05-23 13:56:31 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "866992026193100801",
+  "text" : "The storage of old people is the next great growth opportunity",
+  "id" : 866992026193100801,
+  "created_at" : "2017-05-23 12:19:41 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "PatriotHole",
+      "screen_name" : "PatriotHole",
+      "indices" : [ 3, 15 ],
+      "id_str" : "859889104045080583",
+      "id" : 859889104045080583
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "866876054861959169",
+  "text" : "RT @PatriotHole: You are either on our side or you are the tyrant. You are also enslaved. Some of you may also be stuck in some sort of qui\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/www.socialflow.com\" rel=\"nofollow\"\u003ESocialFlow\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "865341276492890113",
+    "text" : "You are either on our side or you are the tyrant. You are also enslaved. Some of you may also be stuck in some sort of quicksand.",
+    "id" : 865341276492890113,
+    "created_at" : "2017-05-18 23:00:12 +0000",
+    "user" : {
+      "name" : "PatriotHole",
+      "screen_name" : "PatriotHole",
+      "protected" : false,
+      "id_str" : "859889104045080583",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/864203462258511872\/w5nYOOh7_normal.jpg",
+      "id" : 859889104045080583,
+      "verified" : true
+    }
+  },
+  "id" : 866876054861959169,
+  "created_at" : "2017-05-23 04:38:51 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/866827659359268865\/photo\/1",
+      "indices" : [ 7, 30 ],
+      "url" : "https:\/\/t.co\/VmigQL4G24",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DAeXIZ-XkAIewJL.jpg",
+      "id_str" : "866827623959334914",
+      "id" : 866827623959334914,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DAeXIZ-XkAIewJL.jpg",
+      "sizes" : [ {
+        "h" : 398,
+        "resize" : "fit",
+        "w" : 599
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 398,
+        "resize" : "fit",
+        "w" : 599
+      }, {
+        "h" : 398,
+        "resize" : "fit",
+        "w" : 599
+      }, {
+        "h" : 398,
+        "resize" : "fit",
+        "w" : 599
+      } ],
+      "display_url" : "pic.twitter.com\/VmigQL4G24"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "866827659359268865",
+  "text" : "me irl https:\/\/t.co\/VmigQL4G24",
+  "id" : 866827659359268865,
+  "created_at" : "2017-05-23 01:26:33 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "866818791820455936",
+  "text" : "everything is supposed to be fine but nothing is",
+  "id" : 866818791820455936,
+  "created_at" : "2017-05-23 00:51:19 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Gunnar Gissel \uD83D\uDC21",
+      "screen_name" : "monknomo",
+      "indices" : [ 0, 9 ],
+      "id_str" : "289739768",
+      "id" : 289739768
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "866801374821994497",
+  "geo" : { },
+  "id_str" : "866801937416683521",
+  "in_reply_to_user_id" : 289739768,
+  "text" : "@monknomo Self shooting guns",
+  "id" : 866801937416683521,
+  "in_reply_to_status_id" : 866801374821994497,
+  "created_at" : "2017-05-22 23:44:20 +0000",
+  "in_reply_to_screen_name" : "monknomo",
+  "in_reply_to_user_id_str" : "289739768",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "robbiese7en",
+      "screen_name" : "robbiese7en",
+      "indices" : [ 0, 12 ],
+      "id_str" : "198945844",
+      "id" : 198945844
+    }, {
+      "name" : "Michael Elliott",
+      "screen_name" : "elliotecweb",
+      "indices" : [ 13, 25 ],
+      "id_str" : "829913083",
+      "id" : 829913083
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "866800424107560963",
+  "geo" : { },
+  "id_str" : "866800836894220288",
+  "in_reply_to_user_id" : 198945844,
+  "text" : "@robbiese7en @elliotecweb Keep going...",
+  "id" : 866800836894220288,
+  "in_reply_to_status_id" : 866800424107560963,
+  "created_at" : "2017-05-22 23:39:58 +0000",
+  "in_reply_to_screen_name" : "robbiese7en",
+  "in_reply_to_user_id_str" : "198945844",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "866798877055348737",
+  "geo" : { },
+  "id_str" : "866799693636022273",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "We're taking the Monopoly on Violence private",
+  "id" : 866799693636022273,
+  "in_reply_to_status_id" : 866798877055348737,
+  "created_at" : "2017-05-22 23:35:25 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Michael Elliott",
+      "screen_name" : "elliotecweb",
+      "indices" : [ 0, 12 ],
+      "id_str" : "829913083",
+      "id" : 829913083
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "866799048157560832",
+  "geo" : { },
+  "id_str" : "866799393067995137",
+  "in_reply_to_user_id" : 829913083,
+  "text" : "@elliotecweb It's more of a public\/private joint venture",
+  "id" : 866799393067995137,
+  "in_reply_to_status_id" : 866799048157560832,
+  "created_at" : "2017-05-22 23:34:14 +0000",
+  "in_reply_to_screen_name" : "elliotecweb",
+  "in_reply_to_user_id_str" : "829913083",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/866798877055348737\/photo\/1",
+      "indices" : [ 58, 81 ],
+      "url" : "https:\/\/t.co\/LrkNLQKMTf",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DAd8l2rXYAEQ9HI.jpg",
+      "id_str" : "866798443066515457",
+      "id" : 866798443066515457,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DAd8l2rXYAEQ9HI.jpg",
+      "sizes" : [ {
+        "h" : 799,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 799,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 799,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 453,
+        "resize" : "fit",
+        "w" : 680
+      } ],
+      "display_url" : "pic.twitter.com\/LrkNLQKMTf"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "866798877055348737",
+  "text" : "I'm not running for president but I am acquiring the army https:\/\/t.co\/LrkNLQKMTf",
+  "id" : 866798877055348737,
+  "created_at" : "2017-05-22 23:32:11 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "866730789928652802",
+  "text" : "Every time I change the volume, my hatred of the touchbar burns anew",
+  "id" : 866730789928652802,
+  "created_at" : "2017-05-22 19:01:38 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "866715948581040128",
+  "text" : "A monolith can be designed perfectly but not implemented intact\nA microservice can be implemented perfectly but you'll never know it",
+  "id" : 866715948581040128,
+  "created_at" : "2017-05-22 18:02:39 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/866697479722610688\/photo\/1",
+      "indices" : [ 42, 65 ],
+      "url" : "https:\/\/t.co\/hOWl3kmcHk",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DAcgwZiW0AAyQbc.jpg",
+      "id_str" : "866697469152907264",
+      "id" : 866697469152907264,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DAcgwZiW0AAyQbc.jpg",
+      "sizes" : [ {
+        "h" : 557,
+        "resize" : "fit",
+        "w" : 1068
+      }, {
+        "h" : 557,
+        "resize" : "fit",
+        "w" : 1068
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 557,
+        "resize" : "fit",
+        "w" : 1068
+      }, {
+        "h" : 355,
+        "resize" : "fit",
+        "w" : 680
+      } ],
+      "display_url" : "pic.twitter.com\/hOWl3kmcHk"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "866697479722610688",
+  "text" : "Tell me something else you like about me! https:\/\/t.co\/hOWl3kmcHk",
+  "id" : 866697479722610688,
+  "created_at" : "2017-05-22 16:49:16 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "866678386017677313",
+  "text" : "My dentist doesn't recommend shit",
+  "id" : 866678386017677313,
+  "created_at" : "2017-05-22 15:33:23 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/866673656050708482\/photo\/1",
+      "indices" : [ 15, 38 ],
+      "url" : "https:\/\/t.co\/PN4fuMBlAi",
+      "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/DAcLDnUXgAEWsPF.jpg",
+      "id_str" : "866673610014031873",
+      "id" : 866673610014031873,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/DAcLDnUXgAEWsPF.jpg",
+      "sizes" : [ {
+        "h" : 330,
+        "resize" : "fit",
+        "w" : 480
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 234,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 330,
+        "resize" : "fit",
+        "w" : 480
+      }, {
+        "h" : 330,
+        "resize" : "fit",
+        "w" : 480
+      } ],
+      "display_url" : "pic.twitter.com\/PN4fuMBlAi"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "866673656050708482",
+  "text" : "Current Status https:\/\/t.co\/PN4fuMBlAi",
+  "id" : 866673656050708482,
+  "created_at" : "2017-05-22 15:14:36 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "866649018620891136",
+  "geo" : { },
+  "id_str" : "866649471165358080",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "You're seeing this warning because there has been some wicked sweet activity from this account. Do you still want to view it?",
+  "id" : 866649471165358080,
+  "in_reply_to_status_id" : 866649018620891136,
+  "created_at" : "2017-05-22 13:38:30 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "866649018620891136",
+  "text" : "Caution: This account is temporarily awesome",
+  "id" : 866649018620891136,
+  "created_at" : "2017-05-22 13:36:42 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Genghis Cohen",
+      "screen_name" : "civility0",
+      "indices" : [ 0, 10 ],
+      "id_str" : "2723147395",
+      "id" : 2723147395
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "866486705465036800",
+  "geo" : { },
+  "id_str" : "866488926210584576",
+  "in_reply_to_user_id" : 2723147395,
+  "text" : "@civility0 I hear a biopic",
+  "id" : 866488926210584576,
+  "in_reply_to_status_id" : 866486705465036800,
+  "created_at" : "2017-05-22 03:00:33 +0000",
+  "in_reply_to_screen_name" : "civility0",
+  "in_reply_to_user_id_str" : "2723147395",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/866485946161692674\/photo\/1",
+      "indices" : [ 36, 59 ],
+      "url" : "https:\/\/t.co\/qPGiCtJeHF",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DAZgUWSUwAAypuY.jpg",
+      "id_str" : "866485881011486720",
+      "id" : 866485881011486720,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DAZgUWSUwAAypuY.jpg",
+      "sizes" : [ {
+        "h" : 908,
+        "resize" : "fit",
+        "w" : 826
+      }, {
+        "h" : 908,
+        "resize" : "fit",
+        "w" : 826
+      }, {
+        "h" : 908,
+        "resize" : "fit",
+        "w" : 826
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 619
+      } ],
+      "display_url" : "pic.twitter.com\/qPGiCtJeHF"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "866485946161692674",
+  "text" : "pre-mohawk Mr. T is freaking me out https:\/\/t.co\/qPGiCtJeHF",
+  "id" : 866485946161692674,
+  "created_at" : "2017-05-22 02:48:42 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/866476492024360961\/photo\/1",
+      "indices" : [ 59, 82 ],
+      "url" : "https:\/\/t.co\/E62wMTIjM9",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DAZXtGmUwAA6ZFn.jpg",
+      "id_str" : "866476410692485120",
+      "id" : 866476410692485120,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DAZXtGmUwAA6ZFn.jpg",
+      "sizes" : [ {
+        "h" : 654,
+        "resize" : "fit",
+        "w" : 932
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 654,
+        "resize" : "fit",
+        "w" : 932
+      }, {
+        "h" : 654,
+        "resize" : "fit",
+        "w" : 932
+      }, {
+        "h" : 477,
+        "resize" : "fit",
+        "w" : 680
+      } ],
+      "display_url" : "pic.twitter.com\/E62wMTIjM9"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "866476492024360961",
+  "text" : "We're rebuilding wikipedia with react and no one gets paid https:\/\/t.co\/E62wMTIjM9",
+  "id" : 866476492024360961,
+  "created_at" : "2017-05-22 02:11:08 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "866475641666973696",
+  "text" : "William Jennings Bryan would have won",
+  "id" : 866475641666973696,
+  "created_at" : "2017-05-22 02:07:45 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 53, 76 ],
+      "url" : "https:\/\/t.co\/sEL0Zfae43",
+      "expanded_url" : "https:\/\/twitter.com\/ABC\/status\/865989219788791809",
+      "display_url" : "twitter.com\/ABC\/status\/865\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "866471733938749441",
+  "text" : "When a white preacher gets invited to a black church https:\/\/t.co\/sEL0Zfae43",
+  "id" : 866471733938749441,
+  "created_at" : "2017-05-22 01:52:14 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "866368718712033282",
+  "text" : "Did you submit a ticket to begin the process of a case of impeachment?",
+  "id" : 866368718712033282,
+  "created_at" : "2017-05-21 19:02:53 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "866364541155913728",
+  "geo" : { },
+  "id_str" : "866366211629731843",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "Are you writing trying to write PHP like Javascript? WTF is wrong with you?",
+  "id" : 866366211629731843,
+  "in_reply_to_status_id" : 866364541155913728,
+  "created_at" : "2017-05-21 18:52:55 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "866364162699612162",
+  "geo" : { },
+  "id_str" : "866364541155913728",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "What are the best practices in PHP?\nDepends, are you pretending to write Java or Python?",
+  "id" : 866364541155913728,
+  "in_reply_to_status_id" : 866364162699612162,
+  "created_at" : "2017-05-21 18:46:17 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "866363684960043008",
+  "geo" : { },
+  "id_str" : "866364162699612162",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "I'm not any good at coding \nIt's ok, no one can tell when you write bad php",
+  "id" : 866364162699612162,
+  "in_reply_to_status_id" : 866363684960043008,
+  "created_at" : "2017-05-21 18:44:47 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "866363684960043008",
+  "text" : "PHP is snake oil for imposter syndrome",
+  "id" : 866363684960043008,
+  "created_at" : "2017-05-21 18:42:53 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "data['mafia'] = True",
+      "screen_name" : "datamafia",
+      "indices" : [ 0, 10 ],
+      "id_str" : "19664201",
+      "id" : 19664201
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "866362889539420160",
+  "geo" : { },
+  "id_str" : "866363496946180097",
+  "in_reply_to_user_id" : 19664201,
+  "text" : "@datamafia If you fix all the bad parts of php is it still php?",
+  "id" : 866363496946180097,
+  "in_reply_to_status_id" : 866362889539420160,
+  "created_at" : "2017-05-21 18:42:08 +0000",
+  "in_reply_to_screen_name" : "datamafia",
+  "in_reply_to_user_id_str" : "19664201",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "robbiese7en",
+      "screen_name" : "robbiese7en",
+      "indices" : [ 0, 12 ],
+      "id_str" : "198945844",
+      "id" : 198945844
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "866362094463135744",
+  "geo" : { },
+  "id_str" : "866362906547507201",
+  "in_reply_to_user_id" : 198945844,
+  "text" : "@robbiese7en it's competitive with totalitarian police state at best",
+  "id" : 866362906547507201,
+  "in_reply_to_status_id" : 866362094463135744,
+  "created_at" : "2017-05-21 18:39:47 +0000",
+  "in_reply_to_screen_name" : "robbiese7en",
+  "in_reply_to_user_id_str" : "198945844",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "866362615219576833",
+  "text" : "Socialism is the 2.0RC that's never gets fully implemented because of all the breaking changes",
+  "id" : 866362615219576833,
+  "created_at" : "2017-05-21 18:38:38 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "866362005061603328",
+  "text" : "Capitalism is a hack that uses human greed to do useful work",
+  "id" : 866362005061603328,
+  "created_at" : "2017-05-21 18:36:12 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "866340302575083520",
+  "text" : "I miss the old days when we were making the mistakes not paying the consequences",
+  "id" : 866340302575083520,
+  "created_at" : "2017-05-21 17:09:58 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "866289288673206272",
+  "text" : "We used to check TV listings in the newspaper, now... we just don't.",
+  "id" : 866289288673206272,
+  "created_at" : "2017-05-21 13:47:15 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 49, 72 ],
+      "url" : "https:\/\/t.co\/yhLKz1CEkS",
+      "expanded_url" : "https:\/\/youtu.be\/Y5h8Sncv3Pk",
+      "display_url" : "youtu.be\/Y5h8Sncv3Pk"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "866148670399549440",
+  "text" : "Ivanka rocking that vocal fry before it was cool https:\/\/t.co\/yhLKz1CEkS",
+  "id" : 866148670399549440,
+  "created_at" : "2017-05-21 04:28:29 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "0d-cody\u2615\uFE0F",
+      "screen_name" : "valarauca1",
+      "indices" : [ 3, 14 ],
+      "id_str" : "4345549096",
+      "id" : 4345549096
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "866132087228829696",
+  "text" : "RT @valarauca1: Realistically planets that formed &gt;2-3 billion years before earth (while possible) never had the metals to build civilizati\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "in_reply_to_status_id_str" : "866127002180268033",
+    "geo" : { },
+    "id_str" : "866127595066216448",
+    "in_reply_to_user_id" : 4345549096,
+    "text" : "Realistically planets that formed &gt;2-3 billion years before earth (while possible) never had the metals to build civilization.",
+    "id" : 866127595066216448,
+    "in_reply_to_status_id" : 866127002180268033,
+    "created_at" : "2017-05-21 03:04:45 +0000",
+    "in_reply_to_screen_name" : "valarauca1",
+    "in_reply_to_user_id_str" : "4345549096",
+    "user" : {
+      "name" : "0d-cody\u2615\uFE0F",
+      "screen_name" : "valarauca1",
+      "protected" : false,
+      "id_str" : "4345549096",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879923299764940800\/9OVC_kkh_normal.jpg",
+      "id" : 4345549096,
+      "verified" : false
+    }
+  },
+  "id" : 866132087228829696,
+  "created_at" : "2017-05-21 03:22:36 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "866113962332622848",
+  "geo" : { },
+  "id_str" : "866114962997075968",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "Kenny Rogers Cosplay is actually big in Ecuador",
+  "id" : 866114962997075968,
+  "in_reply_to_status_id" : 866113962332622848,
+  "created_at" : "2017-05-21 02:14:33 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "866113570706251776",
+  "geo" : { },
+  "id_str" : "866113962332622848",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "I am a prince of Russia, I am the Ice Bear",
+  "id" : 866113962332622848,
+  "in_reply_to_status_id" : 866113570706251776,
+  "created_at" : "2017-05-21 02:10:34 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "866113315428237314",
+  "geo" : { },
+  "id_str" : "866113570706251776",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "Is this the SciFi Che Guevara look you were going for?",
+  "id" : 866113570706251776,
+  "in_reply_to_status_id" : 866113315428237314,
+  "created_at" : "2017-05-21 02:09:01 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/866113315428237314\/photo\/1",
+      "indices" : [ 54, 77 ],
+      "url" : "https:\/\/t.co\/hSOLFWcPDx",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DAUNDcsVYAEk0RA.jpg",
+      "id_str" : "866112856231600129",
+      "id" : 866112856231600129,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DAUNDcsVYAEk0RA.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 578,
+        "resize" : "fit",
+        "w" : 714
+      }, {
+        "h" : 578,
+        "resize" : "fit",
+        "w" : 714
+      }, {
+        "h" : 578,
+        "resize" : "fit",
+        "w" : 714
+      }, {
+        "h" : 550,
+        "resize" : "fit",
+        "w" : 680
+      } ],
+      "display_url" : "pic.twitter.com\/hSOLFWcPDx"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "866113315428237314",
+  "text" : "I have not felt the touch of a human being in so long https:\/\/t.co\/hSOLFWcPDx",
+  "id" : 866113315428237314,
+  "created_at" : "2017-05-21 02:08:00 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "866112424746913792",
+  "text" : "I don't go on reddit much anymore because I'm happy",
+  "id" : 866112424746913792,
+  "created_at" : "2017-05-21 02:04:28 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "866103000728731648",
+  "text" : "Well, according to what I've read, most people agree with me",
+  "id" : 866103000728731648,
+  "created_at" : "2017-05-21 01:27:01 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Christopher Coleman",
+      "screen_name" : "mellowfish",
+      "indices" : [ 3, 14 ],
+      "id_str" : "16969163",
+      "id" : 16969163
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 67, 90 ],
+      "url" : "https:\/\/t.co\/3ABr78SEr1",
+      "expanded_url" : "https:\/\/twitter.com\/AP\/status\/866065752281026564",
+      "display_url" : "twitter.com\/AP\/status\/8660\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "866100004636819456",
+  "text" : "RT @mellowfish: There is no cloud, just other people\u2019s horses. \uD83D\uDC0E\u2601\uFE0F https:\/\/t.co\/3ABr78SEr1",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 51, 74 ],
+        "url" : "https:\/\/t.co\/3ABr78SEr1",
+        "expanded_url" : "https:\/\/twitter.com\/AP\/status\/866065752281026564",
+        "display_url" : "twitter.com\/AP\/status\/8660\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "866099229613314049",
+    "text" : "There is no cloud, just other people\u2019s horses. \uD83D\uDC0E\u2601\uFE0F https:\/\/t.co\/3ABr78SEr1",
+    "id" : 866099229613314049,
+    "created_at" : "2017-05-21 01:12:02 +0000",
+    "user" : {
+      "name" : "Christopher Coleman",
+      "screen_name" : "mellowfish",
+      "protected" : false,
+      "id_str" : "16969163",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/864565067462856704\/UxubBZEC_normal.jpg",
+      "id" : 16969163,
+      "verified" : false
+    }
+  },
+  "id" : 866100004636819456,
+  "created_at" : "2017-05-21 01:15:07 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/866097798697168896\/photo\/1",
+      "indices" : [ 22, 45 ],
+      "url" : "https:\/\/t.co\/MnPuc3ujl3",
+      "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/DAT_Hl-VwAA209U.jpg",
+      "id_str" : "866097534279729152",
+      "id" : 866097534279729152,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/DAT_Hl-VwAA209U.jpg",
+      "sizes" : [ {
+        "h" : 244,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 266,
+        "resize" : "fit",
+        "w" : 370
+      }, {
+        "h" : 266,
+        "resize" : "fit",
+        "w" : 370
+      }, {
+        "h" : 266,
+        "resize" : "fit",
+        "w" : 370
+      } ],
+      "display_url" : "pic.twitter.com\/MnPuc3ujl3"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "866097798697168896",
+  "text" : "Infosec Ops team like https:\/\/t.co\/MnPuc3ujl3",
+  "id" : 866097798697168896,
+  "created_at" : "2017-05-21 01:06:21 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 9, 32 ],
+      "url" : "https:\/\/t.co\/IZrLSZovkM",
+      "expanded_url" : "https:\/\/twitter.com\/HappyHorseSkull\/status\/866060634034774016",
+      "display_url" : "twitter.com\/HappyHorseSkul\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "866065247685275649",
+  "text" : "Fox News https:\/\/t.co\/IZrLSZovkM",
+  "id" : 866065247685275649,
+  "created_at" : "2017-05-20 22:57:00 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Louise Mensch",
+      "screen_name" : "LouiseMensch",
+      "indices" : [ 33, 46 ],
+      "id_str" : "19346439",
+      "id" : 19346439
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "866051597452947458",
+  "geo" : { },
+  "id_str" : "866052095727869953",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "In other news, i don't recommend @LouiseMensch after injesting a fistful of mushrooms",
+  "id" : 866052095727869953,
+  "in_reply_to_status_id" : 866051597452947458,
+  "created_at" : "2017-05-20 22:04:44 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "866051069327093761",
+  "geo" : { },
+  "id_str" : "866051597452947458",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "However, because Carter Page broke the Vial of Whispers, Trump cannot declare a time quake to challenge the ruling of the Illuminati",
+  "id" : 866051597452947458,
+  "in_reply_to_status_id" : 866051069327093761,
+  "created_at" : "2017-05-20 22:02:45 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "866050084844208132",
+  "geo" : { },
+  "id_str" : "866051069327093761",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "Sources close to the pseudo\u200B-NSA report that if impeached Trump has the option to sacrifice a frog to remove the blood guilt from his family",
+  "id" : 866051069327093761,
+  "in_reply_to_status_id" : 866050084844208132,
+  "created_at" : "2017-05-20 22:00:40 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "866050084844208132",
+  "text" : "As Trump is not on native soil, the lieutenant Vice Marshal of the Senate has to blow a ram's horn three times to invoke impeachment",
+  "id" : 866050084844208132,
+  "created_at" : "2017-05-20 21:56:45 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "865963262348845056",
+  "text" : "Why isn't the media covering this?\n&lt;screenshot of cable news&gt;",
+  "id" : 865963262348845056,
+  "created_at" : "2017-05-20 16:11:45 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "865958654708789249",
+  "text" : "It's not the crime, it's the cover up, but if you don't try to cover up it's the crime again",
+  "id" : 865958654708789249,
+  "created_at" : "2017-05-20 15:53:26 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 64, 87 ],
+      "url" : "https:\/\/t.co\/0P38tdTh38",
+      "expanded_url" : "https:\/\/twitter.com\/MalwareTechBlog\/status\/865940879261003778",
+      "display_url" : "twitter.com\/MalwareTechBlo\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "865952256004411396",
+  "text" : "Newspapers: let's piss off.... I don't know, how about hackers? https:\/\/t.co\/0P38tdTh38",
+  "id" : 865952256004411396,
+  "created_at" : "2017-05-20 15:28:01 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 19, 42 ],
+      "url" : "https:\/\/t.co\/47K5xoV6Dq",
+      "expanded_url" : "https:\/\/twitter.com\/beardedstoner\/status\/865947207731744768",
+      "display_url" : "twitter.com\/beardedstoner\/\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "865951466334367746",
+  "text" : "This happens a lot https:\/\/t.co\/47K5xoV6Dq",
+  "id" : 865951466334367746,
+  "created_at" : "2017-05-20 15:24:52 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Alex Nichols",
+      "screen_name" : "Lowenaffchen",
+      "indices" : [ 3, 16 ],
+      "id_str" : "267329349",
+      "id" : 267329349
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "865938312435048449",
+  "text" : "RT @Lowenaffchen: the only thing I look forward to anymore is when john mccain dies and trump ruins his funeral by giving a eulogy about TV\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "864250749613744132",
+    "text" : "the only thing I look forward to anymore is when john mccain dies and trump ruins his funeral by giving a eulogy about TV ratings",
+    "id" : 864250749613744132,
+    "created_at" : "2017-05-15 22:46:50 +0000",
+    "user" : {
+      "name" : "Alex Nichols",
+      "screen_name" : "Lowenaffchen",
+      "protected" : false,
+      "id_str" : "267329349",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/816138233960464384\/UWa0nLrj_normal.jpg",
+      "id" : 267329349,
+      "verified" : false
+    }
+  },
+  "id" : 865938312435048449,
+  "created_at" : "2017-05-20 14:32:36 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/865661229293031424\/photo\/1",
+      "indices" : [ 107, 130 ],
+      "url" : "https:\/\/t.co\/FumMtXXRDn",
+      "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/DANyLZ0UIAEvIyX.jpg",
+      "id_str" : "865661093619703809",
+      "id" : 865661093619703809,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/DANyLZ0UIAEvIyX.jpg",
+      "sizes" : [ {
+        "h" : 326,
+        "resize" : "fit",
+        "w" : 580
+      }, {
+        "h" : 326,
+        "resize" : "fit",
+        "w" : 580
+      }, {
+        "h" : 326,
+        "resize" : "fit",
+        "w" : 580
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 191,
+        "resize" : "fit",
+        "w" : 340
+      } ],
+      "display_url" : "pic.twitter.com\/FumMtXXRDn"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "865661229293031424",
+  "text" : "The criminal investigation into Russia now includes a senior White House official close to President Trump https:\/\/t.co\/FumMtXXRDn",
+  "id" : 865661229293031424,
+  "created_at" : "2017-05-19 20:11:34 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/865644565146947584\/photo\/1",
+      "indices" : [ 7, 30 ],
+      "url" : "https:\/\/t.co\/CqPy3UmsZP",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DANjH-lU0AAPal4.jpg",
+      "id_str" : "865644542095052800",
+      "id" : 865644542095052800,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DANjH-lU0AAPal4.jpg",
+      "sizes" : [ {
+        "h" : 118,
+        "resize" : "fit",
+        "w" : 782
+      }, {
+        "h" : 103,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 118,
+        "resize" : "crop",
+        "w" : 118
+      }, {
+        "h" : 118,
+        "resize" : "fit",
+        "w" : 782
+      }, {
+        "h" : 118,
+        "resize" : "fit",
+        "w" : 782
+      } ],
+      "display_url" : "pic.twitter.com\/CqPy3UmsZP"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "865644565146947584",
+  "text" : "me irl https:\/\/t.co\/CqPy3UmsZP",
+  "id" : 865644565146947584,
+  "created_at" : "2017-05-19 19:05:21 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "865643064701759488",
+  "text" : "Half the reason Trump went on TV was to get that hair care tax deduction",
+  "id" : 865643064701759488,
+  "created_at" : "2017-05-19 18:59:24 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "865641751129739264",
+  "text" : "The big secret in Trump's taxes is the 1099 he used to pay Jimmy the Hair Doc",
+  "id" : 865641751129739264,
+  "created_at" : "2017-05-19 18:54:10 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "865634724785541121",
+  "geo" : { },
+  "id_str" : "865635216152444929",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "Ok, not a horcrux exactly but let's just say Bannon didn't take over the Biosphere to save Pauly Shore",
+  "id" : 865635216152444929,
+  "in_reply_to_status_id" : 865634724785541121,
+  "created_at" : "2017-05-19 18:28:12 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "865633930896056320",
+  "geo" : { },
+  "id_str" : "865634724785541121",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "Also, they have great coke in Florida and Steve Bannon has a horcrux that needs watering down there",
+  "id" : 865634724785541121,
+  "in_reply_to_status_id" : 865633930896056320,
+  "created_at" : "2017-05-19 18:26:15 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Donald J. Trump",
+      "screen_name" : "realDonaldTrump",
+      "indices" : [ 0, 16 ],
+      "id_str" : "25073877",
+      "id" : 25073877
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "865633264043671553",
+  "geo" : { },
+  "id_str" : "865633930896056320",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "@realDonaldTrump White House logs are going to get subpoenaed eventually, but if Jimmy the Hair Magician is a member of the club...",
+  "id" : 865633930896056320,
+  "in_reply_to_status_id" : 865633264043671553,
+  "created_at" : "2017-05-19 18:23:06 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Donald J. Trump",
+      "screen_name" : "realDonaldTrump",
+      "indices" : [ 9, 25 ],
+      "id_str" : "25073877",
+      "id" : 25073877
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "865632785729376265",
+  "geo" : { },
+  "id_str" : "865633264043671553",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "Why does @realDonaldTrump go to Mar-a-Lago every weekend? Is it just easier to get his hair guy in the club unnoticed?",
+  "id" : 865633264043671553,
+  "in_reply_to_status_id" : 865632785729376265,
+  "created_at" : "2017-05-19 18:20:27 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "865632785729376265",
+  "text" : "Trump wanted his trip reduced to five days, so now we know how long it takes for his hair to unravel",
+  "id" : 865632785729376265,
+  "created_at" : "2017-05-19 18:18:33 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "865631376027996161",
+  "geo" : { },
+  "id_str" : "865631910860439552",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "Why does this beautiful piece of chocolate cake taste funny? Oh no....",
+  "id" : 865631910860439552,
+  "in_reply_to_status_id" : 865631376027996161,
+  "created_at" : "2017-05-19 18:15:04 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "865631376027996161",
+  "text" : "I like imagining that they have to drug Trump like BA Barracus to get him on Airforce One when he goes abroad",
+  "id" : 865631376027996161,
+  "created_at" : "2017-05-19 18:12:57 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Startup L. Jackson",
+      "screen_name" : "StartupLJackson",
+      "indices" : [ 97, 113 ],
+      "id_str" : "353789193",
+      "id" : 353789193
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 139, 162 ],
+      "url" : "https:\/\/t.co\/Xq3CbKVSgk",
+      "expanded_url" : "https:\/\/twitter.com\/annamerlan\/status\/865577163801735168",
+      "display_url" : "twitter.com\/annamerlan\/sta\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "865608223939624961",
+  "text" : "I wanted to write a HackerNews bait blog post about the funniest tech people on twitter but then @StartupLJackson retired and messed it up https:\/\/t.co\/Xq3CbKVSgk",
+  "id" : 865608223939624961,
+  "created_at" : "2017-05-19 16:40:57 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "865601766481477632",
+  "text" : "Yesterday was my Friday; today is my next Wednesday afternoon",
+  "id" : 865601766481477632,
+  "created_at" : "2017-05-19 16:15:17 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "865581207555321858",
+  "text" : "Have a good weekend\/world end!",
+  "id" : 865581207555321858,
+  "created_at" : "2017-05-19 14:53:36 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "865579747430080512",
+  "text" : "I wish foreign agents were trying to recruit me. I could use some friends.",
+  "id" : 865579747430080512,
+  "created_at" : "2017-05-19 14:47:48 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 66, 89 ],
+      "url" : "https:\/\/t.co\/vjdYUMvuBp",
+      "expanded_url" : "https:\/\/twitter.com\/H_Bevs\/status\/863858469593653248",
+      "display_url" : "twitter.com\/H_Bevs\/status\/\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "865424962860875776",
+  "text" : "My personal brand is a Subaru is a Subaru is a Subaru is a Subaru https:\/\/t.co\/vjdYUMvuBp",
+  "id" : 865424962860875776,
+  "created_at" : "2017-05-19 04:32:44 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Matthew Turland",
+      "screen_name" : "elazar",
+      "indices" : [ 0, 7 ],
+      "id_str" : "9105122",
+      "id" : 9105122
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "865370007286558720",
+  "geo" : { },
+  "id_str" : "865387523408887808",
+  "in_reply_to_user_id" : 9105122,
+  "text" : "@elazar The date is pretty much ruined before you get to the last word though",
+  "id" : 865387523408887808,
+  "in_reply_to_status_id" : 865370007286558720,
+  "created_at" : "2017-05-19 02:03:58 +0000",
+  "in_reply_to_screen_name" : "elazar",
+  "in_reply_to_user_id_str" : "9105122",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 30, 53 ],
+      "url" : "https:\/\/t.co\/lwTqoYzku0",
+      "expanded_url" : "https:\/\/twitter.com\/adotfritz\/status\/853075996915924992",
+      "display_url" : "twitter.com\/adotfritz\/stat\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "865369398441365504",
+  "text" : "Darmok &amp; Jalad\u00A0at Tanagra https:\/\/t.co\/lwTqoYzku0",
+  "id" : 865369398441365504,
+  "created_at" : "2017-05-19 00:51:57 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "865366733653200896",
+  "text" : "IT WAS JARED THE WHOLE TIME",
+  "id" : 865366733653200896,
+  "created_at" : "2017-05-19 00:41:21 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "865348884528340993",
+  "text" : "My fit bit is 0",
+  "id" : 865348884528340993,
+  "created_at" : "2017-05-18 23:30:26 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/865300792361746432\/photo\/1",
+      "indices" : [ 9, 32 ],
+      "url" : "https:\/\/t.co\/ElPPzeYkpk",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DAIqePRUAAEDMLi.jpg",
+      "id_str" : "865300777392144385",
+      "id" : 865300777392144385,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DAIqePRUAAEDMLi.jpg",
+      "sizes" : [ {
+        "h" : 394,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 896,
+        "resize" : "fit",
+        "w" : 1548
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 896,
+        "resize" : "fit",
+        "w" : 1548
+      }, {
+        "h" : 695,
+        "resize" : "fit",
+        "w" : 1200
+      } ],
+      "display_url" : "pic.twitter.com\/ElPPzeYkpk"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "865300792361746432",
+  "text" : "Damn son https:\/\/t.co\/ElPPzeYkpk",
+  "id" : 865300792361746432,
+  "created_at" : "2017-05-18 20:19:20 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/865296792623218688\/photo\/1",
+      "indices" : [ 64, 87 ],
+      "url" : "https:\/\/t.co\/lgFIbCd6Sv",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DAImwlbUQAA7V2f.jpg",
+      "id_str" : "865296694530818048",
+      "id" : 865296694530818048,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DAImwlbUQAA7V2f.jpg",
+      "sizes" : [ {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 510
+      }, {
+        "h" : 1120,
+        "resize" : "fit",
+        "w" : 840
+      }, {
+        "h" : 1120,
+        "resize" : "fit",
+        "w" : 840
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 1120,
+        "resize" : "fit",
+        "w" : 840
+      } ],
+      "display_url" : "pic.twitter.com\/lgFIbCd6Sv"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "865296792623218688",
+  "text" : "Did anyone tell Trump that this Time cover wasn't a real photo? https:\/\/t.co\/lgFIbCd6Sv",
+  "id" : 865296792623218688,
+  "created_at" : "2017-05-18 20:03:26 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/865291598145433602\/photo\/1",
+      "indices" : [ 51, 74 ],
+      "url" : "https:\/\/t.co\/jlzLGdVvU7",
+      "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/DAIiFSEVwAABdRY.jpg",
+      "id_str" : "865291552553287680",
+      "id" : 865291552553287680,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/DAIiFSEVwAABdRY.jpg",
+      "sizes" : [ {
+        "h" : 392,
+        "resize" : "fit",
+        "w" : 400
+      }, {
+        "h" : 333,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 392,
+        "resize" : "fit",
+        "w" : 400
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 392,
+        "resize" : "fit",
+        "w" : 400
+      } ],
+      "display_url" : "pic.twitter.com\/jlzLGdVvU7"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "865291598145433602",
+  "text" : "What you call treason I call good customer service https:\/\/t.co\/jlzLGdVvU7",
+  "id" : 865291598145433602,
+  "created_at" : "2017-05-18 19:42:47 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Cann\u00EFbal",
+      "screen_name" : "Cannibal",
+      "indices" : [ 0, 9 ],
+      "id_str" : "3291881",
+      "id" : 3291881
+    }, {
+      "name" : "morb",
+      "screen_name" : "m0rb",
+      "indices" : [ 10, 15 ],
+      "id_str" : "82278198",
+      "id" : 82278198
+    }, {
+      "name" : "Cann\u00EFbal",
+      "screen_name" : "Cannibal",
+      "indices" : [ 22, 31 ],
+      "id_str" : "3291881",
+      "id" : 3291881
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "865276568397987840",
+  "geo" : { },
+  "id_str" : "865277046196457472",
+  "in_reply_to_user_id" : 3291881,
+  "text" : "@Cannibal @m0rb yeah, @Cannibal,  we know",
+  "id" : 865277046196457472,
+  "in_reply_to_status_id" : 865276568397987840,
+  "created_at" : "2017-05-18 18:44:58 +0000",
+  "in_reply_to_screen_name" : "Cannibal",
+  "in_reply_to_user_id_str" : "3291881",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "morb",
+      "screen_name" : "m0rb",
+      "indices" : [ 0, 5 ],
+      "id_str" : "82278198",
+      "id" : 82278198
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "865276228780961793",
+  "geo" : { },
+  "id_str" : "865276676883619841",
+  "in_reply_to_user_id" : 82278198,
+  "text" : "@m0rb putting forks and spoons out of work",
+  "id" : 865276676883619841,
+  "in_reply_to_status_id" : 865276228780961793,
+  "created_at" : "2017-05-18 18:43:30 +0000",
+  "in_reply_to_screen_name" : "m0rb",
+  "in_reply_to_user_id_str" : "82278198",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "morb",
+      "screen_name" : "m0rb",
+      "indices" : [ 0, 5 ],
+      "id_str" : "82278198",
+      "id" : 82278198
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "865273914565419008",
+  "geo" : { },
+  "id_str" : "865274985828556800",
+  "in_reply_to_user_id" : 82278198,
+  "text" : "@m0rb I don't even like pop tarts",
+  "id" : 865274985828556800,
+  "in_reply_to_status_id" : 865273914565419008,
+  "created_at" : "2017-05-18 18:36:47 +0000",
+  "in_reply_to_screen_name" : "m0rb",
+  "in_reply_to_user_id_str" : "82278198",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "morb",
+      "screen_name" : "m0rb",
+      "indices" : [ 0, 5 ],
+      "id_str" : "82278198",
+      "id" : 82278198
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "865273914565419008",
+  "geo" : { },
+  "id_str" : "865274834321903616",
+  "in_reply_to_user_id" : 82278198,
+  "text" : "@m0rb Not a bit",
+  "id" : 865274834321903616,
+  "in_reply_to_status_id" : 865273914565419008,
+  "created_at" : "2017-05-18 18:36:11 +0000",
+  "in_reply_to_screen_name" : "m0rb",
+  "in_reply_to_user_id_str" : "82278198",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "robbiese7en",
+      "screen_name" : "robbiese7en",
+      "indices" : [ 0, 12 ],
+      "id_str" : "198945844",
+      "id" : 198945844
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "865273731563888640",
+  "geo" : { },
+  "id_str" : "865274658265985024",
+  "in_reply_to_user_id" : 198945844,
+  "text" : "@robbiese7en It's the texture. oily tasteless spongy mat",
+  "id" : 865274658265985024,
+  "in_reply_to_status_id" : 865273731563888640,
+  "created_at" : "2017-05-18 18:35:29 +0000",
+  "in_reply_to_screen_name" : "robbiese7en",
+  "in_reply_to_user_id_str" : "198945844",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "865273437559848961",
+  "text" : "I don't really like avocados",
+  "id" : 865273437559848961,
+  "created_at" : "2017-05-18 18:30:38 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/865273287961698306\/photo\/1",
+      "indices" : [ 89, 112 ],
+      "url" : "https:\/\/t.co\/IYgDmEWX1l",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DAIRUbWV0AACTbZ.jpg",
+      "id_str" : "865273121045073920",
+      "id" : 865273121045073920,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DAIRUbWV0AACTbZ.jpg",
+      "sizes" : [ {
+        "h" : 453,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 553,
+        "resize" : "fit",
+        "w" : 830
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 553,
+        "resize" : "fit",
+        "w" : 830
+      }, {
+        "h" : 553,
+        "resize" : "fit",
+        "w" : 830
+      } ],
+      "display_url" : "pic.twitter.com\/IYgDmEWX1l"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "865272854190936065",
+  "geo" : { },
+  "id_str" : "865273287961698306",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "Entire Interview: People's biggest complaint about Comey is that he's too sanctimonious. https:\/\/t.co\/IYgDmEWX1l",
+  "id" : 865273287961698306,
+  "in_reply_to_status_id" : 865272854190936065,
+  "created_at" : "2017-05-18 18:30:02 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "865272854190936065",
+  "text" : "I'm afraid Lieberman is a lock for FBI Director because his appointment wins the \"Number of People Pissed Off\" metric",
+  "id" : 865272854190936065,
+  "created_at" : "2017-05-18 18:28:19 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "865271209713389568",
+  "text" : "An app for creating contemporaneous memos to use as evidence later",
+  "id" : 865271209713389568,
+  "created_at" : "2017-05-18 18:21:47 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "865268517255303169",
+  "geo" : { },
+  "id_str" : "865268852028047361",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "\"I could make real money on TV and not drink polonium\"",
+  "id" : 865268852028047361,
+  "in_reply_to_status_id" : 865268517255303169,
+  "created_at" : "2017-05-18 18:12:24 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "TrumpRussia",
+      "indices" : [ 26, 38 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "865268517255303169",
+  "text" : "Chaffetz saw his cut from #TrumpRussia and thought, \"I could make real money on TV and not go to prison.\"",
+  "id" : 865268517255303169,
+  "created_at" : "2017-05-18 18:11:05 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "865267830165565440",
+  "text" : "How has Trump not nominated Bernard Kerik for something yet?",
+  "id" : 865267830165565440,
+  "created_at" : "2017-05-18 18:08:21 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Joe Lieberman",
+      "screen_name" : "JoeLieberman",
+      "indices" : [ 32, 45 ],
+      "id_str" : "84129740",
+      "id" : 84129740
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "865267339801112577",
+  "text" : "The only thing I remember about @JoeLieberman is the stupid grin he gets on his face when he wields power over others",
+  "id" : 865267339801112577,
+  "created_at" : "2017-05-18 18:06:24 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Keith Townsend",
+      "screen_name" : "CTOAdvisor",
+      "indices" : [ 3, 14 ],
+      "id_str" : "44388921",
+      "id" : 44388921
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "865253883525959680",
+  "text" : "RT @CTOAdvisor: There's a script named \"The Jeff Script\" Jeff hasn't worked for the company in 5-years.",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "864561726892654592",
+    "text" : "There's a script named \"The Jeff Script\" Jeff hasn't worked for the company in 5-years.",
+    "id" : 864561726892654592,
+    "created_at" : "2017-05-16 19:22:33 +0000",
+    "user" : {
+      "name" : "Keith Townsend",
+      "screen_name" : "CTOAdvisor",
+      "protected" : false,
+      "id_str" : "44388921",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/859506506743635968\/dc9h08_o_normal.jpg",
+      "id" : 44388921,
+      "verified" : true
+    }
+  },
+  "id" : 865253883525959680,
+  "created_at" : "2017-05-18 17:12:56 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "865252921461624832",
+  "text" : "A lot of the \"engineering\" in software development is figuring out how to make things work incorrectly in a useful way",
+  "id" : 865252921461624832,
+  "created_at" : "2017-05-18 17:09:06 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/865250020634886146\/photo\/1",
+      "indices" : [ 69, 92 ],
+      "url" : "https:\/\/t.co\/HgJLBRD3Jj",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DAH7_CHUIAAZwhI.jpg",
+      "id_str" : "865249663749726208",
+      "id" : 865249663749726208,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DAH7_CHUIAAZwhI.jpg",
+      "sizes" : [ {
+        "h" : 669,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 1106,
+        "resize" : "fit",
+        "w" : 1124
+      }, {
+        "h" : 1106,
+        "resize" : "fit",
+        "w" : 1124
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 1106,
+        "resize" : "fit",
+        "w" : 1124
+      } ],
+      "display_url" : "pic.twitter.com\/HgJLBRD3Jj"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "865250020634886146",
+  "text" : "Inline images inside &lt;pre&gt; tags are the original layout kludge https:\/\/t.co\/HgJLBRD3Jj",
+  "id" : 865250020634886146,
+  "created_at" : "2017-05-18 16:57:35 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/865245352424865792\/photo\/1",
+      "indices" : [ 28, 51 ],
+      "url" : "https:\/\/t.co\/dz5JsdnAiD",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DAH38vvUQAALDfu.jpg",
+      "id_str" : "865245226410983424",
+      "id" : 865245226410983424,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DAH38vvUQAALDfu.jpg",
+      "sizes" : [ {
+        "h" : 726,
+        "resize" : "fit",
+        "w" : 976
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 726,
+        "resize" : "fit",
+        "w" : 976
+      }, {
+        "h" : 726,
+        "resize" : "fit",
+        "w" : 976
+      }, {
+        "h" : 506,
+        "resize" : "fit",
+        "w" : 680
+      } ],
+      "display_url" : "pic.twitter.com\/dz5JsdnAiD"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "865245352424865792",
+  "text" : "That icon is... problematic https:\/\/t.co\/dz5JsdnAiD",
+  "id" : 865245352424865792,
+  "created_at" : "2017-05-18 16:39:02 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "865244899368722433",
+  "text" : "Roger Ailes said Jason Chaffetz would join Fox News over his dead body",
+  "id" : 865244899368722433,
+  "created_at" : "2017-05-18 16:37:14 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/865240522704683008\/photo\/1",
+      "indices" : [ 21, 44 ],
+      "url" : "https:\/\/t.co\/VViqeoxFtU",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DAHzqR0VYAAlx5t.jpg",
+      "id_str" : "865240511094808576",
+      "id" : 865240511094808576,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DAHzqR0VYAAlx5t.jpg",
+      "sizes" : [ {
+        "h" : 228,
+        "resize" : "fit",
+        "w" : 1272
+      }, {
+        "h" : 122,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 228,
+        "resize" : "fit",
+        "w" : 1272
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 215,
+        "resize" : "fit",
+        "w" : 1200
+      } ],
+      "display_url" : "pic.twitter.com\/VViqeoxFtU"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "865240522704683008",
+  "text" : "I don't know. Maybe! https:\/\/t.co\/VViqeoxFtU",
+  "id" : 865240522704683008,
+  "created_at" : "2017-05-18 16:19:50 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "865212812263608321",
+  "text" : "I don't romp, generally",
+  "id" : 865212812263608321,
+  "created_at" : "2017-05-18 14:29:43 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/865209917652828160\/photo\/1",
+      "indices" : [ 61, 84 ],
+      "url" : "https:\/\/t.co\/RJlPY11xoZ",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DAHXzmEVYAI4Xga.jpg",
+      "id_str" : "865209884823871490",
+      "id" : 865209884823871490,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DAHXzmEVYAI4Xga.jpg",
+      "sizes" : [ {
+        "h" : 726,
+        "resize" : "fit",
+        "w" : 1306
+      }, {
+        "h" : 667,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 378,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 726,
+        "resize" : "fit",
+        "w" : 1306
+      } ],
+      "display_url" : "pic.twitter.com\/RJlPY11xoZ"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "865209917652828160",
+  "text" : "If I can't have safety and security, I'll take schadenfreude https:\/\/t.co\/RJlPY11xoZ",
+  "id" : 865209917652828160,
+  "created_at" : "2017-05-18 14:18:13 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "865075635353473024",
+  "text" : "You're doing pretty well considering all the nonsense going on lately. You're a lot stronger than you think.",
+  "id" : 865075635353473024,
+  "created_at" : "2017-05-18 05:24:38 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "865067136804429824",
+  "text" : "I probably don't even really have Imposter Syndrome",
+  "id" : 865067136804429824,
+  "created_at" : "2017-05-18 04:50:52 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "MakeASongBoring",
+      "indices" : [ 51, 67 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "865065340946055172",
+  "text" : "Angel Flying a Reasonable Distance From the Ground #MakeASongBoring",
+  "id" : 865065340946055172,
+  "created_at" : "2017-05-18 04:43:44 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "MakeASongBoring",
+      "indices" : [ 26, 42 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "865064583245037568",
+  "text" : "Welcome To The Jungle Gym #MakeASongBoring",
+  "id" : 865064583245037568,
+  "created_at" : "2017-05-18 04:40:43 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "865027311070064640",
+  "text" : "Mar-a-lago, avocado, baby why don't we go",
+  "id" : 865027311070064640,
+  "created_at" : "2017-05-18 02:12:37 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "865004509805682689",
+  "text" : "It's unclear what role Katy Perry has in the music released in her name",
+  "id" : 865004509805682689,
+  "created_at" : "2017-05-18 00:42:00 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/864989281277931520\/photo\/1",
+      "indices" : [ 13, 36 ],
+      "url" : "https:\/\/t.co\/J5psgZKJzJ",
+      "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/DAEPI51VwAA3BsA.jpg",
+      "id_str" : "864989249069760512",
+      "id" : 864989249069760512,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/DAEPI51VwAA3BsA.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 191,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 270,
+        "resize" : "fit",
+        "w" : 480
+      }, {
+        "h" : 270,
+        "resize" : "fit",
+        "w" : 480
+      }, {
+        "h" : 270,
+        "resize" : "fit",
+        "w" : 480
+      } ],
+      "display_url" : "pic.twitter.com\/J5psgZKJzJ"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "864989281277931520",
+  "text" : "Pence is all https:\/\/t.co\/J5psgZKJzJ",
+  "id" : 864989281277931520,
+  "created_at" : "2017-05-17 23:41:30 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/864988559975034881\/photo\/1",
+      "indices" : [ 75, 98 ],
+      "url" : "https:\/\/t.co\/NIkIsRQlZy",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DAEOfyLUAAADimO.jpg",
+      "id_str" : "864988542639800320",
+      "id" : 864988542639800320,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DAEOfyLUAAADimO.jpg",
+      "sizes" : [ {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 679
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 1046,
+        "resize" : "fit",
+        "w" : 1045
+      }, {
+        "h" : 1046,
+        "resize" : "fit",
+        "w" : 1045
+      }, {
+        "h" : 1046,
+        "resize" : "fit",
+        "w" : 1045
+      } ],
+      "display_url" : "pic.twitter.com\/NIkIsRQlZy"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "864988559975034881",
+  "text" : "If I'd asked the people what they wanted they'd have said a shitting horse https:\/\/t.co\/NIkIsRQlZy",
+  "id" : 864988559975034881,
+  "created_at" : "2017-05-17 23:38:38 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "President Trump",
+      "screen_name" : "POTUS",
+      "indices" : [ 1, 7 ],
+      "id_str" : "822215679726100480",
+      "id" : 822215679726100480
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "864985945489231873",
+  "text" : ".@POTUS is the target of coup d\u2019\u00E9tat being undertaken by the government controlled laws and people of the United States",
+  "id" : 864985945489231873,
+  "created_at" : "2017-05-17 23:28:14 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Michael Leinartas",
+      "screen_name" : "mleinart",
+      "indices" : [ 0, 9 ],
+      "id_str" : "23000562",
+      "id" : 23000562
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "864936817195450369",
+  "geo" : { },
+  "id_str" : "864937482265210881",
+  "in_reply_to_user_id" : 23000562,
+  "text" : "@mleinart I was thinking about that the other day - I'm not sure which is my oldest existing account, ebay or yahoo",
+  "id" : 864937482265210881,
+  "in_reply_to_status_id" : 864936817195450369,
+  "created_at" : "2017-05-17 20:15:40 +0000",
+  "in_reply_to_screen_name" : "mleinart",
+  "in_reply_to_user_id_str" : "23000562",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "864906287448043523",
+  "text" : "Our unique selling point is that we give part of our revenue to charity where it will be better spent",
+  "id" : 864906287448043523,
+  "created_at" : "2017-05-17 18:11:42 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/864893719522287618\/photo\/1",
+      "indices" : [ 12, 35 ],
+      "url" : "https:\/\/t.co\/Dhx4Oe7HlM",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DAC4NBoUwAAPL9L.jpg",
+      "id_str" : "864893662370512896",
+      "id" : 864893662370512896,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DAC4NBoUwAAPL9L.jpg",
+      "sizes" : [ {
+        "h" : 134,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 236,
+        "resize" : "fit",
+        "w" : 1196
+      }, {
+        "h" : 236,
+        "resize" : "fit",
+        "w" : 1196
+      }, {
+        "h" : 236,
+        "resize" : "fit",
+        "w" : 1196
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      } ],
+      "display_url" : "pic.twitter.com\/Dhx4Oe7HlM"
+    } ],
+    "hashtags" : [ {
+      "text" : "DISRUPTION",
+      "indices" : [ 0, 11 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "864893719522287618",
+  "text" : "#DISRUPTION https:\/\/t.co\/Dhx4Oe7HlM",
+  "id" : 864893719522287618,
+  "created_at" : "2017-05-17 17:21:46 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "864876810051497985",
+  "text" : "I wonder if Trump is going to come back from his trip",
+  "id" : 864876810051497985,
+  "created_at" : "2017-05-17 16:14:34 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "864598227944964096",
+  "text" : "I'd trust Comey's account more if he ended every sentence with \"Believe me!\"",
+  "id" : 864598227944964096,
+  "created_at" : "2017-05-16 21:47:35 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "864594547858386944",
+  "text" : "\u201CThe president has the utmost respect for our law enforcement agencies, and all investigations.\" (WAIT FOR LAUGHTER TO DIE DOWN)",
+  "id" : 864594547858386944,
+  "created_at" : "2017-05-16 21:32:58 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "864591191140118528",
+  "text" : "Trump is the classic mark that thinks he's in on the con",
+  "id" : 864591191140118528,
+  "created_at" : "2017-05-16 21:19:37 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jesse Hatta.bike",
+      "screen_name" : "arkanciscan",
+      "indices" : [ 0, 12 ],
+      "id_str" : "11345",
+      "id" : 11345
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "864588159367106560",
+  "geo" : { },
+  "id_str" : "864589037499297792",
+  "in_reply_to_user_id" : 11345,
+  "text" : "@arkanciscan But the second is hard because you so often don't know why yourself",
+  "id" : 864589037499297792,
+  "in_reply_to_status_id" : 864588159367106560,
+  "created_at" : "2017-05-16 21:11:04 +0000",
+  "in_reply_to_screen_name" : "arkanciscan",
+  "in_reply_to_user_id_str" : "11345",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "864572751713095682",
+  "text" : "The Mission Statement of the Democratic Party: Do the same thing over and over again and expect different results",
+  "id" : 864572751713095682,
+  "created_at" : "2017-05-16 20:06:21 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "864572306235981826",
+  "text" : "An American Tail: Fievel Goes HAM",
+  "id" : 864572306235981826,
+  "created_at" : "2017-05-16 20:04:35 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/864568167368204288\/photo\/1",
+      "indices" : [ 9, 32 ],
+      "url" : "https:\/\/t.co\/w5bXLCCFRt",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C_-QJ9HUQAAVSjw.jpg",
+      "id_str" : "864568154176897024",
+      "id" : 864568154176897024,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C_-QJ9HUQAAVSjw.jpg",
+      "sizes" : [ {
+        "h" : 260,
+        "resize" : "fit",
+        "w" : 1356
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 130,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 230,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 260,
+        "resize" : "fit",
+        "w" : 1356
+      } ],
+      "display_url" : "pic.twitter.com\/w5bXLCCFRt"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "864568167368204288",
+  "text" : "I'm sold https:\/\/t.co\/w5bXLCCFRt",
+  "id" : 864568167368204288,
+  "created_at" : "2017-05-16 19:48:08 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/864567585232351232\/photo\/1",
+      "indices" : [ 8, 31 ],
+      "url" : "https:\/\/t.co\/gVdpXKpYV4",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C_-Pn0jUwAA83zT.jpg",
+      "id_str" : "864567567762898944",
+      "id" : 864567567762898944,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C_-Pn0jUwAA83zT.jpg",
+      "sizes" : [ {
+        "h" : 182,
+        "resize" : "fit",
+        "w" : 1262
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 173,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 182,
+        "resize" : "fit",
+        "w" : 1262
+      }, {
+        "h" : 98,
+        "resize" : "fit",
+        "w" : 680
+      } ],
+      "display_url" : "pic.twitter.com\/gVdpXKpYV4"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "864567585232351232",
+  "text" : "Choices https:\/\/t.co\/gVdpXKpYV4",
+  "id" : 864567585232351232,
+  "created_at" : "2017-05-16 19:45:49 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/864555283535863808\/photo\/1",
+      "indices" : [ 69, 92 ],
+      "url" : "https:\/\/t.co\/SJHSAa1DIR",
+      "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/C_-EbuYV0AEWGme.jpg",
+      "id_str" : "864555265319882753",
+      "id" : 864555265319882753,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/C_-EbuYV0AEWGme.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 191,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 270,
+        "resize" : "fit",
+        "w" : 480
+      }, {
+        "h" : 270,
+        "resize" : "fit",
+        "w" : 480
+      }, {
+        "h" : 270,
+        "resize" : "fit",
+        "w" : 480
+      } ],
+      "display_url" : "pic.twitter.com\/SJHSAa1DIR"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "864555283535863808",
+  "text" : "# You can put CloudFormation syntax in here.  No one will judge you. https:\/\/t.co\/SJHSAa1DIR",
+  "id" : 864555283535863808,
+  "created_at" : "2017-05-16 18:56:56 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Oleg Andreev",
+      "screen_name" : "oleganza",
+      "indices" : [ 3, 12 ],
+      "id_str" : "16912671",
+      "id" : 16912671
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/oleganza\/status\/864239565023854592\/photo\/1",
+      "indices" : [ 43, 66 ],
+      "url" : "https:\/\/t.co\/3VocerSSJz",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C_5lTV8UIAAGPLf.jpg",
+      "id_str" : "864239561483755520",
+      "id" : 864239561483755520,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C_5lTV8UIAAGPLf.jpg",
+      "sizes" : [ {
+        "h" : 987,
+        "resize" : "fit",
+        "w" : 1800
+      }, {
+        "h" : 658,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 373,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 987,
+        "resize" : "fit",
+        "w" : 1800
+      } ],
+      "display_url" : "pic.twitter.com\/3VocerSSJz"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "864554991184486400",
+  "text" : "RT @oleganza: Bitcoin comes to Wall Street https:\/\/t.co\/3VocerSSJz",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/oleganza\/status\/864239565023854592\/photo\/1",
+        "indices" : [ 29, 52 ],
+        "url" : "https:\/\/t.co\/3VocerSSJz",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/C_5lTV8UIAAGPLf.jpg",
+        "id_str" : "864239561483755520",
+        "id" : 864239561483755520,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C_5lTV8UIAAGPLf.jpg",
+        "sizes" : [ {
+          "h" : 987,
+          "resize" : "fit",
+          "w" : 1800
+        }, {
+          "h" : 658,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 373,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 987,
+          "resize" : "fit",
+          "w" : 1800
+        } ],
+        "display_url" : "pic.twitter.com\/3VocerSSJz"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "864239565023854592",
+    "text" : "Bitcoin comes to Wall Street https:\/\/t.co\/3VocerSSJz",
+    "id" : 864239565023854592,
+    "created_at" : "2017-05-15 22:02:23 +0000",
+    "user" : {
+      "name" : "Oleg Andreev",
+      "screen_name" : "oleganza",
+      "protected" : false,
+      "id_str" : "16912671",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847493819968872449\/lT-9kyU2_normal.jpg",
+      "id" : 16912671,
+      "verified" : false
+    }
+  },
+  "id" : 864554991184486400,
+  "created_at" : "2017-05-16 18:55:47 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "864541249654620165",
+  "text" : "Trump: I swear to God I thought I heard about the laptop thing on Fox news",
+  "id" : 864541249654620165,
+  "created_at" : "2017-05-16 18:01:10 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "864540750566084609",
+  "text" : "I don't care what your bio says, if you're wearing a tie in your twitter avi \u2013 your opinions are those of your employer",
+  "id" : 864540750566084609,
+  "created_at" : "2017-05-16 17:59:11 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "864540433099173888",
+  "text" : "It's not a standing desk it's a geek pulpit",
+  "id" : 864540433099173888,
+  "created_at" : "2017-05-16 17:57:56 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "864499426768941061",
+  "text" : "Data $150\nRent $800\nAvocado Toast $3,600\nUtility $150\n&gt;&gt; someone who is good at the economy please help me budget this. my family is dying",
+  "id" : 864499426768941061,
+  "created_at" : "2017-05-16 15:14:59 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "John",
+      "screen_name" : "semanticist",
+      "indices" : [ 0, 12 ],
+      "id_str" : "4221431",
+      "id" : 4221431
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "864498437710106627",
+  "geo" : { },
+  "id_str" : "864498537857527810",
+  "in_reply_to_user_id" : 4221431,
+  "text" : "@semanticist suckers.csv",
+  "id" : 864498537857527810,
+  "in_reply_to_status_id" : 864498437710106627,
+  "created_at" : "2017-05-16 15:11:27 +0000",
+  "in_reply_to_screen_name" : "semanticist",
+  "in_reply_to_user_id_str" : "4221431",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "864488372974350336",
+  "text" : "Who would've thought that things would turn out just as you would expect?",
+  "id" : 864488372974350336,
+  "created_at" : "2017-05-16 14:31:04 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "864484579515797504",
+  "text" : "How about The Coward Mitch McConnell for FBI Director?",
+  "id" : 864484579515797504,
+  "created_at" : "2017-05-16 14:15:59 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "864479586482094080",
+  "text" : "I only use incognito mode for the articles",
+  "id" : 864479586482094080,
+  "created_at" : "2017-05-16 13:56:09 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "864478430007635968",
+  "text" : "USB is universal in the same way that English is universal",
+  "id" : 864478430007635968,
+  "created_at" : "2017-05-16 13:51:33 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "864476475747172352",
+  "text" : "Someone is projecting their feelings about their father on the Trump hotel",
+  "id" : 864476475747172352,
+  "created_at" : "2017-05-16 13:43:47 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "old wolf face",
+      "screen_name" : "logoninternet",
+      "indices" : [ 0, 14 ],
+      "id_str" : "619383",
+      "id" : 619383
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "864444121217470465",
+  "geo" : { },
+  "id_str" : "864444982303830016",
+  "in_reply_to_user_id" : 619383,
+  "text" : "@logoninternet This one infected my head",
+  "id" : 864444982303830016,
+  "in_reply_to_status_id" : 864444121217470465,
+  "created_at" : "2017-05-16 11:38:39 +0000",
+  "in_reply_to_screen_name" : "logoninternet",
+  "in_reply_to_user_id_str" : "619383",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jon Daggar",
+      "screen_name" : "jdaggar",
+      "indices" : [ 0, 8 ],
+      "id_str" : "139716445",
+      "id" : 139716445
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "864268545982681088",
+  "geo" : { },
+  "id_str" : "864269896221380609",
+  "in_reply_to_user_id" : 139716445,
+  "text" : "@jdaggar Greet them as liberators, offering them poutine",
+  "id" : 864269896221380609,
+  "in_reply_to_status_id" : 864268545982681088,
+  "created_at" : "2017-05-16 00:02:55 +0000",
+  "in_reply_to_screen_name" : "jdaggar",
+  "in_reply_to_user_id_str" : "139716445",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "864267983832711169",
+  "text" : "What if we seized the means of production, has anyone tried that?",
+  "id" : 864267983832711169,
+  "created_at" : "2017-05-15 23:55:19 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "864267889204920321",
+  "text" : "Maybe Canada can rule us until we get our shit together down here?",
+  "id" : 864267889204920321,
+  "created_at" : "2017-05-15 23:54:56 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "864259562349760513",
+  "text" : "How can we express the idea of Trump as erratic mark being snowed by the Russians in a single anecdote?",
+  "id" : 864259562349760513,
+  "created_at" : "2017-05-15 23:21:51 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "864183859692408833",
+  "text" : "I'm not calling it Alphabet",
+  "id" : 864183859692408833,
+  "created_at" : "2017-05-15 18:21:02 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "864169908724215809",
+  "text" : "Material design except the material is a little sticky",
+  "id" : 864169908724215809,
+  "created_at" : "2017-05-15 17:25:36 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/864120989319397376\/photo\/1",
+      "indices" : [ 95, 118 ],
+      "url" : "https:\/\/t.co\/vEhtsXuDGt",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C_35RLOVwAAlVIk.jpg",
+      "id_str" : "864120776991031296",
+      "id" : 864120776991031296,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C_35RLOVwAAlVIk.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 540,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 688,
+        "resize" : "fit",
+        "w" : 866
+      }, {
+        "h" : 688,
+        "resize" : "fit",
+        "w" : 866
+      }, {
+        "h" : 688,
+        "resize" : "fit",
+        "w" : 866
+      } ],
+      "display_url" : "pic.twitter.com\/vEhtsXuDGt"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "864120989319397376",
+  "text" : "Project your cyber code upon me and I shall become more powerful than you can possibly imagine https:\/\/t.co\/vEhtsXuDGt",
+  "id" : 864120989319397376,
+  "created_at" : "2017-05-15 14:11:13 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "863975282310602752",
+  "text" : "Private equity firms will destroy everything you love",
+  "id" : 863975282310602752,
+  "created_at" : "2017-05-15 04:32:13 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Bakz T. Future",
+      "screen_name" : "bakztfuture",
+      "indices" : [ 0, 12 ],
+      "id_str" : "89786695",
+      "id" : 89786695
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "863973114593632257",
+  "geo" : { },
+  "id_str" : "863974244413304832",
+  "in_reply_to_user_id" : 89786695,
+  "text" : "@bakztfuture more sauce",
+  "id" : 863974244413304832,
+  "in_reply_to_status_id" : 863973114593632257,
+  "created_at" : "2017-05-15 04:28:06 +0000",
+  "in_reply_to_screen_name" : "bakztfuture",
+  "in_reply_to_user_id_str" : "89786695",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/863968747593363456\/photo\/1",
+      "indices" : [ 48, 71 ],
+      "url" : "https:\/\/t.co\/CLSjr8mIB1",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C_1uyTeVoAAtbCV.png",
+      "id_str" : "863968514025037824",
+      "id" : 863968514025037824,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C_1uyTeVoAAtbCV.png",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 397,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 736,
+        "resize" : "fit",
+        "w" : 1260
+      }, {
+        "h" : 736,
+        "resize" : "fit",
+        "w" : 1260
+      }, {
+        "h" : 701,
+        "resize" : "fit",
+        "w" : 1200
+      } ],
+      "display_url" : "pic.twitter.com\/CLSjr8mIB1"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "863968747593363456",
+  "text" : "burger infrastructure diagrams are my thing now https:\/\/t.co\/CLSjr8mIB1",
+  "id" : 863968747593363456,
+  "created_at" : "2017-05-15 04:06:15 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\uD83C\uDD92 horse",
+      "screen_name" : "HappyHorseSkull",
+      "indices" : [ 0, 16 ],
+      "id_str" : "143789061",
+      "id" : 143789061
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "863962179292327936",
+  "geo" : { },
+  "id_str" : "863962997689077761",
+  "in_reply_to_user_id" : 143789061,
+  "text" : "@HappyHorseSkull I used that for so much quirky shit in the late 90s",
+  "id" : 863962997689077761,
+  "in_reply_to_status_id" : 863962179292327936,
+  "created_at" : "2017-05-15 03:43:24 +0000",
+  "in_reply_to_screen_name" : "HappyHorseSkull",
+  "in_reply_to_user_id_str" : "143789061",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\uD83C\uDD92 horse",
+      "screen_name" : "HappyHorseSkull",
+      "indices" : [ 0, 16 ],
+      "id_str" : "143789061",
+      "id" : 143789061
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "863961298828222464",
+  "geo" : { },
+  "id_str" : "863961699002482688",
+  "in_reply_to_user_id" : 143789061,
+  "text" : "@HappyHorseSkull Meme font\nUsed to be called macros for some reason?",
+  "id" : 863961699002482688,
+  "in_reply_to_status_id" : 863961298828222464,
+  "created_at" : "2017-05-15 03:38:15 +0000",
+  "in_reply_to_screen_name" : "HappyHorseSkull",
+  "in_reply_to_user_id_str" : "143789061",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\uD83C\uDD92 horse",
+      "screen_name" : "HappyHorseSkull",
+      "indices" : [ 3, 19 ],
+      "id_str" : "143789061",
+      "id" : 143789061
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "863961451635068929",
+  "text" : "RT @HappyHorseSkull: Which is the best font in the history of typography?",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "863954991001866244",
+    "text" : "Which is the best font in the history of typography?",
+    "id" : 863954991001866244,
+    "created_at" : "2017-05-15 03:11:36 +0000",
+    "user" : {
+      "name" : "\uD83C\uDD92 horse",
+      "screen_name" : "HappyHorseSkull",
+      "protected" : false,
+      "id_str" : "143789061",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/804570005186682880\/OUu7Zfam_normal.jpg",
+      "id" : 143789061,
+      "verified" : false
+    }
+  },
+  "id" : 863961451635068929,
+  "created_at" : "2017-05-15 03:37:16 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\uD83C\uDD92 horse",
+      "screen_name" : "HappyHorseSkull",
+      "indices" : [ 0, 16 ],
+      "id_str" : "143789061",
+      "id" : 143789061
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/863961424904769536\/photo\/1",
+      "indices" : [ 38, 61 ],
+      "url" : "https:\/\/t.co\/iJWwTRY36M",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C_1oJ42VYAAOdVY.jpg",
+      "id_str" : "863961222613393408",
+      "id" : 863961222613393408,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C_1oJ42VYAAOdVY.jpg",
+      "sizes" : [ {
+        "h" : 288,
+        "resize" : "fit",
+        "w" : 432
+      }, {
+        "h" : 288,
+        "resize" : "fit",
+        "w" : 432
+      }, {
+        "h" : 288,
+        "resize" : "fit",
+        "w" : 432
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 288,
+        "resize" : "fit",
+        "w" : 432
+      } ],
+      "display_url" : "pic.twitter.com\/iJWwTRY36M"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "863954991001866244",
+  "geo" : { },
+  "id_str" : "863961424904769536",
+  "in_reply_to_user_id" : 143789061,
+  "text" : "@HappyHorseSkull GoodDog Bones 4 lyfe https:\/\/t.co\/iJWwTRY36M",
+  "id" : 863961424904769536,
+  "in_reply_to_status_id" : 863954991001866244,
+  "created_at" : "2017-05-15 03:37:09 +0000",
+  "in_reply_to_screen_name" : "HappyHorseSkull",
+  "in_reply_to_user_id_str" : "143789061",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\uD83C\uDD92 horse",
+      "screen_name" : "HappyHorseSkull",
+      "indices" : [ 0, 16 ],
+      "id_str" : "143789061",
+      "id" : 143789061
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "863954991001866244",
+  "geo" : { },
+  "id_str" : "863960967251726340",
+  "in_reply_to_user_id" : 143789061,
+  "text" : "@HappyHorseSkull Impact",
+  "id" : 863960967251726340,
+  "in_reply_to_status_id" : 863954991001866244,
+  "created_at" : "2017-05-15 03:35:20 +0000",
+  "in_reply_to_screen_name" : "HappyHorseSkull",
+  "in_reply_to_user_id_str" : "143789061",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "863871666547568641",
+  "text" : "But her blockchain...",
+  "id" : 863871666547568641,
+  "created_at" : "2017-05-14 21:40:29 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 88, 111 ],
+      "url" : "https:\/\/t.co\/2rlPZdAzSU",
+      "expanded_url" : "https:\/\/twitter.com\/dzaporozhets\/status\/863762196270075905",
+      "display_url" : "twitter.com\/dzaporozhets\/s\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "863769117005942788",
+  "text" : "This happened to me when I got lost in bed stuy in 1996 except for the calling part obv https:\/\/t.co\/2rlPZdAzSU",
+  "id" : 863769117005942788,
+  "created_at" : "2017-05-14 14:53:00 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "863768649512955904",
+  "text" : "Coffee guy: if you have a chip on your card...\nMe: &lt;waving $10 bill&gt;\nCoffee guy: um... &lt;frantic search of square ui&gt;",
+  "id" : 863768649512955904,
+  "created_at" : "2017-05-14 14:51:08 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "863721282604593153",
+  "text" : "Guess Microsoft found a way to get people to upgrade",
+  "id" : 863721282604593153,
+  "created_at" : "2017-05-14 11:42:55 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Donald J. Trump",
+      "screen_name" : "realDonaldTrump",
+      "indices" : [ 3, 19 ],
+      "id_str" : "25073877",
+      "id" : 25073877
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "863616553727799300",
+  "text" : "RT @realDonaldTrump: We can\u2019t even stop the Norks from blasting a missile.  China is laughing at us.  It is really sad.",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "278956599786213376",
+    "text" : "We can\u2019t even stop the Norks from blasting a missile.  China is laughing at us.  It is really sad.",
+    "id" : 278956599786213376,
+    "created_at" : "2012-12-12 20:16:50 +0000",
+    "user" : {
+      "name" : "Donald J. Trump",
+      "screen_name" : "realDonaldTrump",
+      "protected" : false,
+      "id_str" : "25073877",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+      "id" : 25073877,
+      "verified" : true
+    }
+  },
+  "id" : 863616553727799300,
+  "created_at" : "2017-05-14 04:46:46 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "GoodeSirPixelNull",
+      "screen_name" : "pixelnull",
+      "indices" : [ 0, 10 ],
+      "id_str" : "3146769570",
+      "id" : 3146769570
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/863612642421768193\/photo\/1",
+      "indices" : [ 12, 35 ],
+      "url" : "https:\/\/t.co\/VbTYmHlpIk",
+      "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/C_wrHBBXkAAaqIw.jpg",
+      "id_str" : "863612628081545216",
+      "id" : 863612628081545216,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/C_wrHBBXkAAaqIw.jpg",
+      "sizes" : [ {
+        "h" : 186,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 262,
+        "resize" : "fit",
+        "w" : 480
+      }, {
+        "h" : 262,
+        "resize" : "fit",
+        "w" : 480
+      }, {
+        "h" : 262,
+        "resize" : "fit",
+        "w" : 480
+      } ],
+      "display_url" : "pic.twitter.com\/VbTYmHlpIk"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "863576251046518784",
+  "geo" : { },
+  "id_str" : "863612642421768193",
+  "in_reply_to_user_id" : 3146769570,
+  "text" : "@pixelnull  https:\/\/t.co\/VbTYmHlpIk",
+  "id" : 863612642421768193,
+  "in_reply_to_status_id" : 863576251046518784,
+  "created_at" : "2017-05-14 04:31:13 +0000",
+  "in_reply_to_screen_name" : "pixelnull",
+  "in_reply_to_user_id_str" : "3146769570",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/863574264380878848\/photo\/1",
+      "indices" : [ 5, 28 ],
+      "url" : "https:\/\/t.co\/e7rJ4TW1uC",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C_wINX4UMAAnkqO.jpg",
+      "id_str" : "863574254389833728",
+      "id" : 863574254389833728,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C_wINX4UMAAnkqO.jpg",
+      "sizes" : [ {
+        "h" : 128,
+        "resize" : "fit",
+        "w" : 534
+      }, {
+        "h" : 128,
+        "resize" : "crop",
+        "w" : 128
+      }, {
+        "h" : 128,
+        "resize" : "fit",
+        "w" : 534
+      }, {
+        "h" : 128,
+        "resize" : "fit",
+        "w" : 534
+      }, {
+        "h" : 128,
+        "resize" : "fit",
+        "w" : 534
+      } ],
+      "display_url" : "pic.twitter.com\/e7rJ4TW1uC"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "863574264380878848",
+  "text" : "pass https:\/\/t.co\/e7rJ4TW1uC",
+  "id" : 863574264380878848,
+  "created_at" : "2017-05-14 01:58:43 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "863572380207153153",
+  "geo" : { },
+  "id_str" : "863573119730167809",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "I'll give you a hint, he's famous right now.\nUm... I don't know... David Bowie?\n&lt;things get awkward&gt;",
+  "id" : 863573119730167809,
+  "in_reply_to_status_id" : 863572380207153153,
+  "created_at" : "2017-05-14 01:54:10 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "863571703867351044",
+  "geo" : { },
+  "id_str" : "863572380207153153",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "It's 1986 how would I know? The VP's drunk son, a black guy with a weird name... Phil Donahue? Oh, is it a woman?\n&lt;squirming in excitement&gt;",
+  "id" : 863572380207153153,
+  "in_reply_to_status_id" : 863571703867351044,
+  "created_at" : "2017-05-14 01:51:14 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "863571033458171904",
+  "geo" : { },
+  "id_str" : "863571703867351044",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "Guess who's president?\nIs it still the black guy with the muslim name you told us about last time?\nNo, we got a new one - c'mon guess!",
+  "id" : 863571703867351044,
+  "in_reply_to_status_id" : 863571033458171904,
+  "created_at" : "2017-05-14 01:48:33 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "863571033458171904",
+  "text" : "I used to want time travel to go into the future and blow my mind but now I want to go to the past and blow minds with how fucked up we are",
+  "id" : 863571033458171904,
+  "created_at" : "2017-05-14 01:45:53 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "863567559668453377",
+  "geo" : { },
+  "id_str" : "863568971244740608",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "Nobody knew how complicated the presidency of a barely literate tv host with a personality disorder could be",
+  "id" : 863568971244740608,
+  "in_reply_to_status_id" : 863567559668453377,
+  "created_at" : "2017-05-14 01:37:41 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "863567559668453377",
+  "geo" : { },
+  "id_str" : "863568406313918464",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "We really should've thought this through, y'know \u00AF\\_(\u30C4)_\/\u00AF",
+  "id" : 863568406313918464,
+  "in_reply_to_status_id" : 863567559668453377,
+  "created_at" : "2017-05-14 01:35:27 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "863567559668453377",
+  "text" : "I kinda feel like this whole electing Trump president thing may have been a mistake",
+  "id" : 863567559668453377,
+  "created_at" : "2017-05-14 01:32:05 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "863562124420947969",
+  "text" : "The XP stands for extra patches",
+  "id" : 863562124420947969,
+  "created_at" : "2017-05-14 01:10:29 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "863561860045582336",
+  "text" : "We want to give people more choices in healthcare, like whether to have any or not",
+  "id" : 863561860045582336,
+  "created_at" : "2017-05-14 01:09:26 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 15, 38 ],
+      "url" : "https:\/\/t.co\/qzupcyr7nd",
+      "expanded_url" : "https:\/\/twitter.com\/blowdart\/status\/863364192316735488",
+      "display_url" : "twitter.com\/blowdart\/statu\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "863559972776529920",
+  "text" : "RMS is all ikr https:\/\/t.co\/qzupcyr7nd",
+  "id" : 863559972776529920,
+  "created_at" : "2017-05-14 01:01:56 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "863549855733616640",
+  "text" : "A millennial is anyone younger than me that I don't like",
+  "id" : 863549855733616640,
+  "created_at" : "2017-05-14 00:21:44 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/863535772900765696\/photo\/1",
+      "indices" : [ 11, 34 ],
+      "url" : "https:\/\/t.co\/6ahSMC6wQk",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C_vlMDYVYAMLm6_.jpg",
+      "id_str" : "863535748800143363",
+      "id" : 863535748800143363,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C_vlMDYVYAMLm6_.jpg",
+      "sizes" : [ {
+        "h" : 584,
+        "resize" : "fit",
+        "w" : 1082
+      }, {
+        "h" : 367,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 584,
+        "resize" : "fit",
+        "w" : 1082
+      }, {
+        "h" : 584,
+        "resize" : "fit",
+        "w" : 1082
+      } ],
+      "display_url" : "pic.twitter.com\/6ahSMC6wQk"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "863535772900765696",
+  "text" : "Ransomware https:\/\/t.co\/6ahSMC6wQk",
+  "id" : 863535772900765696,
+  "created_at" : "2017-05-13 23:25:46 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Kate Brew",
+      "screen_name" : "securitybrew",
+      "indices" : [ 0, 13 ],
+      "id_str" : "83656341",
+      "id" : 83656341
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "863525922875613185",
+  "geo" : { },
+  "id_str" : "863531354407022592",
+  "in_reply_to_user_id" : 83656341,
+  "text" : "@securitybrew this was a comment on people that (for example) say things like \"Why is the ACLU helping muslims instead of AMERICANS?\"",
+  "id" : 863531354407022592,
+  "in_reply_to_status_id" : 863525922875613185,
+  "created_at" : "2017-05-13 23:08:13 +0000",
+  "in_reply_to_screen_name" : "securitybrew",
+  "in_reply_to_user_id_str" : "83656341",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "863518352916062208",
+  "text" : "AMERICAN in all caps means white, generally",
+  "id" : 863518352916062208,
+  "created_at" : "2017-05-13 22:16:33 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "David Pope",
+      "screen_name" : "davpope",
+      "indices" : [ 0, 8 ],
+      "id_str" : "246532728",
+      "id" : 246532728
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "863475540061175808",
+  "geo" : { },
+  "id_str" : "863487146375741440",
+  "in_reply_to_user_id" : 246532728,
+  "text" : "@davpope Extreme southern europe represent",
+  "id" : 863487146375741440,
+  "in_reply_to_status_id" : 863475540061175808,
+  "created_at" : "2017-05-13 20:12:33 +0000",
+  "in_reply_to_screen_name" : "davpope",
+  "in_reply_to_user_id_str" : "246532728",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "863486794435887104",
+  "text" : "Jokes on you, none of my files are important",
+  "id" : 863486794435887104,
+  "created_at" : "2017-05-13 20:11:09 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Bearded Stoner",
+      "screen_name" : "beardedstoner",
+      "indices" : [ 3, 17 ],
+      "id_str" : "232863368",
+      "id" : 232863368
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "863225632548933632",
+  "text" : "RT @beardedstoner: Swerve: Special Prosecutor Hillary Rodham Clinton.",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "863224036486197248",
+    "text" : "Swerve: Special Prosecutor Hillary Rodham Clinton.",
+    "id" : 863224036486197248,
+    "created_at" : "2017-05-13 02:47:02 +0000",
+    "user" : {
+      "name" : "Bearded Stoner",
+      "screen_name" : "beardedstoner",
+      "protected" : false,
+      "id_str" : "232863368",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/822487490913325056\/ibee8D33_normal.jpg",
+      "id" : 232863368,
+      "verified" : false
+    }
+  },
+  "id" : 863225632548933632,
+  "created_at" : "2017-05-13 02:53:23 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "863221660572319744",
+  "text" : "It's fun to make jokes about countries you know nothing about. I'm doing a series on Ethiopia and Eritrea next without even wikipeding it",
+  "id" : 863221660572319744,
+  "created_at" : "2017-05-13 02:37:36 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\uD83E\uDD87synthwave\uD83E\uDD87",
+      "screen_name" : "robatics",
+      "indices" : [ 0, 9 ],
+      "id_str" : "4675949262",
+      "id" : 4675949262
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "863220113817747457",
+  "geo" : { },
+  "id_str" : "863221115111518208",
+  "in_reply_to_user_id" : 4675949262,
+  "text" : "@robatics get new colleagues before the demo deadline",
+  "id" : 863221115111518208,
+  "in_reply_to_status_id" : 863220113817747457,
+  "created_at" : "2017-05-13 02:35:26 +0000",
+  "in_reply_to_screen_name" : "robatics",
+  "in_reply_to_user_id_str" : "4675949262",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\uD83E\uDD87synthwave\uD83E\uDD87",
+      "screen_name" : "robatics",
+      "indices" : [ 0, 9 ],
+      "id_str" : "4675949262",
+      "id" : 4675949262
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "863217882611671040",
+  "geo" : { },
+  "id_str" : "863219279923224576",
+  "in_reply_to_user_id" : 4675949262,
+  "text" : "@robatics You're going to have to purposely infect yourself with imposter syndrome",
+  "id" : 863219279923224576,
+  "in_reply_to_status_id" : 863217882611671040,
+  "created_at" : "2017-05-13 02:28:08 +0000",
+  "in_reply_to_screen_name" : "robatics",
+  "in_reply_to_user_id_str" : "4675949262",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "863217668752646145",
+  "geo" : { },
+  "id_str" : "863218881237843968",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "\uD83C\uDDEC\uD83C\uDDE7 I'm going to do the colony thing again, but totally alone on the bottom of the world\n\uD83C\uDDE9\uD83C\uDDEA That's so mean\n\uD83C\uDDEC\uD83C\uDDE7 ok, we'll give them a buddy \uD83C\uDDF3\uD83C\uDDFF",
+  "id" : 863218881237843968,
+  "in_reply_to_status_id" : 863217668752646145,
+  "created_at" : "2017-05-13 02:26:33 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "863217668752646145",
+  "text" : "Australia is what you get when you grow an America in isolation",
+  "id" : 863217668752646145,
+  "created_at" : "2017-05-13 02:21:44 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "863216886569467904",
+  "text" : "I don't really know much about australia because I'm an american and I don't have to",
+  "id" : 863216886569467904,
+  "created_at" : "2017-05-13 02:18:38 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "863216251967086594",
+  "text" : "Australians say \"matey\" right? Are you supposed to call them Aussies or is that \"their word?\"",
+  "id" : 863216251967086594,
+  "created_at" : "2017-05-13 02:16:06 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "863215249788456960",
+  "text" : "I'm going to stay up late and argue with Australians",
+  "id" : 863215249788456960,
+  "created_at" : "2017-05-13 02:12:07 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Michaela C",
+      "screen_name" : "FiveFrogsBlog",
+      "indices" : [ 0, 14 ],
+      "id_str" : "42333940",
+      "id" : 42333940
+    }, {
+      "name" : "Asher Wolf",
+      "screen_name" : "Asher_Wolf",
+      "indices" : [ 15, 26 ],
+      "id_str" : "15486485",
+      "id" : 15486485
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/863213975156264960\/photo\/1",
+      "indices" : [ 66, 89 ],
+      "url" : "https:\/\/t.co\/yzErN9HgZ2",
+      "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/C_rAgHhUMAAt0nB.jpg",
+      "id_str" : "863213936602001408",
+      "id" : 863213936602001408,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/C_rAgHhUMAAt0nB.jpg",
+      "sizes" : [ {
+        "h" : 224,
+        "resize" : "fit",
+        "w" : 400
+      }, {
+        "h" : 224,
+        "resize" : "fit",
+        "w" : 400
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 190,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 224,
+        "resize" : "fit",
+        "w" : 400
+      } ],
+      "display_url" : "pic.twitter.com\/yzErN9HgZ2"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "863213058713202688",
+  "geo" : { },
+  "id_str" : "863213975156264960",
+  "in_reply_to_user_id" : 42333940,
+  "text" : "@FiveFrogsBlog @Asher_Wolf I think you're thinking of this, matey https:\/\/t.co\/yzErN9HgZ2",
+  "id" : 863213975156264960,
+  "in_reply_to_status_id" : 863213058713202688,
+  "created_at" : "2017-05-13 02:07:04 +0000",
+  "in_reply_to_screen_name" : "FiveFrogsBlog",
+  "in_reply_to_user_id_str" : "42333940",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "863213469214035968",
+  "text" : "Lawyer: The only connections to Russia in Trump's portfolio are the ones you already know about and a vague basket of plausible deniability",
+  "id" : 863213469214035968,
+  "created_at" : "2017-05-13 02:05:03 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "863211181753995264",
+  "text" : "I have really high self esteem for such an unmitigated disaster",
+  "id" : 863211181753995264,
+  "created_at" : "2017-05-13 01:55:58 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Michaela C",
+      "screen_name" : "FiveFrogsBlog",
+      "indices" : [ 0, 14 ],
+      "id_str" : "42333940",
+      "id" : 42333940
+    }, {
+      "name" : "Asher Wolf",
+      "screen_name" : "Asher_Wolf",
+      "indices" : [ 15, 26 ],
+      "id_str" : "15486485",
+      "id" : 15486485
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "863205629078282241",
+  "geo" : { },
+  "id_str" : "863210607331471361",
+  "in_reply_to_user_id" : 42333940,
+  "text" : "@FiveFrogsBlog @Asher_Wolf That's not a knife",
+  "id" : 863210607331471361,
+  "in_reply_to_status_id" : 863205629078282241,
+  "created_at" : "2017-05-13 01:53:41 +0000",
+  "in_reply_to_screen_name" : "FiveFrogsBlog",
+  "in_reply_to_user_id_str" : "42333940",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "863210390490054656",
+  "text" : "Trump is like Mr. Smith Goes To Washington but actually learns a lot about complicated issues and how little value grandstanding produces",
+  "id" : 863210390490054656,
+  "created_at" : "2017-05-13 01:52:49 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "MalwareTech",
+      "screen_name" : "MalwareTechBlog",
+      "indices" : [ 3, 19 ],
+      "id_str" : "1540951016",
+      "id" : 1540951016
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "863199580858589184",
+  "text" : "RT @MalwareTechBlog: I will confess that I was unaware registering the domain would stop the malware until after i registered it, so initia\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "863187104716685312",
+    "text" : "I will confess that I was unaware registering the domain would stop the malware until after i registered it, so initially it was accidental.",
+    "id" : 863187104716685312,
+    "created_at" : "2017-05-13 00:20:17 +0000",
+    "user" : {
+      "name" : "MalwareTech",
+      "screen_name" : "MalwareTechBlog",
+      "protected" : false,
+      "id_str" : "1540951016",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/815853993725411328\/i5sWZGEr_normal.jpg",
+      "id" : 1540951016,
+      "verified" : true
+    }
+  },
+  "id" : 863199580858589184,
+  "created_at" : "2017-05-13 01:09:52 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "863199092385730560",
+  "text" : "I'm going to stay up real late and argue with australians",
+  "id" : 863199092385730560,
+  "created_at" : "2017-05-13 01:07:55 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/863196266582429696\/photo\/1",
+      "indices" : [ 20, 43 ],
+      "url" : "https:\/\/t.co\/t8BLLvlATH",
+      "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/C_qwWBQUAAAPlgU.jpg",
+      "id_str" : "863196170935336960",
+      "id" : 863196170935336960,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/C_qwWBQUAAAPlgU.jpg",
+      "sizes" : [ {
+        "h" : 482,
+        "resize" : "fit",
+        "w" : 590
+      }, {
+        "h" : 482,
+        "resize" : "fit",
+        "w" : 590
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 482,
+        "resize" : "fit",
+        "w" : 590
+      }, {
+        "h" : 278,
+        "resize" : "fit",
+        "w" : 340
+      } ],
+      "display_url" : "pic.twitter.com\/t8BLLvlATH"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "863196266582429696",
+  "text" : "I tripped a keyword https:\/\/t.co\/t8BLLvlATH",
+  "id" : 863196266582429696,
+  "created_at" : "2017-05-13 00:56:42 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "863194488440860672",
+  "text" : "If your most popular profile pic is of you and someone else, you just let an algorithm call you ugly",
+  "id" : 863194488440860672,
+  "created_at" : "2017-05-13 00:49:38 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 51, 74 ],
+      "url" : "https:\/\/t.co\/pBs64LzR7O",
+      "expanded_url" : "https:\/\/twitter.com\/SwiftOnSecurity\/status\/863176317499576320",
+      "display_url" : "twitter.com\/SwiftOnSecurit\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "863188608508981248",
+  "text" : "The invisible fingerless gloved hand of the market https:\/\/t.co\/pBs64LzR7O",
+  "id" : 863188608508981248,
+  "created_at" : "2017-05-13 00:26:16 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "863157484164395009",
+  "text" : "\uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDCBB: I saw you have some great nodejs skills!\n\uD83D\uDE46\uD83C\uDFFD\u200D\u2642\uFE0F: ...\n\uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDCBB: ...on github?\n\uD83D\uDE46\uD83C\uDFFD\u200D\u2642\uFE0F: Are you talking about the repos I've forked?",
+  "id" : 863157484164395009,
+  "created_at" : "2017-05-12 22:22:35 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Me llamo Tortuga.",
+      "screen_name" : "schertt",
+      "indices" : [ 0, 8 ],
+      "id_str" : "485508547",
+      "id" : 485508547
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "863108519008100352",
+  "geo" : { },
+  "id_str" : "863110884150960129",
+  "in_reply_to_user_id" : 485508547,
+  "text" : "@schertt Red handkerchief in your left back pocket",
+  "id" : 863110884150960129,
+  "in_reply_to_status_id" : 863108519008100352,
+  "created_at" : "2017-05-12 19:17:25 +0000",
+  "in_reply_to_screen_name" : "schertt",
+  "in_reply_to_user_id_str" : "485508547",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 48, 71 ],
+      "url" : "https:\/\/t.co\/zUFXV4QyQS",
+      "expanded_url" : "https:\/\/twitter.com\/michaelossmann\/status\/863094838849187840",
+      "display_url" : "twitter.com\/michaelossmann\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "863107440019210240",
+  "text" : "Boss asks where did you get that blue bracelet? https:\/\/t.co\/zUFXV4QyQS",
+  "id" : 863107440019210240,
+  "created_at" : "2017-05-12 19:03:44 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "863104842474115072",
+  "geo" : { },
+  "id_str" : "863106993355206656",
+  "in_reply_to_user_id" : 773009000,
+  "text" : "To top it all off, a celebrity in their late sixties is going to die, probably",
+  "id" : 863106993355206656,
+  "in_reply_to_status_id" : 863104842474115072,
+  "created_at" : "2017-05-12 19:01:57 +0000",
+  "in_reply_to_screen_name" : "GonzoHacker",
+  "in_reply_to_user_id_str" : "773009000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Ian Bowers",
+      "screen_name" : "iggdawg",
+      "indices" : [ 0, 8 ],
+      "id_str" : "27629899",
+      "id" : 27629899
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "863105241511849985",
+  "geo" : { },
+  "id_str" : "863105906967543810",
+  "in_reply_to_user_id" : 27629899,
+  "text" : "@iggdawg Just you wait",
+  "id" : 863105906967543810,
+  "in_reply_to_status_id" : 863105241511849985,
+  "created_at" : "2017-05-12 18:57:38 +0000",
+  "in_reply_to_screen_name" : "iggdawg",
+  "in_reply_to_user_id_str" : "27629899",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/863105678050807808\/photo\/1",
+      "indices" : [ 20, 43 ],
+      "url" : "https:\/\/t.co\/EFSevDFG8J",
+      "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/C_peB6-UQAAFmM3.jpg",
+      "id_str" : "863105665698381824",
+      "id" : 863105665698381824,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/C_peB6-UQAAFmM3.jpg",
+      "sizes" : [ {
+        "h" : 210,
+        "resize" : "fit",
+        "w" : 498
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 210,
+        "resize" : "fit",
+        "w" : 498
+      }, {
+        "h" : 143,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 210,
+        "resize" : "fit",
+        "w" : 498
+      } ],
+      "display_url" : "pic.twitter.com\/EFSevDFG8J"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "863105678050807808",
+  "text" : "Ransomware just got https:\/\/t.co\/EFSevDFG8J",
+  "id" : 863105678050807808,
+  "created_at" : "2017-05-12 18:56:44 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "863104842474115072",
+  "text" : "I've heard rumors that something is going to happen today. it could be big.",
+  "id" : 863104842474115072,
+  "created_at" : "2017-05-12 18:53:24 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "863066720843567107",
+  "text" : "Nothing in the ledger is labeled \"Russian bribe\" so we're good here",
+  "id" : 863066720843567107,
+  "created_at" : "2017-05-12 16:21:55 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/863048484311756804\/photo\/1",
+      "indices" : [ 17, 40 ],
+      "url" : "https:\/\/t.co\/RHID2VZZfU",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C_oqBEYUQAAiyoH.jpg",
+      "id_str" : "863048476438839296",
+      "id" : 863048476438839296,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C_oqBEYUQAAiyoH.jpg",
+      "sizes" : [ {
+        "h" : 172,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 200,
+        "resize" : "fit",
+        "w" : 1396
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 200,
+        "resize" : "fit",
+        "w" : 1396
+      }, {
+        "h" : 97,
+        "resize" : "fit",
+        "w" : 680
+      } ],
+      "display_url" : "pic.twitter.com\/RHID2VZZfU"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "863048484311756804",
+  "text" : "What year is it? https:\/\/t.co\/RHID2VZZfU",
+  "id" : 863048484311756804,
+  "created_at" : "2017-05-12 15:09:27 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "This Is Not Normal",
+      "screen_name" : "NetworkJunkyz",
+      "indices" : [ 3, 17 ],
+      "id_str" : "489023231",
+      "id" : 489023231
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "863046038193569796",
+  "text" : "RT @NetworkJunkyz: This was the biggest under-reported Trump\/Russia story yesterday. This former FBI agent makes a devastating case against\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/NetworkJunkyz\/status\/847820472016404480\/video\/1",
+        "indices" : [ 135, 158 ],
+        "url" : "https:\/\/t.co\/XloJT55klO",
+        "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/847819742098341888\/pu\/img\/GXcDDZk_y1gcNWCp.jpg",
+        "id_str" : "847819742098341888",
+        "id" : 847819742098341888,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/847819742098341888\/pu\/img\/GXcDDZk_y1gcNWCp.jpg",
+        "sizes" : [ {
+          "h" : 316,
+          "resize" : "fit",
+          "w" : 600
+        }, {
+          "h" : 0,
+          "resize" : "fit",
+          "w" : 0
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 179,
+          "resize" : "fit",
+          "w" : 340
+        }, {
+          "h" : 432,
+          "resize" : "fit",
+          "w" : 820
+        } ],
+        "display_url" : "pic.twitter.com\/XloJT55klO"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "847820472016404480",
+    "text" : "This was the biggest under-reported Trump\/Russia story yesterday. This former FBI agent makes a devastating case against Trump as CIC. https:\/\/t.co\/XloJT55klO",
+    "id" : 847820472016404480,
+    "created_at" : "2017-03-31 14:38:46 +0000",
+    "user" : {
+      "name" : "This Is Not Normal",
+      "screen_name" : "NetworkJunkyz",
+      "protected" : false,
+      "id_str" : "489023231",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/867845789552455681\/4yORxnOI_normal.jpg",
+      "id" : 489023231,
+      "verified" : false
+    }
+  },
+  "id" : 863046038193569796,
+  "created_at" : "2017-05-12 14:59:44 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "863044737237999617",
+  "text" : "If I can make a request - can Jeff Sessions be the first one sent to prison?",
+  "id" : 863044737237999617,
+  "created_at" : "2017-05-12 14:54:34 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "863027050369699841",
+  "text" : "Donald Trump better hope there are no \"copies\" of his tax returns before he starts running his mouth",
+  "id" : 863027050369699841,
+  "created_at" : "2017-05-12 13:44:17 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "862829528263131137",
+  "text" : "How much would you pay for access to our crossword online?",
+  "id" : 862829528263131137,
+  "created_at" : "2017-05-12 00:39:24 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "862822971223789570",
+  "text" : "Arguing with someone online is like wrestling a pig. You both get dirty and the pig might kill you.",
+  "id" : 862822971223789570,
+  "created_at" : "2017-05-12 00:13:21 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "862821677620768774",
+  "text" : "Trump is aware that he is Trump, right?",
+  "id" : 862821677620768774,
+  "created_at" : "2017-05-12 00:08:13 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/862805858740314112\/photo\/1",
+      "indices" : [ 2, 25 ],
+      "url" : "https:\/\/t.co\/ORSIXMTAUM",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C_lNN6VUIAAKvIk.jpg",
+      "id_str" : "862805705010454528",
+      "id" : 862805705010454528,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C_lNN6VUIAAKvIk.jpg",
+      "sizes" : [ {
+        "h" : 198,
+        "resize" : "fit",
+        "w" : 792
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 198,
+        "resize" : "fit",
+        "w" : 792
+      }, {
+        "h" : 198,
+        "resize" : "fit",
+        "w" : 792
+      }, {
+        "h" : 170,
+        "resize" : "fit",
+        "w" : 680
+      } ],
+      "display_url" : "pic.twitter.com\/ORSIXMTAUM"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "862805858740314112",
+  "text" : "\uD83D\uDE36 https:\/\/t.co\/ORSIXMTAUM",
+  "id" : 862805858740314112,
+  "created_at" : "2017-05-11 23:05:21 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "862801079389614080",
+  "text" : "This quoted tweet is unbelievable.",
+  "id" : 862801079389614080,
+  "created_at" : "2017-05-11 22:46:22 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "862781927610339330",
+  "text" : "In Soviet Russia, sleeve laughs up you",
+  "id" : 862781927610339330,
+  "created_at" : "2017-05-11 21:30:15 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "862699391043481600",
+  "text" : "Intermittently Serverless App",
+  "id" : 862699391043481600,
+  "created_at" : "2017-05-11 16:02:17 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/862689309496946688\/photo\/1",
+      "indices" : [ 28, 51 ],
+      "url" : "https:\/\/t.co\/FZAPHfSTSz",
+      "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/C_jjOeJV0AEQPVO.jpg",
+      "id_str" : "862689166391365633",
+      "id" : 862689166391365633,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/C_jjOeJV0AEQPVO.jpg",
+      "sizes" : [ {
+        "h" : 404,
+        "resize" : "fit",
+        "w" : 720
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 191,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 404,
+        "resize" : "fit",
+        "w" : 720
+      }, {
+        "h" : 337,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/FZAPHfSTSz"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "862689309496946688",
+  "text" : "Logging into Mastodon again https:\/\/t.co\/FZAPHfSTSz",
+  "id" : 862689309496946688,
+  "created_at" : "2017-05-11 15:22:14 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/GonzoHacker\/status\/862682702948040704\/photo\/1",
+      "indices" : [ 73, 96 ],
+      "url" : "https:\/\/t.co\/02lvgz7Adt",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C_jdUvzUQAAUbrH.jpg",
+      "id_str" : "862682677140275200",
+      "id" : 862682677140275200,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C_jdUvzUQAAUbrH.jpg",
+      "sizes" : [ {
+        "h" : 534,
+        "resize" : "fit",
+        "w" : 950
+      }, {
+        "h" : 382,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 534,
+        "resize" : "fit",
+        "w" : 950
+      }, {
+        "h" : 534,
+        "resize" : "fit",
+        "w" : 950
+      } ],
+      "display_url" : "pic.twitter.com\/02lvgz7Adt"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "862682702948040704",
+  "text" : "Trump's personal bodyguard delivers walking papers to FBI Director Comey https:\/\/t.co\/02lvgz7Adt",
+  "id" : 862682702948040704,
+  "created_at" : "2017-05-11 14:55:58 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "862672192575868928",
+  "text" : "Are you voting for the mean rich or nice rich?",
+  "id" : 862672192575868928,
+  "created_at" : "2017-05-11 14:14:13 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -809,7 +12558,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "bynex",
+      "name" : "hyper@localhost:~ $",
       "screen_name" : "_hyperlogic",
       "indices" : [ 0, 12 ],
       "id_str" : "1269339559",
@@ -827,7 +12576,7 @@ Grailbird.data.tweets_2017_05 =
       "id_str" : "207617689",
       "id" : 207617689
     }, {
-      "name" : "EternalPotato\uD83C\uDF31",
+      "name" : "Pubtato\uD83C\uDF31",
       "screen_name" : "da_667",
       "indices" : [ 38, 45 ],
       "id_str" : "717353881",
@@ -839,7 +12588,7 @@ Grailbird.data.tweets_2017_05 =
       "id_str" : "132061896",
       "id" : 132061896
     }, {
-      "name" : "Monitoringmensch",
+      "name" : "show me the code.",
       "screen_name" : "DoerteDev",
       "indices" : [ 57, 67 ],
       "id_str" : "112487498",
@@ -914,7 +12663,7 @@ Grailbird.data.tweets_2017_05 =
       "id_str" : "2269701",
       "id" : 2269701
     }, {
-      "name" : "Monitoringmensch",
+      "name" : "show me the code.",
       "screen_name" : "DoerteDev",
       "indices" : [ 41, 51 ],
       "id_str" : "112487498",
@@ -926,7 +12675,7 @@ Grailbird.data.tweets_2017_05 =
       "id_str" : "8513352",
       "id" : 8513352
     }, {
-      "name" : "EternalPotato\uD83C\uDF31",
+      "name" : "Pubtato\uD83C\uDF31",
       "screen_name" : "da_667",
       "indices" : [ 59, 66 ],
       "id_str" : "717353881",
@@ -2656,7 +14405,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "endrift",
+      "name" : "endrift \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "endrift",
       "indices" : [ 3, 11 ],
       "id_str" : "333125785",
@@ -2743,7 +14492,7 @@ Grailbird.data.tweets_2017_05 =
     "id" : 861135580092022784,
     "created_at" : "2017-05-07 08:28:16 +0000",
     "user" : {
-      "name" : "endrift",
+      "name" : "endrift \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "endrift",
       "protected" : false,
       "id_str" : "333125785",
@@ -2767,7 +14516,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "endrift",
+      "name" : "endrift \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "endrift",
       "indices" : [ 0, 8 ],
       "id_str" : "333125785",
@@ -3239,7 +14988,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chris Martin \uD83D\uDC18\uD83C\uDFBA\uD83C\uDF4D",
+      "name" : "Chris Martin",
       "screen_name" : "chris__martin",
       "indices" : [ 0, 14 ],
       "id_str" : "18271443",
@@ -3393,7 +15142,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "midnightslacker",
+      "name" : "0xHUNT",
       "screen_name" : "midnightslacker",
       "indices" : [ 0, 16 ],
       "id_str" : "49770785",
@@ -5793,7 +17542,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Greg \u2199\u0335\u0327\u0317\u2199\u0358\u034F\u033A\u2199\u035F\u0340\u031E\u0339\u0320\u031C",
+      "name" : "HRH Greg of ACAB",
       "screen_name" : "Greg_Sideyr",
       "indices" : [ 0, 12 ],
       "id_str" : "2621110917",

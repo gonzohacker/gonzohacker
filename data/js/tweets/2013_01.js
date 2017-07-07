@@ -2985,7 +2985,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u00D8lvaro Videla",
+      "name" : "Alvaro Videla",
       "screen_name" : "old_sound",
       "indices" : [ 3, 13 ],
       "id_str" : "16484216",
@@ -3012,7 +3012,7 @@ Grailbird.data.tweets_2013_01 =
     "id" : 293384887661113345,
     "created_at" : "2013-01-21 15:49:42 +0000",
     "user" : {
-      "name" : "\u00D8lvaro Videla",
+      "name" : "Alvaro Videla",
       "screen_name" : "old_sound",
       "protected" : false,
       "id_str" : "16484216",
@@ -3937,7 +3937,7 @@ Grailbird.data.tweets_2013_01 =
     "user" : {
       "name" : "Dylan Copeland",
       "screen_name" : "dylancopeland",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "16609148",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/792542335997321216\/4rgFxLhk_normal.jpg",
       "id" : 16609148,
@@ -4658,7 +4658,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Peter Fisher \uD83C\uDF32",
+      "name" : "Peter Fisher \uD83D\uDD4A",
       "screen_name" : "peterfisher",
       "indices" : [ 3, 15 ],
       "id_str" : "23723768",
@@ -4702,7 +4702,7 @@ Grailbird.data.tweets_2013_01 =
     "in_reply_to_screen_name" : "GonzoHacker",
     "in_reply_to_user_id_str" : "773009000",
     "user" : {
-      "name" : "Peter Fisher \uD83C\uDF32",
+      "name" : "Peter Fisher \uD83D\uDD4A",
       "screen_name" : "peterfisher",
       "protected" : false,
       "id_str" : "23723768",
@@ -4726,7 +4726,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Peter Fisher \uD83C\uDF32",
+      "name" : "Peter Fisher \uD83D\uDD4A",
       "screen_name" : "peterfisher",
       "indices" : [ 0, 12 ],
       "id_str" : "23723768",
@@ -5713,7 +5713,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2728Brandon Burton",
+      "name" : "Brandon Burton",
       "screen_name" : "solarce",
       "indices" : [ 3, 11 ],
       "id_str" : "822284",
@@ -5740,7 +5740,7 @@ Grailbird.data.tweets_2013_01 =
     "id" : 289176069288902657,
     "created_at" : "2013-01-10 01:05:22 +0000",
     "user" : {
-      "name" : "\u2728Brandon Burton",
+      "name" : "Brandon Burton",
       "screen_name" : "solarce",
       "protected" : false,
       "id_str" : "822284",
@@ -5895,27 +5895,16 @@ Grailbird.data.tweets_2013_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Ryan \uD83D\uDD4A",
-      "screen_name" : "rhdoe",
-      "indices" : [ 0, 6 ],
-      "id_str" : "68503509",
-      "id" : 68503509
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "289044738764595200",
   "geo" : { },
   "id_str" : "289045905582194688",
-  "in_reply_to_user_id" : 68503509,
   "text" : "@rhdoe Alright, i'm going to put you into list 'A'",
   "id" : 289045905582194688,
-  "in_reply_to_status_id" : 289044738764595200,
   "created_at" : "2013-01-09 16:28:08 +0000",
-  "in_reply_to_screen_name" : "rhdoe",
-  "in_reply_to_user_id_str" : "68503509",
   "user" : {
     "name" : "GonzoHacker",
     "screen_name" : "GonzoHacker",
@@ -6389,7 +6378,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Guillotine Grrrl",
+      "name" : "Lindsey \uD83D\uDC1D",
       "screen_name" : "lindseybieda",
       "indices" : [ 0, 13 ],
       "id_str" : "14928483",
@@ -6426,7 +6415,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Guillotine Grrrl",
+      "name" : "Lindsey \uD83D\uDC1D",
       "screen_name" : "lindseybieda",
       "indices" : [ 0, 13 ],
       "id_str" : "14928483",
@@ -6460,7 +6449,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Guillotine Grrrl",
+      "name" : "Lindsey \uD83D\uDC1D",
       "screen_name" : "lindseybieda",
       "indices" : [ 0, 13 ],
       "id_str" : "14928483",
