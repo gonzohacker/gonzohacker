@@ -101,10 +101,6 @@ Grailbird.data.tweets_2014_02 =
       "id" : 439125570123612160,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BhgWYSMCQAATdlv.png",
       "sizes" : [ {
-        "h" : 227,
-        "resize" : "fit",
-        "w" : 340
-      }, {
         "h" : 477,
         "resize" : "fit",
         "w" : 716
@@ -117,9 +113,13 @@ Grailbird.data.tweets_2014_02 =
         "resize" : "fit",
         "w" : 716
       }, {
-        "h" : 400,
+        "h" : 477,
         "resize" : "fit",
-        "w" : 600
+        "w" : 716
+      }, {
+        "h" : 453,
+        "resize" : "fit",
+        "w" : 680
       } ],
       "display_url" : "pic.twitter.com\/uHux3rK57f"
     } ],
@@ -148,10 +148,6 @@ Grailbird.data.tweets_2014_02 =
         "id" : 439125570123612160,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BhgWYSMCQAATdlv.png",
         "sizes" : [ {
-          "h" : 227,
-          "resize" : "fit",
-          "w" : 340
-        }, {
           "h" : 477,
           "resize" : "fit",
           "w" : 716
@@ -164,9 +160,13 @@ Grailbird.data.tweets_2014_02 =
           "resize" : "fit",
           "w" : 716
         }, {
-          "h" : 400,
+          "h" : 477,
           "resize" : "fit",
-          "w" : 600
+          "w" : 716
+        }, {
+          "h" : 453,
+          "resize" : "fit",
+          "w" : 680
         } ],
         "display_url" : "pic.twitter.com\/uHux3rK57f"
       } ],
@@ -497,6 +497,10 @@ Grailbird.data.tweets_2014_02 =
         "resize" : "fit",
         "w" : 400
       }, {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 360
+      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
@@ -508,10 +512,6 @@ Grailbird.data.tweets_2014_02 =
         "h" : 756,
         "resize" : "fit",
         "w" : 400
-      }, {
-        "h" : 643,
-        "resize" : "fit",
-        "w" : 340
       } ],
       "display_url" : "pic.twitter.com\/143rmQHJxO"
     } ],
@@ -972,7 +972,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "the under-juice",
+      "name" : "cyber enterprise oil",
       "screen_name" : "thwarted",
       "indices" : [ 0, 9 ],
       "id_str" : "14874283",
@@ -1049,7 +1049,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
+      "name" : "Bobtober  \uD83C\uDF83\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 3, 18 ],
       "id_str" : "121556767",
@@ -1079,7 +1079,7 @@ Grailbird.data.tweets_2014_02 =
     "id" : 433822066119172096,
     "created_at" : "2014-02-13 04:36:55 +0000",
     "user" : {
-      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
+      "name" : "Bobtober  \uD83C\uDF83\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "protected" : false,
       "id_str" : "121556767",
@@ -1136,7 +1136,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "fidget sinner",
+      "name" : "Benjamin W. Smith",
       "screen_name" : "benjaminws",
       "indices" : [ 3, 14 ],
       "id_str" : "14188391",
@@ -1180,11 +1180,11 @@ Grailbird.data.tweets_2014_02 =
     "in_reply_to_screen_name" : "GonzoHacker",
     "in_reply_to_user_id_str" : "773009000",
     "user" : {
-      "name" : "fidget sinner",
+      "name" : "Benjamin W. Smith",
       "screen_name" : "benjaminws",
       "protected" : false,
       "id_str" : "14188391",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/870458543727685633\/AYwDanEj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/911446002711875584\/ADLXgxcq_normal.jpg",
       "id" : 14188391,
       "verified" : false
     }

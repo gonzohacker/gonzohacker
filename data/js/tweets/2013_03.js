@@ -834,57 +834,6 @@ Grailbird.data.tweets_2013_03 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Moved to @kornelski",
-      "screen_name" : "pornelski",
-      "indices" : [ 3, 13 ],
-      "id_str" : "4794878195",
-      "id" : 4794878195
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "316230596508676096",
-  "text" : "RT @pornelski: They say git gets easier once you get the basic idea that branches are homeomorphic endofunctors mapping submanifolds of  ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "316190292443267073",
-    "text" : "They say git gets easier once you get the basic idea that branches are homeomorphic endofunctors mapping submanifolds of a Hilbert space.",
-    "id" : 316190292443267073,
-    "created_at" : "2013-03-25 14:10:14 +0000",
-    "user" : {
-      "name" : "Kornel",
-      "screen_name" : "kornelski",
-      "protected" : false,
-      "id_str" : "69655255",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2553871671\/ku8xb72ymmy184y5arv7_normal.jpeg",
-      "id" : 69655255,
-      "verified" : false
-    }
-  },
-  "id" : 316230596508676096,
-  "created_at" : "2013-03-25 16:50:24 +0000",
-  "user" : {
-    "name" : "GonzoHacker",
-    "screen_name" : "GonzoHacker",
-    "protected" : false,
-    "id_str" : "773009000",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
-    "id" : 773009000,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -1085,7 +1034,7 @@ Grailbird.data.tweets_2013_03 =
       "screen_name" : "sdether",
       "protected" : false,
       "id_str" : "15368536",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/498149328892862464\/nbyRRqgQ_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/909995405823418369\/0p0dn3VU_normal.jpg",
       "id" : 15368536,
       "verified" : false
     }
@@ -1251,7 +1200,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "saddest factory",
+      "name" : "cryptop gorely",
       "screen_name" : "excsc",
       "indices" : [ 0, 6 ],
       "id_str" : "290866455",
@@ -2978,7 +2927,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "bruce force",
+      "name" : "Bruce Force",
       "screen_name" : "BruceForce",
       "indices" : [ 0, 11 ],
       "id_str" : "1227129242",
@@ -3142,13 +3091,7 @@ Grailbird.data.tweets_2013_03 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Mr COOL",
-      "screen_name" : "performancefart",
-      "indices" : [ 0, 16 ],
-      "id_str" : "793728234466619392",
-      "id" : 793728234466619392
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4135,10 +4078,6 @@ Grailbird.data.tweets_2013_03 =
       "id" : 311496640953462787,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BFKoi2jCMAMBxNF.jpg",
       "sizes" : [ {
-        "h" : 452,
-        "resize" : "fit",
-        "w" : 340
-      }, {
         "h" : 665,
         "resize" : "fit",
         "w" : 500
@@ -4154,6 +4093,10 @@ Grailbird.data.tweets_2013_03 =
         "h" : 150,
         "resize" : "crop",
         "w" : 150
+      }, {
+        "h" : 665,
+        "resize" : "fit",
+        "w" : 500
       } ],
       "display_url" : "pic.twitter.com\/CvQOGBDo5G"
     } ],
@@ -5197,7 +5140,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jonah Lupton",
+      "name" : "Jonah Lupton \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "JonahLupton",
       "indices" : [ 61, 73 ],
       "id_str" : "14579415",
@@ -5450,7 +5393,7 @@ Grailbird.data.tweets_2013_03 =
       "screen_name" : "gdeer81",
       "protected" : false,
       "id_str" : "452602691",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/881651643007324162\/u5WM64Ri_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/900546919038156801\/YywezGXQ_normal.jpg",
       "id" : 452602691,
       "verified" : false
     }
@@ -5674,7 +5617,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "\u003Ca href=\"https:\/\/favstar.fm\" rel=\"nofollow\"\u003EFavstar.FM\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "strepto caucus",
+      "name" : "BOO-methazine \uD83D\uDC7B",
       "screen_name" : "bromethazine",
       "indices" : [ 3, 16 ],
       "id_str" : "579174404",
@@ -5701,11 +5644,11 @@ Grailbird.data.tweets_2013_03 =
     "id" : 310247161755467776,
     "created_at" : "2013-03-09 04:34:22 +0000",
     "user" : {
-      "name" : "strepto caucus",
+      "name" : "BOO-methazine \uD83D\uDC7B",
       "screen_name" : "bromethazine",
       "protected" : false,
       "id_str" : "579174404",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/881263675465662464\/TiFhrHpI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/904155712443387904\/ta5YiWcA_normal.jpg",
       "id" : 579174404,
       "verified" : false
     }
@@ -6296,7 +6239,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u26A1\uFE0Fgabr13l\u26A1\uFE0F",
+      "name" : "Gabriel Cardona",
       "screen_name" : "cgcardona",
       "indices" : [ 3, 13 ],
       "id_str" : "149370826",
@@ -6329,11 +6272,11 @@ Grailbird.data.tweets_2013_03 =
     "id" : 309351302687752193,
     "created_at" : "2013-03-06 17:14:32 +0000",
     "user" : {
-      "name" : "\u26A1\uFE0Fgabr13l\u26A1\uFE0F",
+      "name" : "Gabriel Cardona",
       "screen_name" : "cgcardona",
       "protected" : false,
       "id_str" : "149370826",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/866796005395771393\/xCC6Gx15_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/903670763466645504\/IlG-8yE7_normal.jpg",
       "id" : 149370826,
       "verified" : false
     }
@@ -6878,9 +6821,13 @@ Grailbird.data.tweets_2013_03 =
         "resize" : "fit",
         "w" : 612
       }, {
-        "h" : 340,
+        "h" : 612,
         "resize" : "fit",
-        "w" : 340
+        "w" : 612
+      }, {
+        "h" : 612,
+        "resize" : "fit",
+        "w" : 612
       }, {
         "h" : 150,
         "resize" : "crop",
@@ -6889,10 +6836,6 @@ Grailbird.data.tweets_2013_03 =
         "h" : 612,
         "resize" : "fit",
         "w" : 612
-      }, {
-        "h" : 600,
-        "resize" : "fit",
-        "w" : 600
       } ],
       "display_url" : "pic.twitter.com\/MKkO30CAXZ"
     } ],
@@ -7050,7 +6993,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Will Gallego",
+      "name" : "Wail Galleghoul",
       "screen_name" : "wcgallego",
       "indices" : [ 3, 13 ],
       "id_str" : "11800282",
@@ -7094,7 +7037,7 @@ Grailbird.data.tweets_2013_03 =
     "in_reply_to_screen_name" : "GonzoHacker",
     "in_reply_to_user_id_str" : "773009000",
     "user" : {
-      "name" : "Will Gallego",
+      "name" : "Wail Galleghoul",
       "screen_name" : "wcgallego",
       "protected" : false,
       "id_str" : "11800282",

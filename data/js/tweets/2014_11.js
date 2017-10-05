@@ -25,7 +25,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Austin Richardson \uD83C\uDF3A",
+      "name" : "Austin Richardson",
       "screen_name" : "heyaudy",
       "indices" : [ 0, 8 ],
       "id_str" : "14534523",
@@ -1442,7 +1442,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eric Wood \u1D47\u1D49\u1D57\u1D43",
+      "name" : "eric",
       "screen_name" : "eric_b_wood",
       "indices" : [ 0, 12 ],
       "id_str" : "110202631",
@@ -1704,7 +1704,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "nrose",
       "protected" : false,
       "id_str" : "926251",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/880228285594169345\/c7kOlVOR_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/909928910548115456\/pPT34K0E_normal.jpg",
       "id" : 926251,
       "verified" : false
     }
@@ -1724,7 +1724,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "J\u07F7vi",
+      "name" : "Javi",
       "screen_name" : "Javi",
       "indices" : [ 0, 5 ],
       "id_str" : "7213362",
@@ -1896,7 +1896,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u26A1\uFE0Fgabr13l\u26A1\uFE0F",
+      "name" : "Gabriel Cardona",
       "screen_name" : "cgcardona",
       "indices" : [ 0, 10 ],
       "id_str" : "149370826",

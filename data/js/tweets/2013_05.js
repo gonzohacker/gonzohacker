@@ -3,7 +3,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "d\u00EBw \uD83C\uDDEF\uD83C\uDDF5",
+      "name" : "d\u00EBw",
       "screen_name" : "dwaldron",
       "indices" : [ 45, 54 ],
       "id_str" : "11461352",
@@ -105,7 +105,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
+      "name" : "Bobtober  \uD83C\uDF83\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 0, 15 ],
       "id_str" : "121556767",
@@ -441,7 +441,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Open Carry Gamer",
+      "name" : "High Scare Level Man",
       "screen_name" : "MrPhetz",
       "indices" : [ 0, 8 ],
       "id_str" : "17795080",
@@ -641,7 +641,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Open Carry Gamer",
+      "name" : "High Scare Level Man",
       "screen_name" : "MrPhetz",
       "indices" : [ 0, 8 ],
       "id_str" : "17795080",
@@ -1198,7 +1198,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "jessitron",
       "protected" : false,
       "id_str" : "25103",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/728251919467057152\/Z2uk49Ww_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/893202935009615872\/ef-H8FtJ_normal.jpg",
       "id" : 25103,
       "verified" : false
     }
@@ -1658,7 +1658,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "triple thick",
+      "name" : "spooky jakes",
       "screen_name" : "theevocater",
       "indices" : [ 3, 15 ],
       "id_str" : "24105586",
@@ -1685,11 +1685,11 @@ Grailbird.data.tweets_2013_05 =
     "id" : 338779038296449024,
     "created_at" : "2013-05-26 22:09:51 +0000",
     "user" : {
-      "name" : "triple thick",
+      "name" : "spooky jakes",
       "screen_name" : "theevocater",
       "protected" : false,
       "id_str" : "24105586",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/882311558520504321\/fkNJ-krr_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/912398719668166656\/hvfDU4i3_normal.jpg",
       "id" : 24105586,
       "verified" : false
     }
@@ -2961,25 +2961,25 @@ Grailbird.data.tweets_2013_05 =
       "id" : 337372295666479106,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BK6WUMBCMAIQG5u.jpg",
       "sizes" : [ {
-        "h" : 255,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 450,
-        "resize" : "fit",
-        "w" : 600
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 768,
+        "h" : 1536,
         "resize" : "fit",
-        "w" : 1024
+        "w" : 2048
+      }, {
+        "h" : 900,
+        "resize" : "fit",
+        "w" : 1200
       }, {
         "h" : 1536,
         "resize" : "fit",
         "w" : 2048
+      }, {
+        "h" : 510,
+        "resize" : "fit",
+        "w" : 680
       } ],
       "display_url" : "pic.twitter.com\/qKVLwhadbX"
     } ],
@@ -3880,7 +3880,7 @@ Grailbird.data.tweets_2013_05 =
       "id_str" : "38026342",
       "id" : 38026342
     }, {
-      "name" : "left is best \u2122",
+      "name" : "shitpost muse",
       "screen_name" : "steveklabnik",
       "indices" : [ 12, 25 ],
       "id_str" : "22386062",
@@ -3913,7 +3913,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "left is best \u2122",
+      "name" : "shitpost muse",
       "screen_name" : "steveklabnik",
       "indices" : [ 0, 13 ],
       "id_str" : "22386062",
@@ -3977,7 +3977,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "jessicard",
       "protected" : false,
       "id_str" : "253464752",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/882754481577803776\/A1GCTPUh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/915502767032225793\/Ix8exMq-_normal.jpg",
       "id" : 253464752,
       "verified" : true
     }
@@ -4785,7 +4785,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "writewood",
       "protected" : false,
       "id_str" : "127097562",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/864374085769408513\/lZe-TOCx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/883832817502875649\/p-vC06nB_normal.jpg",
       "id" : 127097562,
       "verified" : false
     }
@@ -5138,7 +5138,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "salad bar ham cubes",
+      "name" : "vaporgrave",
       "screen_name" : "flangy",
       "indices" : [ 3, 10 ],
       "id_str" : "14209746",
@@ -5182,11 +5182,11 @@ Grailbird.data.tweets_2013_05 =
     "in_reply_to_screen_name" : "GonzoHacker",
     "in_reply_to_user_id_str" : "773009000",
     "user" : {
-      "name" : "salad bar ham cubes",
+      "name" : "vaporgrave",
       "screen_name" : "flangy",
       "protected" : false,
       "id_str" : "14209746",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/880847733732421632\/deBFzvuT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/913238906841186304\/6_lsGC46_normal.jpg",
       "id" : 14209746,
       "verified" : false
     }
@@ -6614,7 +6614,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ben Jackson",
+      "name" : "Boils Blackson",
       "screen_name" : "benjaminjackson",
       "indices" : [ 18, 34 ],
       "id_str" : "7938482",
@@ -7387,7 +7387,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jeshizaemon\u270A",
+      "name" : "jeshizaeMONSTER\uD83C\uDF83",
       "screen_name" : "jeshizaemon",
       "indices" : [ 0, 12 ],
       "id_str" : "9919252",
@@ -7763,7 +7763,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
+      "name" : "Bobtober  \uD83C\uDF83\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 36, 51 ],
       "id_str" : "121556767",
@@ -8995,7 +8995,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "fidget sinner",
+      "name" : "Benjamin W. Smith",
       "screen_name" : "benjaminws",
       "indices" : [ 3, 14 ],
       "id_str" : "14188391",
@@ -9039,11 +9039,11 @@ Grailbird.data.tweets_2013_05 =
     "in_reply_to_screen_name" : "old_sound",
     "in_reply_to_user_id_str" : "16484216",
     "user" : {
-      "name" : "fidget sinner",
+      "name" : "Benjamin W. Smith",
       "screen_name" : "benjaminws",
       "protected" : false,
       "id_str" : "14188391",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/870458543727685633\/AYwDanEj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/911446002711875584\/ADLXgxcq_normal.jpg",
       "id" : 14188391,
       "verified" : false
     }

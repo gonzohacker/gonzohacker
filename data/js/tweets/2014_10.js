@@ -735,7 +735,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "insomnomaniac \uD83D\uDCA4",
+      "name" : "insomnomnomaniac \uD83D\uDCA4",
       "screen_name" : "brrzap",
       "indices" : [ 0, 7 ],
       "id_str" : "265639666",
@@ -1567,7 +1567,7 @@ Grailbird.data.tweets_2014_10 =
       "id_str" : "6083342",
       "id" : 6083342
     }, {
-      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
+      "name" : "Bobtober  \uD83C\uDF83\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 9, 24 ],
       "id_str" : "121556767",
@@ -1600,7 +1600,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
+      "name" : "Bobtober  \uD83C\uDF83\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 0, 15 ],
       "id_str" : "121556767",
@@ -2063,7 +2063,7 @@ Grailbird.data.tweets_2014_10 =
   "id" : 519167513267957761,
   "in_reply_to_status_id" : 519162222959149056,
   "created_at" : "2014-10-06 16:49:15 +0000",
-  "in_reply_to_screen_name" : "Brown591Brown",
+  "in_reply_to_screen_name" : "Candy32Brown",
   "in_reply_to_user_id_str" : "2842510201",
   "user" : {
     "name" : "GonzoHacker",

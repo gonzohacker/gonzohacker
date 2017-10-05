@@ -119,7 +119,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
+      "name" : "Bobtober  \uD83C\uDF83\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 0, 15 ],
       "id_str" : "121556767",
@@ -152,7 +152,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
+      "name" : "Bobtober  \uD83C\uDF83\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 0, 15 ],
       "id_str" : "121556767",
@@ -185,7 +185,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
+      "name" : "Bobtober  \uD83C\uDF83\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 0, 15 ],
       "id_str" : "121556767",
@@ -218,7 +218,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
+      "name" : "Bobtober  \uD83C\uDF83\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 0, 15 ],
       "id_str" : "121556767",
@@ -251,7 +251,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
+      "name" : "Bobtober  \uD83C\uDF83\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 0, 15 ],
       "id_str" : "121556767",
@@ -284,7 +284,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
+      "name" : "Bobtober  \uD83C\uDF83\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 0, 15 ],
       "id_str" : "121556767",
@@ -322,7 +322,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
+      "name" : "Bobtober  \uD83C\uDF83\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 0, 15 ],
       "id_str" : "121556767",
@@ -355,7 +355,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
+      "name" : "Bobtober  \uD83C\uDF83\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 0, 15 ],
       "id_str" : "121556767",
@@ -694,17 +694,17 @@ Grailbird.data.tweets_2014_07 =
         "resize" : "fit",
         "w" : 784
       }, {
-        "h" : 210,
-        "resize" : "fit",
-        "w" : 600
-      }, {
         "h" : 275,
         "resize" : "fit",
         "w" : 784
       }, {
-        "h" : 119,
+        "h" : 239,
         "resize" : "fit",
-        "w" : 340
+        "w" : 680
+      }, {
+        "h" : 275,
+        "resize" : "fit",
+        "w" : 784
       } ],
       "display_url" : "pic.twitter.com\/vMJJ0l0AsL"
     } ],
@@ -1033,7 +1033,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
+      "name" : "Bobtober  \uD83C\uDF83\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 0, 15 ],
       "id_str" : "121556767",
@@ -1066,7 +1066,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
+      "name" : "Bobtober  \uD83C\uDF83\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 0, 15 ],
       "id_str" : "121556767",
@@ -1198,7 +1198,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Heavy Mover",
+      "name" : "Din of Inequity",
       "screen_name" : "neilscudder",
       "indices" : [ 0, 12 ],
       "id_str" : "11961412",
@@ -2300,7 +2300,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "dan",
+      "name" : "\uD83C\uDF83 dan-yell ghoulan \uD83C\uDF83",
       "screen_name" : "dannolan",
       "indices" : [ 3, 12 ],
       "id_str" : "971761",
@@ -2315,25 +2315,25 @@ Grailbird.data.tweets_2014_07 =
       "id" : 485261721498435585,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Brv-9vUCQAE-IQD.jpg",
       "sizes" : [ {
-        "h" : 385,
+        "h" : 996,
         "resize" : "fit",
-        "w" : 600
+        "w" : 1552
+      }, {
+        "h" : 436,
+        "resize" : "fit",
+        "w" : 680
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 218,
-        "resize" : "fit",
-        "w" : 340
-      }, {
         "h" : 996,
         "resize" : "fit",
         "w" : 1552
       }, {
-        "h" : 657,
+        "h" : 770,
         "resize" : "fit",
-        "w" : 1024
+        "w" : 1200
       } ],
       "display_url" : "pic.twitter.com\/KxsJUrTjjP"
     } ],
@@ -2356,25 +2356,25 @@ Grailbird.data.tweets_2014_07 =
         "id" : 485261721498435585,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Brv-9vUCQAE-IQD.jpg",
         "sizes" : [ {
-          "h" : 385,
+          "h" : 996,
           "resize" : "fit",
-          "w" : 600
+          "w" : 1552
+        }, {
+          "h" : 436,
+          "resize" : "fit",
+          "w" : 680
         }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
         }, {
-          "h" : 218,
-          "resize" : "fit",
-          "w" : 340
-        }, {
           "h" : 996,
           "resize" : "fit",
           "w" : 1552
         }, {
-          "h" : 657,
+          "h" : 770,
           "resize" : "fit",
-          "w" : 1024
+          "w" : 1200
         } ],
         "display_url" : "pic.twitter.com\/KxsJUrTjjP"
       } ],
@@ -2387,7 +2387,7 @@ Grailbird.data.tweets_2014_07 =
     "id" : 485261726921666560,
     "created_at" : "2014-07-05 03:19:46 +0000",
     "user" : {
-      "name" : "dan",
+      "name" : "\uD83C\uDF83 dan-yell ghoulan \uD83C\uDF83",
       "screen_name" : "dannolan",
       "protected" : false,
       "id_str" : "971761",
@@ -2994,7 +2994,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Z\uD83D\uDE31 W\uD83D\uDE31s",
+      "name" : "zeke.xml",
       "screen_name" : "zekeweeks",
       "indices" : [ 0, 10 ],
       "id_str" : "12923902",

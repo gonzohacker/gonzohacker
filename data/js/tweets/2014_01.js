@@ -412,9 +412,9 @@ Grailbird.data.tweets_2014_01 =
         "resize" : "fit",
         "w" : 600
       }, {
-        "h" : 340,
+        "h" : 600,
         "resize" : "fit",
-        "w" : 340
+        "w" : 600
       } ],
       "display_url" : "pic.twitter.com\/tRxkuUPYuk"
     } ],
@@ -1111,6 +1111,10 @@ Grailbird.data.tweets_2014_01 =
       "id" : 425728732293103616,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Beh-BsMCAAA9QK5.png",
       "sizes" : [ {
+        "h" : 490,
+        "resize" : "fit",
+        "w" : 416
+      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
@@ -1122,10 +1126,6 @@ Grailbird.data.tweets_2014_01 =
         "h" : 490,
         "resize" : "fit",
         "w" : 416
-      }, {
-        "h" : 400,
-        "resize" : "fit",
-        "w" : 340
       }, {
         "h" : 490,
         "resize" : "fit",
@@ -1236,6 +1236,57 @@ Grailbird.data.tweets_2014_01 =
   "text" : "Feel like jQuery in an Angular world",
   "id" : 424722877804326913,
   "created_at" : "2014-01-19 01:59:59 +0000",
+  "user" : {
+    "name" : "GonzoHacker",
+    "screen_name" : "GonzoHacker",
+    "protected" : false,
+    "id_str" : "773009000",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
+    "id" : 773009000,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "benatkin",
+      "screen_name" : "benatkin",
+      "indices" : [ 3, 12 ],
+      "id_str" : "64218381",
+      "id" : 64218381
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "424719348796637184",
+  "text" : "RT @benatkin: alias such=git\nalias very=rails\nalias many=rake\nalias so=heroku\nalias much=cd\nalias wow='git status'",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "424714117518086145",
+    "text" : "alias such=git\nalias very=rails\nalias many=rake\nalias so=heroku\nalias much=cd\nalias wow='git status'",
+    "id" : 424714117518086145,
+    "created_at" : "2014-01-19 01:25:11 +0000",
+    "user" : {
+      "name" : "benatkin",
+      "screen_name" : "benatkin",
+      "protected" : false,
+      "id_str" : "64218381",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/724703531240812544\/CGt-7t0w_normal.jpg",
+      "id" : 64218381,
+      "verified" : false
+    }
+  },
+  "id" : 424719348796637184,
+  "created_at" : "2014-01-19 01:45:58 +0000",
   "user" : {
     "name" : "GonzoHacker",
     "screen_name" : "GonzoHacker",
@@ -1644,13 +1695,13 @@ Grailbird.data.tweets_2014_01 =
         "resize" : "fit",
         "w" : 472
       }, {
-        "h" : 96,
-        "resize" : "fit",
-        "w" : 340
-      }, {
         "h" : 133,
         "resize" : "crop",
         "w" : 133
+      }, {
+        "h" : 133,
+        "resize" : "fit",
+        "w" : 472
       }, {
         "h" : 133,
         "resize" : "fit",
@@ -2318,7 +2369,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
+      "name" : "Bobtober  \uD83C\uDF83\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 0, 15 ],
       "id_str" : "121556767",
@@ -2386,9 +2437,9 @@ Grailbird.data.tweets_2014_01 =
         "resize" : "fit",
         "w" : 1019
       }, {
-        "h" : 407,
+        "h" : 691,
         "resize" : "fit",
-        "w" : 600
+        "w" : 1019
       }, {
         "h" : 150,
         "resize" : "crop",
@@ -2398,9 +2449,9 @@ Grailbird.data.tweets_2014_01 =
         "resize" : "fit",
         "w" : 1019
       }, {
-        "h" : 231,
+        "h" : 461,
         "resize" : "fit",
-        "w" : 340
+        "w" : 680
       } ],
       "display_url" : "pic.twitter.com\/xJg8Bm8FpD"
     } ],
@@ -2756,7 +2807,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
+      "name" : "Bobtober  \uD83C\uDF83\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 0, 15 ],
       "id_str" : "121556767",
@@ -3361,7 +3412,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Amy Hoy",
+      "name" : "Ghost Ships A Hoy \uD83D\uDC7B",
       "screen_name" : "amyhoy",
       "indices" : [ 3, 10 ],
       "id_str" : "627213",
@@ -3388,7 +3439,7 @@ Grailbird.data.tweets_2014_01 =
     "id" : 418851609268191232,
     "created_at" : "2014-01-02 21:09:40 +0000",
     "user" : {
-      "name" : "Amy Hoy",
+      "name" : "Ghost Ships A Hoy \uD83D\uDC7B",
       "screen_name" : "amyhoy",
       "protected" : false,
       "id_str" : "627213",
@@ -3489,7 +3540,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "service mensch",
+      "name" : "Oliver Gould",
       "screen_name" : "olix0r",
       "indices" : [ 0, 7 ],
       "id_str" : "53452791",

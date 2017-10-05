@@ -543,13 +543,13 @@ Grailbird.data.tweets_2013_07 =
         "resize" : "fit",
         "w" : 796
       }, {
-        "h" : 115,
+        "h" : 230,
         "resize" : "fit",
-        "w" : 340
+        "w" : 680
       }, {
-        "h" : 203,
+        "h" : 269,
         "resize" : "fit",
-        "w" : 600
+        "w" : 796
       } ],
       "display_url" : "pic.twitter.com\/853fXM0uaM"
     } ],
@@ -1187,7 +1187,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
+      "name" : "Bobtober  \uD83C\uDF83\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 3, 18 ],
       "id_str" : "121556767",
@@ -1231,7 +1231,7 @@ Grailbird.data.tweets_2013_07 =
     "in_reply_to_screen_name" : "GonzoHacker",
     "in_reply_to_user_id_str" : "773009000",
     "user" : {
-      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
+      "name" : "Bobtober  \uD83C\uDF83\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "protected" : false,
       "id_str" : "121556767",
@@ -1554,7 +1554,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "232863368",
       "id" : 232863368
     }, {
-      "name" : "Robbed ForCashian",
+      "name" : "Snacks Kellerman",
       "screen_name" : "jteeDC",
       "indices" : [ 15, 22 ],
       "id_str" : "69171795",
@@ -1980,7 +1980,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "salad bar ham cubes",
+      "name" : "vaporgrave",
       "screen_name" : "flangy",
       "indices" : [ 3, 10 ],
       "id_str" : "14209746",
@@ -2024,11 +2024,11 @@ Grailbird.data.tweets_2013_07 =
     "in_reply_to_screen_name" : "GonzoHacker",
     "in_reply_to_user_id_str" : "773009000",
     "user" : {
-      "name" : "salad bar ham cubes",
+      "name" : "vaporgrave",
       "screen_name" : "flangy",
       "protected" : false,
       "id_str" : "14209746",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/880847733732421632\/deBFzvuT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/913238906841186304\/6_lsGC46_normal.jpg",
       "id" : 14209746,
       "verified" : false
     }
@@ -2321,7 +2321,7 @@ Grailbird.data.tweets_2013_07 =
     "user" : {
       "name" : "Phil Darnowsky",
       "screen_name" : "PhilDarnowsky",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "16930130",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000515208563\/76d0685667e16cddd2e830195d42abc4_normal.jpeg",
       "id" : 16930130,
@@ -2627,7 +2627,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jean von cl\u00F8\u00FCdb\u00E4nk",
+      "name" : "sinus wave",
       "screen_name" : "whit",
       "indices" : [ 3, 8 ],
       "id_str" : "17974018",
@@ -2671,11 +2671,11 @@ Grailbird.data.tweets_2013_07 =
     "in_reply_to_screen_name" : "GonzoHacker",
     "in_reply_to_user_id_str" : "773009000",
     "user" : {
-      "name" : "jean von cl\u00F8\u00FCdb\u00E4nk",
+      "name" : "sinus wave",
       "screen_name" : "whit",
       "protected" : false,
       "id_str" : "17974018",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/849134521651929088\/KGQdxgwX_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/913386893915463680\/sQ5CwiLE_normal.jpg",
       "id" : 17974018,
       "verified" : false
     }
@@ -3435,7 +3435,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eugene, a tea lizard",
+      "name" : "Pumpkin Spice Eugene",
       "screen_name" : "eventi",
       "indices" : [ 0, 7 ],
       "id_str" : "850",
@@ -3468,7 +3468,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Digital grey goo",
+      "name" : "Sargoth| bird aspect",
       "screen_name" : "sargoth",
       "indices" : [ 0, 8 ],
       "id_str" : "15002329",
@@ -4296,7 +4296,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
+      "name" : "Bobtober  \uD83C\uDF83\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 0, 15 ],
       "id_str" : "121556767",
@@ -4448,17 +4448,17 @@ Grailbird.data.tweets_2013_07 =
         "resize" : "fit",
         "w" : 901
       }, {
+        "h" : 598,
+        "resize" : "fit",
+        "w" : 680
+      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 299,
+        "h" : 792,
         "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 527,
-        "resize" : "fit",
-        "w" : 600
+        "w" : 901
       } ],
       "display_url" : "pic.twitter.com\/bDoriqJPOQ"
     } ],
@@ -4626,7 +4626,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ashe dryden",
+      "name" : "lesbian in space",
       "screen_name" : "ashedryden",
       "indices" : [ 0, 11 ],
       "id_str" : "9510922",
@@ -4714,7 +4714,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ashe dryden",
+      "name" : "lesbian in space",
       "screen_name" : "ashedryden",
       "indices" : [ 0, 11 ],
       "id_str" : "9510922",
@@ -4821,7 +4821,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
+      "name" : "Bobtober  \uD83C\uDF83\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 3, 18 ],
       "id_str" : "121556767",
@@ -4865,7 +4865,7 @@ Grailbird.data.tweets_2013_07 =
     "in_reply_to_screen_name" : "GonzoHacker",
     "in_reply_to_user_id_str" : "773009000",
     "user" : {
-      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
+      "name" : "Bobtober  \uD83C\uDF83\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "protected" : false,
       "id_str" : "121556767",
@@ -5162,7 +5162,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u26A1\uFE0Fgabr13l\u26A1\uFE0F",
+      "name" : "Gabriel Cardona",
       "screen_name" : "cgcardona",
       "indices" : [ 3, 13 ],
       "id_str" : "149370826",
@@ -5206,11 +5206,11 @@ Grailbird.data.tweets_2013_07 =
     "in_reply_to_screen_name" : "GonzoHacker",
     "in_reply_to_user_id_str" : "773009000",
     "user" : {
-      "name" : "\u26A1\uFE0Fgabr13l\u26A1\uFE0F",
+      "name" : "Gabriel Cardona",
       "screen_name" : "cgcardona",
       "protected" : false,
       "id_str" : "149370826",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/866796005395771393\/xCC6Gx15_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/903670763466645504\/IlG-8yE7_normal.jpg",
       "id" : 149370826,
       "verified" : false
     }
@@ -5230,7 +5230,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
+      "name" : "Bobtober  \uD83C\uDF83\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 3, 18 ],
       "id_str" : "121556767",
@@ -5279,7 +5279,7 @@ Grailbird.data.tweets_2013_07 =
     "id" : 354270530242744320,
     "created_at" : "2013-07-08 16:07:31 +0000",
     "user" : {
-      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
+      "name" : "Bobtober  \uD83C\uDF83\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "protected" : false,
       "id_str" : "121556767",
@@ -5369,7 +5369,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Adam Howard \uD83D\uDDFD",
+      "name" : "Basic Adz",
       "screen_name" : "skattyadz",
       "indices" : [ 0, 10 ],
       "id_str" : "4675238256",
@@ -5402,7 +5402,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Adam Howard \uD83D\uDDFD",
+      "name" : "Basic Adz",
       "screen_name" : "skattyadz",
       "indices" : [ 0, 10 ],
       "id_str" : "4675238256",
@@ -5506,9 +5506,9 @@ Grailbird.data.tweets_2013_07 =
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 227,
+        "h" : 300,
         "resize" : "fit",
-        "w" : 340
+        "w" : 450
       }, {
         "h" : 300,
         "resize" : "fit",

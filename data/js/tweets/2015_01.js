@@ -124,7 +124,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eric Wood \u1D47\u1D49\u1D57\u1D43",
+      "name" : "eric",
       "screen_name" : "eric_b_wood",
       "indices" : [ 0, 12 ],
       "id_str" : "110202631",
@@ -1282,13 +1282,13 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jennmoneydollars",
+      "name" : "daddy long legs",
       "screen_name" : "jennschiffer",
       "indices" : [ 0, 13 ],
       "id_str" : "12524622",
       "id" : 12524622
     }, {
-      "name" : "Andreas.",
+      "name" : "Cascading Failure",
       "screen_name" : "antifuchs",
       "indices" : [ 14, 24 ],
       "id_str" : "5695112",
@@ -1387,7 +1387,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Atlassian HipChat",
+      "name" : "Atlassian Hipchat",
       "screen_name" : "HipChat",
       "indices" : [ 22, 30 ],
       "id_str" : "17810599",
@@ -2365,7 +2365,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Emma Evans, Rebel",
+      "name" : "\uD83C\uDF83 2017een \uD83C\uDF83",
       "screen_name" : "TrancewithMe",
       "indices" : [ 3, 16 ],
       "id_str" : "67727088",
@@ -2398,7 +2398,7 @@ Grailbird.data.tweets_2015_01 =
     "id" : 552702499484758016,
     "created_at" : "2015-01-07 05:45:19 +0000",
     "user" : {
-      "name" : "Emma Evans, Rebel",
+      "name" : "\uD83C\uDF83 2017een \uD83C\uDF83",
       "screen_name" : "TrancewithMe",
       "protected" : false,
       "id_str" : "67727088",
@@ -2578,7 +2578,7 @@ Grailbird.data.tweets_2015_01 =
       "id_str" : "16364936",
       "id" : 16364936
     }, {
-      "name" : "\u26A1\uFE0Fgabr13l\u26A1\uFE0F",
+      "name" : "Gabriel Cardona",
       "screen_name" : "cgcardona",
       "indices" : [ 8, 18 ],
       "id_str" : "149370826",

@@ -3797,72 +3797,6 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "eri\u03BA",
-      "screen_name" : "erikwithfriends",
-      "indices" : [ 3, 19 ],
-      "id_str" : "397562050",
-      "id" : 397562050
-    }, {
-      "name" : "GonzoHacker",
-      "screen_name" : "GonzoHacker",
-      "indices" : [ 21, 33 ],
-      "id_str" : "773009000",
-      "id" : 773009000
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "366389887085187072",
-  "text" : "RT @ErikWithFriends: @GonzoHacker getting my bitcoin address tattooed on my arm",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "GonzoHacker",
-        "screen_name" : "GonzoHacker",
-        "indices" : [ 0, 12 ],
-        "id_str" : "773009000",
-        "id" : 773009000
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "366380381097832448",
-    "in_reply_to_user_id" : 773009000,
-    "text" : "@GonzoHacker getting my bitcoin address tattooed on my arm",
-    "id" : 366380381097832448,
-    "created_at" : "2013-08-11 02:07:44 +0000",
-    "in_reply_to_screen_name" : "GonzoHacker",
-    "in_reply_to_user_id_str" : "773009000",
-    "user" : {
-      "name" : "eri\u03BA",
-      "screen_name" : "erikwithfriends",
-      "protected" : false,
-      "id_str" : "397562050",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2948648479\/69fc2b276ff13309bad7a3fe49c516ac_normal.jpeg",
-      "id" : 397562050,
-      "verified" : false
-    }
-  },
-  "id" : 366389887085187072,
-  "created_at" : "2013-08-11 02:45:30 +0000",
-  "user" : {
-    "name" : "GonzoHacker",
-    "screen_name" : "GonzoHacker",
-    "protected" : false,
-    "id_str" : "773009000",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
-    "id" : 773009000,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -4077,7 +4011,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "jessek",
       "protected" : false,
       "id_str" : "5366562",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/852605637892747264\/Vpmhlaue_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/914765537208524801\/vWwd9B0G_normal.jpg",
       "id" : 5366562,
       "verified" : false
     }
@@ -4909,13 +4843,13 @@ Grailbird.data.tweets_2013_08 =
         "resize" : "fit",
         "w" : 670
       }, {
-        "h" : 537,
+        "h" : 600,
         "resize" : "fit",
-        "w" : 600
+        "w" : 670
       }, {
-        "h" : 304,
+        "h" : 600,
         "resize" : "fit",
-        "w" : 340
+        "w" : 670
       } ],
       "display_url" : "pic.twitter.com\/AjflGyftn5"
     } ],

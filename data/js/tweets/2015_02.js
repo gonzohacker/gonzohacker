@@ -212,7 +212,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "A Dream Like an Echo",
+      "name" : "resting witch face",
       "screen_name" : "CoralineAda",
       "indices" : [ 3, 15 ],
       "id_str" : "9526722",
@@ -239,11 +239,11 @@ Grailbird.data.tweets_2015_02 =
     "id" : 571356340498464768,
     "created_at" : "2015-02-27 17:09:01 +0000",
     "user" : {
-      "name" : "A Dream Like an Echo",
+      "name" : "resting witch face",
       "screen_name" : "CoralineAda",
       "protected" : false,
       "id_str" : "9526722",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/882599816731209728\/uCCyIUL__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/902661803984945152\/Yn4QL7UM_normal.jpg",
       "id" : 9526722,
       "verified" : true
     }
@@ -380,13 +380,13 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u674F",
+      "name" : "\uD83D\uDC7C\u0104\u017C\u674F",
       "screen_name" : "angealbertini",
       "indices" : [ 0, 14 ],
       "id_str" : "26000458",
       "id" : 26000458
     }, {
-      "name" : "cryptopotato w\/ \uD83E\uDDC0\uD83E\uDD53",
+      "name" : "CRYPTONOMICON\uD83D\uDCD5",
       "screen_name" : "cryptoishard",
       "indices" : [ 15, 28 ],
       "id_str" : "1058788472",
@@ -627,7 +627,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "sic, entire sentence",
+      "name" : "Bert Muthalaly",
       "screen_name" : "stijlist",
       "indices" : [ 3, 12 ],
       "id_str" : "885413604",
@@ -654,11 +654,11 @@ Grailbird.data.tweets_2015_02 =
     "id" : 570390265225187329,
     "created_at" : "2015-02-25 01:10:11 +0000",
     "user" : {
-      "name" : "sic, entire sentence",
+      "name" : "Bert Muthalaly",
       "screen_name" : "stijlist",
       "protected" : false,
       "id_str" : "885413604",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/807986314347970560\/lGkju2xb_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/898521606716305408\/UEjzgNgG_normal.jpg",
       "id" : 885413604,
       "verified" : false
     }
@@ -1419,7 +1419,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
+      "name" : "Bobtober  \uD83C\uDF83\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 3, 18 ],
       "id_str" : "121556767",
@@ -1463,7 +1463,7 @@ Grailbird.data.tweets_2015_02 =
     "in_reply_to_screen_name" : "GonzoHacker",
     "in_reply_to_user_id_str" : "773009000",
     "user" : {
-      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
+      "name" : "Bobtober  \uD83C\uDF83\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "protected" : false,
       "id_str" : "121556767",
@@ -2958,7 +2958,7 @@ Grailbird.data.tweets_2015_02 =
       "screen_name" : "jessitron",
       "protected" : false,
       "id_str" : "25103",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/728251919467057152\/Z2uk49Ww_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/893202935009615872\/ef-H8FtJ_normal.jpg",
       "id" : 25103,
       "verified" : false
     }

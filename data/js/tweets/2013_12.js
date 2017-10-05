@@ -765,7 +765,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "wendys adams",
+      "name" : "vampires \uD83D\uDC9E\uD83C\uDD7F\uFE0F\u2139\uFE0F\uD83D\uDCB2\uD83D\uDCB2",
       "screen_name" : "porkbeard",
       "indices" : [ 3, 13 ],
       "id_str" : "6296832",
@@ -792,11 +792,11 @@ Grailbird.data.tweets_2013_12 =
     "id" : 296920453442842625,
     "created_at" : "2013-01-31 09:58:47 +0000",
     "user" : {
-      "name" : "wendys adams",
+      "name" : "vampires \uD83D\uDC9E\uD83C\uDD7F\uFE0F\u2139\uFE0F\uD83D\uDCB2\uD83D\uDCB2",
       "screen_name" : "porkbeard",
       "protected" : false,
       "id_str" : "6296832",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/867111840114987008\/z4B2dDT__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/893329175834013696\/L_I3T82f_normal.jpg",
       "id" : 6296832,
       "verified" : false
     }
@@ -843,7 +843,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "salad bar ham cubes",
+      "name" : "vaporgrave",
       "screen_name" : "flangy",
       "indices" : [ 0, 7 ],
       "id_str" : "14209746",
@@ -1608,13 +1608,7 @@ Grailbird.data.tweets_2013_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Mr COOL",
-      "screen_name" : "performancefart",
-      "indices" : [ 0, 16 ],
-      "id_str" : "793728234466619392",
-      "id" : 793728234466619392
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1636,13 +1630,7 @@ Grailbird.data.tweets_2013_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Mr COOL",
-      "screen_name" : "performancefart",
-      "indices" : [ 0, 16 ],
-      "id_str" : "793728234466619392",
-      "id" : 793728234466619392
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1920,21 +1908,21 @@ Grailbird.data.tweets_2013_12 =
         "resize" : "fit",
         "w" : 2048
       }, {
+        "h" : 479,
+        "resize" : "fit",
+        "w" : 680
+      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 239,
+        "h" : 845,
         "resize" : "fit",
-        "w" : 340
+        "w" : 1200
       }, {
-        "h" : 721,
+        "h" : 1442,
         "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 422,
-        "resize" : "fit",
-        "w" : 600
+        "w" : 2048
       } ],
       "display_url" : "pic.twitter.com\/mwNgnzFSK1"
     } ],
@@ -3015,7 +3003,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "levie",
       "protected" : false,
       "id_str" : "914061",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1626898956\/twitter_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/885529357904510976\/tM0vLiYS_normal.jpg",
       "id" : 914061,
       "verified" : true
     }
@@ -4710,7 +4698,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jennmoneydollars",
+      "name" : "daddy long legs",
       "screen_name" : "jennschiffer",
       "indices" : [ 0, 13 ],
       "id_str" : "12524622",
@@ -5372,7 +5360,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
+      "name" : "Bobtober  \uD83C\uDF83\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "indices" : [ 3, 18 ],
       "id_str" : "121556767",
@@ -5419,7 +5407,7 @@ Grailbird.data.tweets_2013_12 =
     "in_reply_to_screen_name" : "GonzoHacker",
     "in_reply_to_user_id_str" : "773009000",
     "user" : {
-      "name" : "Bob  \uD83C\uDF09\u27A1\uFE0F\uD83C\uDF51 | \uD83C\uDF39",
+      "name" : "Bobtober  \uD83C\uDF83\uD83C\uDF51 | \uD83C\uDF39",
       "screen_name" : "languagehacker",
       "protected" : false,
       "id_str" : "121556767",
@@ -5663,13 +5651,13 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "haute tak\u00E9",
+      "name" : "funemployedineau",
       "screen_name" : "dcousineau",
       "indices" : [ 0, 11 ],
       "id_str" : "14738275",
       "id" : 14738275
     }, {
-      "name" : "schwifty schnipe",
+      "name" : "mother of assets \uD83D\uDC3E",
       "screen_name" : "snipeyhead",
       "indices" : [ 12, 23 ],
       "id_str" : "14246782",

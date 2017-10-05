@@ -315,7 +315,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Citizen Of Europe",
+      "name" : "Mr Blue Sky",
       "screen_name" : "mhsutton",
       "indices" : [ 93, 102 ],
       "id_str" : "14980953",
@@ -2783,7 +2783,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "padresj",
       "protected" : false,
       "id_str" : "15834599",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/877047264136503296\/EaBgKl-z_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/895380210471677952\/tw3gatur_normal.jpg",
       "id" : 15834599,
       "verified" : true
     }
@@ -2905,7 +2905,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Will Gallego",
+      "name" : "Wail Galleghoul",
       "screen_name" : "wcgallego",
       "indices" : [ 0, 10 ],
       "id_str" : "11800282",
@@ -2969,7 +2969,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "jessitron",
       "protected" : false,
       "id_str" : "25103",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/728251919467057152\/Z2uk49Ww_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/893202935009615872\/ef-H8FtJ_normal.jpg",
       "id" : 25103,
       "verified" : false
     }
@@ -3360,7 +3360,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Will Gallego",
+      "name" : "Wail Galleghoul",
       "screen_name" : "wcgallego",
       "indices" : [ 3, 13 ],
       "id_str" : "11800282",
@@ -3404,7 +3404,7 @@ Grailbird.data.tweets_2012_09 =
     "in_reply_to_screen_name" : "GonzoHacker",
     "in_reply_to_user_id_str" : "773009000",
     "user" : {
-      "name" : "Will Gallego",
+      "name" : "Wail Galleghoul",
       "screen_name" : "wcgallego",
       "protected" : false,
       "id_str" : "11800282",
@@ -4965,7 +4965,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "Cennydd",
       "protected" : false,
       "id_str" : "68003",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/840303405709049856\/tZKLlG_B_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/913073641004421120\/8_mV8oFO_normal.jpg",
       "id" : 68003,
       "verified" : false
     }
@@ -5226,74 +5226,6 @@ Grailbird.data.tweets_2012_09 =
   "created_at" : "2012-09-08 01:52:21 +0000",
   "in_reply_to_screen_name" : "Han_Cholo",
   "in_reply_to_user_id_str" : "15436161",
-  "user" : {
-    "name" : "GonzoHacker",
-    "screen_name" : "GonzoHacker",
-    "protected" : false,
-    "id_str" : "773009000",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
-    "id" : 773009000,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Hans",
-      "screen_name" : "zephyrfalcon",
-      "indices" : [ 3, 16 ],
-      "id_str" : "783023778632765440",
-      "id" : 783023778632765440
-    }, {
-      "name" : "GonzoHacker",
-      "screen_name" : "GonzoHacker",
-      "indices" : [ 18, 30 ],
-      "id_str" : "773009000",
-      "id" : 773009000
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "244248280098287616",
-  "text" : "RT @zephyrfalcon: @GonzoHacker It would be better if it said \"some friends and some bronies\". :)",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "GonzoHacker",
-        "screen_name" : "GonzoHacker",
-        "indices" : [ 0, 12 ],
-        "id_str" : "773009000",
-        "id" : 773009000
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "in_reply_to_status_id_str" : "244166773266604032",
-    "geo" : { },
-    "id_str" : "244215843569954816",
-    "in_reply_to_user_id" : 773009000,
-    "text" : "@GonzoHacker It would be better if it said \"some friends and some bronies\". :)",
-    "id" : 244215843569954816,
-    "in_reply_to_status_id" : 244166773266604032,
-    "created_at" : "2012-09-07 23:29:29 +0000",
-    "in_reply_to_screen_name" : "GonzoHacker",
-    "in_reply_to_user_id_str" : "773009000",
-    "user" : {
-      "name" : "Hans X \uD83D\uDD6F",
-      "screen_name" : "__hansx__",
-      "protected" : false,
-      "id_str" : "10278632",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/790881283266252800\/mvX3OYer_normal.jpg",
-      "id" : 10278632,
-      "verified" : false
-    }
-  },
-  "id" : 244248280098287616,
-  "created_at" : "2012-09-08 01:38:22 +0000",
   "user" : {
     "name" : "GonzoHacker",
     "screen_name" : "GonzoHacker",

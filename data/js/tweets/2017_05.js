@@ -298,7 +298,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FrankTheTank",
+      "name" : "\u3164\u3164\u3164",
       "screen_name" : "TheDevilsVoice",
       "indices" : [ 0, 15 ],
       "id_str" : "853418136",
@@ -383,7 +383,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FrankTheTank",
+      "name" : "\u3164\u3164\u3164",
       "screen_name" : "TheDevilsVoice",
       "indices" : [ 0, 15 ],
       "id_str" : "853418136",
@@ -2014,7 +2014,7 @@ Grailbird.data.tweets_2017_05 =
       "id_str" : "1626294277",
       "id" : 1626294277
     }, {
-      "name" : "HRH Greg of ACAB",
+      "name" : "\uD83D\uDC80Cryptid Greg \u2368",
       "screen_name" : "Greg_Sideyr",
       "indices" : [ 24, 36 ],
       "id_str" : "2621110917",
@@ -3454,7 +3454,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Multi-Tool",
+      "name" : "Din of Inequity",
       "screen_name" : "neilscudder",
       "indices" : [ 0, 12 ],
       "id_str" : "11961412",
@@ -3827,7 +3827,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ben Fagin",
+      "name" : "Carothers",
       "screen_name" : "UnquietCode",
       "indices" : [ 0, 12 ],
       "id_str" : "619232779",
@@ -4620,7 +4620,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tactical Maid \uD83D\uDC9C",
+      "name" : "Tactical Maid \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "tacticalmaid",
       "indices" : [ 0, 13 ],
       "id_str" : "14439107",
@@ -4653,7 +4653,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jeremy Wadhams",
+      "name" : "Jeremy of the Dead\uD83D\uDC80",
       "screen_name" : "JeremyWadhams",
       "indices" : [ 3, 17 ],
       "id_str" : "564071545",
@@ -4697,7 +4697,7 @@ Grailbird.data.tweets_2017_05 =
     "in_reply_to_screen_name" : "GonzoHacker",
     "in_reply_to_user_id_str" : "773009000",
     "user" : {
-      "name" : "Jeremy Wadhams",
+      "name" : "Jeremy of the Dead\uD83D\uDC80",
       "screen_name" : "JeremyWadhams",
       "protected" : false,
       "id_str" : "564071545",
@@ -4721,7 +4721,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jeremy Wadhams",
+      "name" : "Jeremy of the Dead\uD83D\uDC80",
       "screen_name" : "JeremyWadhams",
       "indices" : [ 0, 14 ],
       "id_str" : "564071545",
@@ -5163,7 +5163,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Gunnar Gissel \uD83D\uDC21",
+      "name" : "Gunnar Gissel \uD83C\uDFA3\uD83E\uDD14",
       "screen_name" : "monknomo",
       "indices" : [ 0, 9 ],
       "id_str" : "289739768",
@@ -5202,7 +5202,7 @@ Grailbird.data.tweets_2017_05 =
       "id_str" : "198945844",
       "id" : 198945844
     }, {
-      "name" : "Michael Elliott",
+      "name" : "Mike Elliott",
       "screen_name" : "elliotecweb",
       "indices" : [ 13, 25 ],
       "id_str" : "829913083",
@@ -5262,7 +5262,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Michael Elliott",
+      "name" : "Mike Elliott",
       "screen_name" : "elliotecweb",
       "indices" : [ 0, 12 ],
       "id_str" : "829913083",
@@ -6045,62 +6045,6 @@ Grailbird.data.tweets_2017_05 =
   "text" : "Ivanka rocking that vocal fry before it was cool https:\/\/t.co\/yhLKz1CEkS",
   "id" : 866148670399549440,
   "created_at" : "2017-05-21 04:28:29 +0000",
-  "user" : {
-    "name" : "GonzoHacker",
-    "screen_name" : "GonzoHacker",
-    "protected" : false,
-    "id_str" : "773009000",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698208463449489408\/qJuiSmrC_normal.jpg",
-    "id" : 773009000,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "0d-cody\u2615\uFE0F",
-      "screen_name" : "valarauca1",
-      "indices" : [ 3, 14 ],
-      "id_str" : "4345549096",
-      "id" : 4345549096
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "866132087228829696",
-  "text" : "RT @valarauca1: Realistically planets that formed &gt;2-3 billion years before earth (while possible) never had the metals to build civilizati\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "in_reply_to_status_id_str" : "866127002180268033",
-    "geo" : { },
-    "id_str" : "866127595066216448",
-    "in_reply_to_user_id" : 4345549096,
-    "text" : "Realistically planets that formed &gt;2-3 billion years before earth (while possible) never had the metals to build civilization.",
-    "id" : 866127595066216448,
-    "in_reply_to_status_id" : 866127002180268033,
-    "created_at" : "2017-05-21 03:04:45 +0000",
-    "in_reply_to_screen_name" : "valarauca1",
-    "in_reply_to_user_id_str" : "4345549096",
-    "user" : {
-      "name" : "0d-cody\u2615\uFE0F",
-      "screen_name" : "valarauca1",
-      "protected" : false,
-      "id_str" : "4345549096",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879923299764940800\/9OVC_kkh_normal.jpg",
-      "id" : 4345549096,
-      "verified" : false
-    }
-  },
-  "id" : 866132087228829696,
-  "created_at" : "2017-05-21 03:22:36 +0000",
   "user" : {
     "name" : "GonzoHacker",
     "screen_name" : "GonzoHacker",
@@ -8609,7 +8553,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jesse Hatta.bike",
+      "name" : "Jesse\u2615Hattabaugh",
       "screen_name" : "arkanciscan",
       "indices" : [ 0, 12 ],
       "id_str" : "11345",
@@ -9519,7 +9463,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDD92 horse",
+      "name" : "skull",
       "screen_name" : "HappyHorseSkull",
       "indices" : [ 0, 16 ],
       "id_str" : "143789061",
@@ -9552,7 +9496,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDD92 horse",
+      "name" : "skull",
       "screen_name" : "HappyHorseSkull",
       "indices" : [ 0, 16 ],
       "id_str" : "143789061",
@@ -9585,7 +9529,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDD92 horse",
+      "name" : "skull",
       "screen_name" : "HappyHorseSkull",
       "indices" : [ 3, 19 ],
       "id_str" : "143789061",
@@ -9612,7 +9556,7 @@ Grailbird.data.tweets_2017_05 =
     "id" : 863954991001866244,
     "created_at" : "2017-05-15 03:11:36 +0000",
     "user" : {
-      "name" : "\uD83C\uDD92 horse",
+      "name" : "skull",
       "screen_name" : "HappyHorseSkull",
       "protected" : false,
       "id_str" : "143789061",
@@ -9636,7 +9580,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDD92 horse",
+      "name" : "skull",
       "screen_name" : "HappyHorseSkull",
       "indices" : [ 0, 16 ],
       "id_str" : "143789061",
@@ -9699,7 +9643,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDD92 horse",
+      "name" : "skull",
       "screen_name" : "HappyHorseSkull",
       "indices" : [ 0, 16 ],
       "id_str" : "143789061",
@@ -9876,7 +9820,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "GoodeSirPixelNull",
+      "name" : "\/dev\/null\/pixel",
       "screen_name" : "pixelnull",
       "indices" : [ 0, 10 ],
       "id_str" : "3146769570",
@@ -12558,7 +12502,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "hyper@localhost:~ $",
+      "name" : "hyperdude",
       "screen_name" : "_hyperlogic",
       "indices" : [ 0, 12 ],
       "id_str" : "1269339559",
@@ -12576,7 +12520,7 @@ Grailbird.data.tweets_2017_05 =
       "id_str" : "207617689",
       "id" : 207617689
     }, {
-      "name" : "Pubtato\uD83C\uDF31",
+      "name" : "STRONGBONES2U",
       "screen_name" : "da_667",
       "indices" : [ 38, 45 ],
       "id_str" : "717353881",
@@ -12588,7 +12532,7 @@ Grailbird.data.tweets_2017_05 =
       "id_str" : "132061896",
       "id" : 132061896
     }, {
-      "name" : "show me the code.",
+      "name" : "(\u261E\uFF9F\u2200\uFF9F)\u261E primeribboy",
       "screen_name" : "DoerteDev",
       "indices" : [ 57, 67 ],
       "id_str" : "112487498",
@@ -12663,7 +12607,7 @@ Grailbird.data.tweets_2017_05 =
       "id_str" : "2269701",
       "id" : 2269701
     }, {
-      "name" : "show me the code.",
+      "name" : "(\u261E\uFF9F\u2200\uFF9F)\u261E primeribboy",
       "screen_name" : "DoerteDev",
       "indices" : [ 41, 51 ],
       "id_str" : "112487498",
@@ -12675,7 +12619,7 @@ Grailbird.data.tweets_2017_05 =
       "id_str" : "8513352",
       "id" : 8513352
     }, {
-      "name" : "Pubtato\uD83C\uDF31",
+      "name" : "STRONGBONES2U",
       "screen_name" : "da_667",
       "indices" : [ 59, 66 ],
       "id_str" : "717353881",
@@ -14496,7 +14440,7 @@ Grailbird.data.tweets_2017_05 =
       "screen_name" : "endrift",
       "protected" : false,
       "id_str" : "333125785",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/833393273616035840\/WurZppPY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/902020852723486721\/kv7gRjgp_normal.jpg",
       "id" : 333125785,
       "verified" : false
     }
@@ -16432,7 +16376,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Greg Schueler",
+      "name" : "Greg Schueler \uD83C\uDF36",
       "screen_name" : "gschueler",
       "indices" : [ 0, 10 ],
       "id_str" : "683033",
@@ -17542,7 +17486,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "HRH Greg of ACAB",
+      "name" : "\uD83D\uDC80Cryptid Greg \u2368",
       "screen_name" : "Greg_Sideyr",
       "indices" : [ 0, 12 ],
       "id_str" : "2621110917",
@@ -17627,7 +17571,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Oh Sheit It's Ex",
+      "name" : "Malaclypse the 4th",
       "screen_name" : "Expatriot32",
       "indices" : [ 0, 12 ],
       "id_str" : "483329015",
